@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(git -C \"D:/Vault/Future/2025_Problem_C\" log --oneline --all)",
-      "Bash(git -C \"D:/Vault/Future/2025_Problem_C\" ls-files \"2025_Problem_C_Data/\")"
+      "Bash(git -C \"D:/Vault/Future/2025_Problem_C\" ls-files \"2025_Problem_C_Data/\")",
+      "Bash(python src/utils/config.py)"
     ]
   }
 }

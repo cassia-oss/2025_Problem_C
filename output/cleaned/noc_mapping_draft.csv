@@ -28,8 +28,8 @@ ARG,Argentina-1,NO,Argentina,country
 ARG,Matrero II,NO,Argentina,country
 ARG,Argentina,YES,Argentina,country
 ARM,Armenia,YES,Armenia,country
-ARU,Aruba,NO,Australia,country
-ASA,American Samoa,NO,Australia,country
+ARU,Aruba,NO,Aruba,country
+ASA,American Samoa,NO,American Samoa,country
 AUS,Hornet,NO,Australia,country
 AUS,Barrenjoey,NO,Australia,country
 AUS,Falcon VI,NO,Australia,country
@@ -562,8 +562,8 @@ GBR,Dormy-1,NO,Great Britain,country
 GBR,Potsdam,NO,Great Britain,country
 GBR,Great Britain,YES,Great Britain,country
 GBR,Ireland,YES,Ireland,country
-GBS,Guinea-Bissau,NO,East Germany,historical_different
-GBS,Guinea Bissau,NO,East Germany,historical_different
+GBS,Guinea-Bissau,NO,Guinea Bissau,historical_different
+GBS,Guinea Bissau,NO,Guinea Bissau,historical_different
 GDR,East Germany-2,NO,East Germany,historical_different
 GDR,East Germany-3,NO,East Germany,historical_different
 GDR,East Germany-1,NO,East Germany,historical_different
@@ -674,7 +674,7 @@ INA,Indonesia,YES,Indonesia,country
 IND,India-2,NO,India,country
 IND,India-1,NO,India,country
 IND,India,YES,India,country
-IOA,Individual Olympic Athletes,NO,Iran,country
+IOA,Individual Olympic Athletes,NO,Individual Olympic Athletes,special
 IRI,IR Iran,NO,Iran,country
 IRI,Iran,YES,Iran,country
 IRL,Ireland-1,NO,Ireland,country
