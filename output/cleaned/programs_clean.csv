@@ -1,0 +1,2131 @@
+Sport,Discipline,Code,Year,EventCount,is_demo,status_code
+Aquatics,Artistic Swimming,SWA,1896,0,0,official
+Aquatics,Artistic Swimming,SWA,1900,0,0,official
+Aquatics,Artistic Swimming,SWA,1904,0,0,official
+Aquatics,Artistic Swimming,SWA,1908,0,0,official
+Aquatics,Artistic Swimming,SWA,1912,0,0,official
+Aquatics,Artistic Swimming,SWA,1920,0,0,official
+Aquatics,Artistic Swimming,SWA,1924,0,0,official
+Aquatics,Artistic Swimming,SWA,1928,0,0,official
+Aquatics,Artistic Swimming,SWA,1932,0,0,official
+Aquatics,Artistic Swimming,SWA,1936,0,0,official
+Aquatics,Artistic Swimming,SWA,1948,0,0,official
+Aquatics,Artistic Swimming,SWA,1952,0,0,official
+Aquatics,Artistic Swimming,SWA,1956,0,0,official
+Aquatics,Artistic Swimming,SWA,1960,0,0,official
+Aquatics,Artistic Swimming,SWA,1964,0,0,official
+Aquatics,Artistic Swimming,SWA,1968,0,0,official
+Aquatics,Artistic Swimming,SWA,1972,0,0,official
+Aquatics,Artistic Swimming,SWA,1976,0,0,official
+Aquatics,Artistic Swimming,SWA,1980,0,0,official
+Aquatics,Artistic Swimming,SWA,1984,2,0,official
+Aquatics,Artistic Swimming,SWA,1988,2,0,official
+Aquatics,Artistic Swimming,SWA,1992,2,0,official
+Aquatics,Artistic Swimming,SWA,1996,1,0,official
+Aquatics,Artistic Swimming,SWA,2000,2,0,official
+Aquatics,Artistic Swimming,SWA,2004,2,0,official
+Aquatics,Artistic Swimming,SWA,2008,2,0,official
+Aquatics,Artistic Swimming,SWA,2012,2,0,official
+Aquatics,Artistic Swimming,SWA,2016,2,0,official
+Aquatics,Artistic Swimming,SWA,2020,2,0,official
+Aquatics,Artistic Swimming,SWA,2024,2,0,official
+Aquatics,Diving,DIV,1896,0,0,official
+Aquatics,Diving,DIV,1900,0,0,official
+Aquatics,Diving,DIV,1904,2,0,official
+Aquatics,Diving,DIV,1908,2,0,official
+Aquatics,Diving,DIV,1912,4,0,official
+Aquatics,Diving,DIV,1920,5,0,official
+Aquatics,Diving,DIV,1924,5,0,official
+Aquatics,Diving,DIV,1928,4,0,official
+Aquatics,Diving,DIV,1932,4,0,official
+Aquatics,Diving,DIV,1936,4,0,official
+Aquatics,Diving,DIV,1948,4,0,official
+Aquatics,Diving,DIV,1952,4,0,official
+Aquatics,Diving,DIV,1956,4,0,official
+Aquatics,Diving,DIV,1960,4,0,official
+Aquatics,Diving,DIV,1964,4,0,official
+Aquatics,Diving,DIV,1968,4,0,official
+Aquatics,Diving,DIV,1972,4,0,official
+Aquatics,Diving,DIV,1976,4,0,official
+Aquatics,Diving,DIV,1980,4,0,official
+Aquatics,Diving,DIV,1984,4,0,official
+Aquatics,Diving,DIV,1988,4,0,official
+Aquatics,Diving,DIV,1992,4,0,official
+Aquatics,Diving,DIV,1996,4,0,official
+Aquatics,Diving,DIV,2000,8,0,official
+Aquatics,Diving,DIV,2004,8,0,official
+Aquatics,Diving,DIV,2008,8,0,official
+Aquatics,Diving,DIV,2012,8,0,official
+Aquatics,Diving,DIV,2016,8,0,official
+Aquatics,Diving,DIV,2020,8,0,official
+Aquatics,Diving,DIV,2024,8,0,official
+Aquatics,Marathon Swimming,OWS,1896,0,0,official
+Aquatics,Marathon Swimming,OWS,1900,0,0,official
+Aquatics,Marathon Swimming,OWS,1904,0,0,official
+Aquatics,Marathon Swimming,OWS,1908,0,0,official
+Aquatics,Marathon Swimming,OWS,1912,0,0,official
+Aquatics,Marathon Swimming,OWS,1920,0,0,official
+Aquatics,Marathon Swimming,OWS,1924,0,0,official
+Aquatics,Marathon Swimming,OWS,1928,0,0,official
+Aquatics,Marathon Swimming,OWS,1932,0,0,official
+Aquatics,Marathon Swimming,OWS,1936,0,0,official
+Aquatics,Marathon Swimming,OWS,1948,0,0,official
+Aquatics,Marathon Swimming,OWS,1952,0,0,official
+Aquatics,Marathon Swimming,OWS,1956,0,0,official
+Aquatics,Marathon Swimming,OWS,1960,0,0,official
+Aquatics,Marathon Swimming,OWS,1964,0,0,official
+Aquatics,Marathon Swimming,OWS,1968,0,0,official
+Aquatics,Marathon Swimming,OWS,1972,0,0,official
+Aquatics,Marathon Swimming,OWS,1976,0,0,official
+Aquatics,Marathon Swimming,OWS,1980,0,0,official
+Aquatics,Marathon Swimming,OWS,1984,0,0,official
+Aquatics,Marathon Swimming,OWS,1988,0,0,official
+Aquatics,Marathon Swimming,OWS,1992,0,0,official
+Aquatics,Marathon Swimming,OWS,1996,0,0,official
+Aquatics,Marathon Swimming,OWS,2000,0,0,official
+Aquatics,Marathon Swimming,OWS,2004,0,0,official
+Aquatics,Marathon Swimming,OWS,2008,2,0,official
+Aquatics,Marathon Swimming,OWS,2012,2,0,official
+Aquatics,Marathon Swimming,OWS,2016,2,0,official
+Aquatics,Marathon Swimming,OWS,2020,2,0,official
+Aquatics,Marathon Swimming,OWS,2024,2,0,official
+Aquatics,Swimming,SWM,1896,4,0,official
+Aquatics,Swimming,SWM,1900,7,0,official
+Aquatics,Swimming,SWM,1904,9,0,official
+Aquatics,Swimming,SWM,1908,6,0,official
+Aquatics,Swimming,SWM,1912,9,0,official
+Aquatics,Swimming,SWM,1920,10,0,official
+Aquatics,Swimming,SWM,1924,11,0,official
+Aquatics,Swimming,SWM,1928,11,0,official
+Aquatics,Swimming,SWM,1932,11,0,official
+Aquatics,Swimming,SWM,1936,11,0,official
+Aquatics,Swimming,SWM,1948,11,0,official
+Aquatics,Swimming,SWM,1952,11,0,official
+Aquatics,Swimming,SWM,1956,13,0,official
+Aquatics,Swimming,SWM,1960,15,0,official
+Aquatics,Swimming,SWM,1964,18,0,official
+Aquatics,Swimming,SWM,1968,29,0,official
+Aquatics,Swimming,SWM,1972,29,0,official
+Aquatics,Swimming,SWM,1976,26,0,official
+Aquatics,Swimming,SWM,1980,26,0,official
+Aquatics,Swimming,SWM,1984,29,0,official
+Aquatics,Swimming,SWM,1988,31,0,official
+Aquatics,Swimming,SWM,1992,31,0,official
+Aquatics,Swimming,SWM,1996,32,0,official
+Aquatics,Swimming,SWM,2000,32,0,official
+Aquatics,Swimming,SWM,2004,32,0,official
+Aquatics,Swimming,SWM,2008,32,0,official
+Aquatics,Swimming,SWM,2012,32,0,official
+Aquatics,Swimming,SWM,2016,32,0,official
+Aquatics,Swimming,SWM,2020,35,0,official
+Aquatics,Swimming,SWM,2024,35,0,official
+Aquatics,Water Polo,WPO,1896,0,0,official
+Aquatics,Water Polo,WPO,1900,1,0,official
+Aquatics,Water Polo,WPO,1904,1,0,official
+Aquatics,Water Polo,WPO,1908,1,0,official
+Aquatics,Water Polo,WPO,1912,1,0,official
+Aquatics,Water Polo,WPO,1920,1,0,official
+Aquatics,Water Polo,WPO,1924,1,0,official
+Aquatics,Water Polo,WPO,1928,1,0,official
+Aquatics,Water Polo,WPO,1932,1,0,official
+Aquatics,Water Polo,WPO,1936,1,0,official
+Aquatics,Water Polo,WPO,1948,1,0,official
+Aquatics,Water Polo,WPO,1952,1,0,official
+Aquatics,Water Polo,WPO,1956,1,0,official
+Aquatics,Water Polo,WPO,1960,1,0,official
+Aquatics,Water Polo,WPO,1964,1,0,official
+Aquatics,Water Polo,WPO,1968,1,0,official
+Aquatics,Water Polo,WPO,1972,1,0,official
+Aquatics,Water Polo,WPO,1976,1,0,official
+Aquatics,Water Polo,WPO,1980,1,0,official
+Aquatics,Water Polo,WPO,1984,1,0,official
+Aquatics,Water Polo,WPO,1988,1,0,official
+Aquatics,Water Polo,WPO,1992,1,0,official
+Aquatics,Water Polo,WPO,1996,1,0,official
+Aquatics,Water Polo,WPO,2000,2,0,official
+Aquatics,Water Polo,WPO,2004,2,0,official
+Aquatics,Water Polo,WPO,2008,2,0,official
+Aquatics,Water Polo,WPO,2012,2,0,official
+Aquatics,Water Polo,WPO,2016,2,0,official
+Aquatics,Water Polo,WPO,2020,2,0,official
+Aquatics,Water Polo,WPO,2024,2,0,official
+Archery,Archery,ARC,1896,0,0,official
+Archery,Archery,ARC,1900,7,0,official
+Archery,Archery,ARC,1904,6,0,official
+Archery,Archery,ARC,1908,3,0,official
+Archery,Archery,ARC,1912,0,0,official
+Archery,Archery,ARC,1920,10,0,official
+Archery,Archery,ARC,1924,0,0,official
+Archery,Archery,ARC,1928,0,0,official
+Archery,Archery,ARC,1932,0,0,official
+Archery,Archery,ARC,1936,0,0,official
+Archery,Archery,ARC,1948,0,0,official
+Archery,Archery,ARC,1952,0,0,official
+Archery,Archery,ARC,1956,0,0,official
+Archery,Archery,ARC,1960,0,0,official
+Archery,Archery,ARC,1964,0,0,official
+Archery,Archery,ARC,1968,0,0,official
+Archery,Archery,ARC,1972,2,0,official
+Archery,Archery,ARC,1976,2,0,official
+Archery,Archery,ARC,1980,2,0,official
+Archery,Archery,ARC,1984,2,0,official
+Archery,Archery,ARC,1988,4,0,official
+Archery,Archery,ARC,1992,4,0,official
+Archery,Archery,ARC,1996,4,0,official
+Archery,Archery,ARC,2000,4,0,official
+Archery,Archery,ARC,2004,4,0,official
+Archery,Archery,ARC,2008,4,0,official
+Archery,Archery,ARC,2012,4,0,official
+Archery,Archery,ARC,2016,4,0,official
+Archery,Archery,ARC,2020,5,0,official
+Archery,Archery,ARC,2024,5,0,official
+Athletics,Athletics,ATH,1896,12,0,official
+Athletics,Athletics,ATH,1900,23,0,official
+Athletics,Athletics,ATH,1904,25,0,official
+Athletics,Athletics,ATH,1908,26,0,official
+Athletics,Athletics,ATH,1912,30,0,official
+Athletics,Athletics,ATH,1920,29,0,official
+Athletics,Athletics,ATH,1924,27,0,official
+Athletics,Athletics,ATH,1928,27,0,official
+Athletics,Athletics,ATH,1932,29,0,official
+Athletics,Athletics,ATH,1936,29,0,official
+Athletics,Athletics,ATH,1948,33,0,official
+Athletics,Athletics,ATH,1952,33,0,official
+Athletics,Athletics,ATH,1956,33,0,official
+Athletics,Athletics,ATH,1960,34,0,official
+Athletics,Athletics,ATH,1964,36,0,official
+Athletics,Athletics,ATH,1968,36,0,official
+Athletics,Athletics,ATH,1972,38,0,official
+Athletics,Athletics,ATH,1976,37,0,official
+Athletics,Athletics,ATH,1980,38,0,official
+Athletics,Athletics,ATH,1984,41,0,official
+Athletics,Athletics,ATH,1988,42,0,official
+Athletics,Athletics,ATH,1992,43,0,official
+Athletics,Athletics,ATH,1996,44,0,official
+Athletics,Athletics,ATH,2000,46,0,official
+Athletics,Athletics,ATH,2004,46,0,official
+Athletics,Athletics,ATH,2008,47,0,official
+Athletics,Athletics,ATH,2012,47,0,official
+Athletics,Athletics,ATH,2016,47,0,official
+Athletics,Athletics,ATH,2020,48,0,official
+Athletics,Athletics,ATH,2024,48,0,official
+Badminton,Badminton,BDM,1896,0,0,official
+Badminton,Badminton,BDM,1900,0,0,official
+Badminton,Badminton,BDM,1904,0,0,official
+Badminton,Badminton,BDM,1908,0,0,official
+Badminton,Badminton,BDM,1912,0,0,official
+Badminton,Badminton,BDM,1920,0,0,official
+Badminton,Badminton,BDM,1924,0,0,official
+Badminton,Badminton,BDM,1928,0,0,official
+Badminton,Badminton,BDM,1932,0,0,official
+Badminton,Badminton,BDM,1936,0,0,official
+Badminton,Badminton,BDM,1948,0,0,official
+Badminton,Badminton,BDM,1952,0,0,official
+Badminton,Badminton,BDM,1956,0,0,official
+Badminton,Badminton,BDM,1960,0,0,official
+Badminton,Badminton,BDM,1964,0,0,official
+Badminton,Badminton,BDM,1968,0,0,official
+Badminton,Badminton,BDM,1972,0,1,demo
+Badminton,Badminton,BDM,1976,0,0,official
+Badminton,Badminton,BDM,1980,0,0,official
+Badminton,Badminton,BDM,1984,4,1,demo
+Badminton,Badminton,BDM,1988,5,0,official
+Badminton,Badminton,BDM,1992,5,0,official
+Badminton,Badminton,BDM,1996,5,0,official
+Badminton,Badminton,BDM,2000,5,0,official
+Badminton,Badminton,BDM,2004,5,0,official
+Badminton,Badminton,BDM,2008,5,0,official
+Badminton,Badminton,BDM,2012,5,0,official
+Badminton,Badminton,BDM,2016,5,0,official
+Badminton,Badminton,BDM,2020,0,0,official
+Badminton,Badminton,BDM,2024,0,0,official
+Baseball and Softball,Baseball,BSB,1896,0,0,official
+Baseball and Softball,Baseball,BSB,1900,0,1,demo
+Baseball and Softball,Baseball,BSB,1904,0,0,official
+Baseball and Softball,Baseball,BSB,1908,0,1,demo
+Baseball and Softball,Baseball,BSB,1912,0,1,demo
+Baseball and Softball,Baseball,BSB,1920,0,0,official
+Baseball and Softball,Baseball,BSB,1924,0,1,demo
+Baseball and Softball,Baseball,BSB,1928,0,0,official
+Baseball and Softball,Baseball,BSB,1932,0,1,demo
+Baseball and Softball,Baseball,BSB,1936,0,1,demo
+Baseball and Softball,Baseball,BSB,1948,0,0,official
+Baseball and Softball,Baseball,BSB,1952,0,0,official
+Baseball and Softball,Baseball,BSB,1956,0,0,official
+Baseball and Softball,Baseball,BSB,1960,1,1,demo
+Baseball and Softball,Baseball,BSB,1964,1,0,official
+Baseball and Softball,Baseball,BSB,1968,1,0,official
+Baseball and Softball,Baseball,BSB,1972,1,0,official
+Baseball and Softball,Baseball,BSB,1976,1,0,official
+Baseball and Softball,Baseball,BSB,1980,0,0,official
+Baseball and Softball,Baseball,BSB,1984,0,0,official
+Baseball and Softball,Baseball,BSB,1988,1,0,official
+Baseball and Softball,Baseball,BSB,1992,0,0,official
+Baseball and Softball,Baseball,BSB,1996,0,0,official
+Baseball and Softball,Baseball,BSB,2000,0,0,official
+Baseball and Softball,Baseball,BSB,2004,0,0,official
+Baseball and Softball,Baseball,BSB,2008,0,0,official
+Baseball and Softball,Baseball,BSB,2012,0,0,official
+Baseball and Softball,Baseball,BSB,2016,0,0,official
+Baseball and Softball,Baseball,BSB,2020,0,0,official
+Baseball and Softball,Baseball,BSB,2024,0,0,official
+Baseball and Softball,Softball,SBL,1896,0,0,official
+Baseball and Softball,Softball,SBL,1900,0,0,official
+Baseball and Softball,Softball,SBL,1904,0,0,official
+Baseball and Softball,Softball,SBL,1908,0,0,official
+Baseball and Softball,Softball,SBL,1912,0,0,official
+Baseball and Softball,Softball,SBL,1920,0,0,official
+Baseball and Softball,Softball,SBL,1924,0,0,official
+Baseball and Softball,Softball,SBL,1928,0,0,official
+Baseball and Softball,Softball,SBL,1932,0,0,official
+Baseball and Softball,Softball,SBL,1936,0,0,official
+Baseball and Softball,Softball,SBL,1948,0,0,official
+Baseball and Softball,Softball,SBL,1952,0,0,official
+Baseball and Softball,Softball,SBL,1956,0,0,official
+Baseball and Softball,Softball,SBL,1960,0,0,official
+Baseball and Softball,Softball,SBL,1964,0,0,official
+Baseball and Softball,Softball,SBL,1968,0,0,official
+Baseball and Softball,Softball,SBL,1972,0,0,official
+Baseball and Softball,Softball,SBL,1976,0,0,official
+Baseball and Softball,Softball,SBL,1980,0,0,official
+Baseball and Softball,Softball,SBL,1984,0,0,official
+Baseball and Softball,Softball,SBL,1988,0,0,official
+Baseball and Softball,Softball,SBL,1992,0,0,official
+Baseball and Softball,Softball,SBL,1996,1,0,official
+Baseball and Softball,Softball,SBL,2000,1,0,official
+Baseball and Softball,Softball,SBL,2004,1,0,official
+Baseball and Softball,Softball,SBL,2008,1,0,official
+Baseball and Softball,Softball,SBL,2012,0,0,official
+Baseball and Softball,Softball,SBL,2016,0,0,official
+Baseball and Softball,Softball,SBL,2020,1,0,official
+Baseball and Softball,Softball,SBL,2024,0,0,official
+Basketball,3x3,BK3,1896,0,0,official
+Basketball,3x3,BK3,1900,0,0,official
+Basketball,3x3,BK3,1904,0,0,official
+Basketball,3x3,BK3,1908,0,0,official
+Basketball,3x3,BK3,1912,0,0,official
+Basketball,3x3,BK3,1920,0,0,official
+Basketball,3x3,BK3,1924,0,0,official
+Basketball,3x3,BK3,1928,0,0,official
+Basketball,3x3,BK3,1932,0,0,official
+Basketball,3x3,BK3,1936,0,0,official
+Basketball,3x3,BK3,1948,0,0,official
+Basketball,3x3,BK3,1952,0,0,official
+Basketball,3x3,BK3,1956,0,0,official
+Basketball,3x3,BK3,1960,0,0,official
+Basketball,3x3,BK3,1964,0,0,official
+Basketball,3x3,BK3,1968,0,0,official
+Basketball,3x3,BK3,1972,0,0,official
+Basketball,3x3,BK3,1976,0,0,official
+Basketball,3x3,BK3,1980,0,0,official
+Basketball,3x3,BK3,1984,0,0,official
+Basketball,3x3,BK3,1988,0,0,official
+Basketball,3x3,BK3,1992,0,0,official
+Basketball,3x3,BK3,1996,0,0,official
+Basketball,3x3,BK3,2000,0,0,official
+Basketball,3x3,BK3,2004,0,0,official
+Basketball,3x3,BK3,2008,0,0,official
+Basketball,3x3,BK3,2012,0,0,official
+Basketball,3x3,BK3,2016,0,0,official
+Basketball,3x3,BK3,2020,2,0,official
+Basketball,3x3,BK3,2024,2,0,official
+Basketball,Basketball,BKB,1896,0,0,official
+Basketball,Basketball,BKB,1900,0,0,official
+Basketball,Basketball,BKB,1904,0,1,demo
+Basketball,Basketball,BKB,1908,0,0,official
+Basketball,Basketball,BKB,1912,0,0,official
+Basketball,Basketball,BKB,1920,0,1,demo
+Basketball,Basketball,BKB,1924,0,0,official
+Basketball,Basketball,BKB,1928,1,0,official
+Basketball,Basketball,BKB,1932,1,0,official
+Basketball,Basketball,BKB,1936,1,0,official
+Basketball,Basketball,BKB,1948,1,0,official
+Basketball,Basketball,BKB,1952,1,0,official
+Basketball,Basketball,BKB,1956,1,0,official
+Basketball,Basketball,BKB,1960,1,0,official
+Basketball,Basketball,BKB,1964,1,0,official
+Basketball,Basketball,BKB,1968,2,0,official
+Basketball,Basketball,BKB,1972,2,0,official
+Basketball,Basketball,BKB,1976,2,0,official
+Basketball,Basketball,BKB,1980,2,0,official
+Basketball,Basketball,BKB,1984,2,0,official
+Basketball,Basketball,BKB,1988,2,0,official
+Basketball,Basketball,BKB,1992,2,0,official
+Basketball,Basketball,BKB,1996,2,0,official
+Basketball,Basketball,BKB,2000,2,0,official
+Basketball,Basketball,BKB,2004,2,0,official
+Basketball,Basketball,BKB,2008,2,0,official
+Basketball,Basketball,BKB,2012,2,0,official
+Basketball,Basketball,BKB,2016,2,0,official
+Basketball,Basketball,BKB,2020,0,0,official
+Basketball,Basketball,BKB,2024,0,0,official
+Basque Pelota,Basque Pelota,PEL,1896,0,0,official
+Basque Pelota,Basque Pelota,PEL,1900,1,0,official
+Basque Pelota,Basque Pelota,PEL,1904,0,0,official
+Basque Pelota,Basque Pelota,PEL,1908,0,0,official
+Basque Pelota,Basque Pelota,PEL,1912,0,0,official
+Basque Pelota,Basque Pelota,PEL,1920,0,0,official
+Basque Pelota,Basque Pelota,PEL,1924,0,1,demo
+Basque Pelota,Basque Pelota,PEL,1928,0,0,official
+Basque Pelota,Basque Pelota,PEL,1932,0,0,official
+Basque Pelota,Basque Pelota,PEL,1936,0,0,official
+Basque Pelota,Basque Pelota,PEL,1948,0,0,official
+Basque Pelota,Basque Pelota,PEL,1952,0,0,official
+Basque Pelota,Basque Pelota,PEL,1956,0,0,official
+Basque Pelota,Basque Pelota,PEL,1960,0,0,official
+Basque Pelota,Basque Pelota,PEL,1964,0,1,demo
+Basque Pelota,Basque Pelota,PEL,1968,0,0,official
+Basque Pelota,Basque Pelota,PEL,1972,0,0,official
+Basque Pelota,Basque Pelota,PEL,1976,0,0,official
+Basque Pelota,Basque Pelota,PEL,1980,0,0,official
+Basque Pelota,Basque Pelota,PEL,1984,0,1,demo
+Basque Pelota,Basque Pelota,PEL,1988,0,0,official
+Basque Pelota,Basque Pelota,PEL,1992,0,0,official
+Basque Pelota,Basque Pelota,PEL,1996,0,0,official
+Basque Pelota,Basque Pelota,PEL,2000,0,0,official
+Basque Pelota,Basque Pelota,PEL,2004,0,0,official
+Basque Pelota,Basque Pelota,PEL,2008,0,0,official
+Basque Pelota,Basque Pelota,PEL,2012,0,0,official
+Basque Pelota,Basque Pelota,PEL,2016,0,0,official
+Basque Pelota,Basque Pelota,PEL,2020,0,0,official
+Basque Pelota,Basque Pelota,PEL,2024,0,0,official
+Boxing,Boxing,BOX,1896,0,0,official
+Boxing,Boxing,BOX,1900,0,0,official
+Boxing,Boxing,BOX,1904,7,0,official
+Boxing,Boxing,BOX,1908,5,0,official
+Boxing,Boxing,BOX,1912,0,0,official
+Boxing,Boxing,BOX,1920,8,0,official
+Boxing,Boxing,BOX,1924,8,0,official
+Boxing,Boxing,BOX,1928,8,0,official
+Boxing,Boxing,BOX,1932,8,0,official
+Boxing,Boxing,BOX,1936,8,0,official
+Boxing,Boxing,BOX,1948,8,0,official
+Boxing,Boxing,BOX,1952,10,0,official
+Boxing,Boxing,BOX,1956,10,0,official
+Boxing,Boxing,BOX,1960,10,0,official
+Boxing,Boxing,BOX,1964,10,0,official
+Boxing,Boxing,BOX,1968,11,0,official
+Boxing,Boxing,BOX,1972,11,0,official
+Boxing,Boxing,BOX,1976,11,0,official
+Boxing,Boxing,BOX,1980,11,0,official
+Boxing,Boxing,BOX,1984,12,0,official
+Boxing,Boxing,BOX,1988,12,0,official
+Boxing,Boxing,BOX,1992,12,0,official
+Boxing,Boxing,BOX,1996,12,0,official
+Boxing,Boxing,BOX,2000,12,0,official
+Boxing,Boxing,BOX,2004,11,0,official
+Boxing,Boxing,BOX,2008,11,0,official
+Boxing,Boxing,BOX,2012,13,0,official
+Boxing,Boxing,BOX,2016,13,0,official
+Boxing,Boxing,BOX,2020,13,0,official
+Boxing,Boxing,BOX,2024,13,0,official
+Breaking,Breaking,BKG,1896,0,0,official
+Breaking,Breaking,BKG,1900,0,0,official
+Breaking,Breaking,BKG,1904,0,0,official
+Breaking,Breaking,BKG,1908,0,0,official
+Breaking,Breaking,BKG,1912,0,0,official
+Breaking,Breaking,BKG,1920,0,0,official
+Breaking,Breaking,BKG,1924,0,0,official
+Breaking,Breaking,BKG,1928,0,0,official
+Breaking,Breaking,BKG,1932,0,0,official
+Breaking,Breaking,BKG,1936,0,0,official
+Breaking,Breaking,BKG,1948,0,0,official
+Breaking,Breaking,BKG,1952,0,0,official
+Breaking,Breaking,BKG,1956,0,0,official
+Breaking,Breaking,BKG,1960,0,0,official
+Breaking,Breaking,BKG,1964,0,0,official
+Breaking,Breaking,BKG,1968,0,0,official
+Breaking,Breaking,BKG,1972,0,0,official
+Breaking,Breaking,BKG,1976,0,0,official
+Breaking,Breaking,BKG,1980,0,0,official
+Breaking,Breaking,BKG,1984,0,0,official
+Breaking,Breaking,BKG,1988,0,0,official
+Breaking,Breaking,BKG,1992,0,0,official
+Breaking,Breaking,BKG,1996,0,0,official
+Breaking,Breaking,BKG,2000,0,0,official
+Breaking,Breaking,BKG,2004,0,0,official
+Breaking,Breaking,BKG,2008,0,0,official
+Breaking,Breaking,BKG,2012,0,0,official
+Breaking,Breaking,BKG,2016,0,0,official
+Breaking,Breaking,BKG,2020,0,0,official
+Breaking,Breaking,BKG,2024,2,0,official
+Canoeing,Slalom,CSL,1896,0,0,official
+Canoeing,Slalom,CSL,1900,0,0,official
+Canoeing,Slalom,CSL,1904,0,0,official
+Canoeing,Slalom,CSL,1908,0,0,official
+Canoeing,Slalom,CSL,1912,0,0,official
+Canoeing,Slalom,CSL,1920,0,0,official
+Canoeing,Slalom,CSL,1924,0,0,official
+Canoeing,Slalom,CSL,1928,0,0,official
+Canoeing,Slalom,CSL,1932,0,0,official
+Canoeing,Slalom,CSL,1936,0,0,official
+Canoeing,Slalom,CSL,1948,0,0,official
+Canoeing,Slalom,CSL,1952,0,0,official
+Canoeing,Slalom,CSL,1956,0,0,official
+Canoeing,Slalom,CSL,1960,0,0,official
+Canoeing,Slalom,CSL,1964,0,0,official
+Canoeing,Slalom,CSL,1968,0,0,official
+Canoeing,Slalom,CSL,1972,4,0,official
+Canoeing,Slalom,CSL,1976,0,0,official
+Canoeing,Slalom,CSL,1980,0,0,official
+Canoeing,Slalom,CSL,1984,0,0,official
+Canoeing,Slalom,CSL,1988,0,0,official
+Canoeing,Slalom,CSL,1992,4,0,official
+Canoeing,Slalom,CSL,1996,4,0,official
+Canoeing,Slalom,CSL,2000,4,0,official
+Canoeing,Slalom,CSL,2004,4,0,official
+Canoeing,Slalom,CSL,2008,4,0,official
+Canoeing,Slalom,CSL,2012,4,0,official
+Canoeing,Slalom,CSL,2016,4,0,official
+Canoeing,Slalom,CSL,2020,4,0,official
+Canoeing,Slalom,CSL,2024,6,0,official
+Canoeing,Sprint,CSP,1896,0,0,official
+Canoeing,Sprint,CSP,1900,0,0,official
+Canoeing,Sprint,CSP,1904,0,0,official
+Canoeing,Sprint,CSP,1908,0,0,official
+Canoeing,Sprint,CSP,1912,0,0,official
+Canoeing,Sprint,CSP,1920,0,0,official
+Canoeing,Sprint,CSP,1924,0,1,demo
+Canoeing,Sprint,CSP,1928,0,0,official
+Canoeing,Sprint,CSP,1932,9,0,official
+Canoeing,Sprint,CSP,1936,9,0,official
+Canoeing,Sprint,CSP,1948,9,0,official
+Canoeing,Sprint,CSP,1952,9,0,official
+Canoeing,Sprint,CSP,1956,7,0,official
+Canoeing,Sprint,CSP,1960,7,0,official
+Canoeing,Sprint,CSP,1964,7,0,official
+Canoeing,Sprint,CSP,1968,7,0,official
+Canoeing,Sprint,CSP,1972,11,0,official
+Canoeing,Sprint,CSP,1976,11,0,official
+Canoeing,Sprint,CSP,1980,12,0,official
+Canoeing,Sprint,CSP,1984,12,0,official
+Canoeing,Sprint,CSP,1988,12,0,official
+Canoeing,Sprint,CSP,1992,12,0,official
+Canoeing,Sprint,CSP,1996,12,0,official
+Canoeing,Sprint,CSP,2000,12,0,official
+Canoeing,Sprint,CSP,2004,12,0,official
+Canoeing,Sprint,CSP,2008,12,0,official
+Canoeing,Sprint,CSP,2012,12,0,official
+Canoeing,Sprint,CSP,2016,12,0,official
+Canoeing,Sprint,CSP,2020,10,0,official
+Canoeing,Sprint,CSP,2024,0,0,official
+Cricket,Cricket,CKT,1896,0,0,official
+Cricket,Cricket,CKT,1900,1,0,official
+Cricket,Cricket,CKT,1904,0,0,official
+Cricket,Cricket,CKT,1908,0,0,official
+Cricket,Cricket,CKT,1912,0,0,official
+Cricket,Cricket,CKT,1920,0,0,official
+Cricket,Cricket,CKT,1924,0,0,official
+Cricket,Cricket,CKT,1928,0,0,official
+Cricket,Cricket,CKT,1932,0,0,official
+Cricket,Cricket,CKT,1936,0,0,official
+Cricket,Cricket,CKT,1948,0,0,official
+Cricket,Cricket,CKT,1952,0,0,official
+Cricket,Cricket,CKT,1956,0,0,official
+Cricket,Cricket,CKT,1960,0,0,official
+Cricket,Cricket,CKT,1964,0,0,official
+Cricket,Cricket,CKT,1968,0,0,official
+Cricket,Cricket,CKT,1972,0,0,official
+Cricket,Cricket,CKT,1976,0,0,official
+Cricket,Cricket,CKT,1980,0,0,official
+Cricket,Cricket,CKT,1984,0,0,official
+Cricket,Cricket,CKT,1988,0,0,official
+Cricket,Cricket,CKT,1992,0,0,official
+Cricket,Cricket,CKT,1996,0,0,official
+Cricket,Cricket,CKT,2000,0,0,official
+Cricket,Cricket,CKT,2004,0,0,official
+Cricket,Cricket,CKT,2008,0,0,official
+Cricket,Cricket,CKT,2012,0,0,official
+Cricket,Cricket,CKT,2016,0,0,official
+Cricket,Cricket,CKT,2020,0,0,official
+Cricket,Cricket,CKT,2024,0,0,official
+Croquet,Croquet,CQT,1896,0,0,official
+Croquet,Croquet,CQT,1900,3,0,official
+Croquet,Croquet,CQT,1904,0,0,official
+Croquet,Croquet,CQT,1908,0,0,official
+Croquet,Croquet,CQT,1912,0,0,official
+Croquet,Croquet,CQT,1920,0,0,official
+Croquet,Croquet,CQT,1924,0,0,official
+Croquet,Croquet,CQT,1928,0,0,official
+Croquet,Croquet,CQT,1932,0,0,official
+Croquet,Croquet,CQT,1936,0,0,official
+Croquet,Croquet,CQT,1948,0,0,official
+Croquet,Croquet,CQT,1952,0,0,official
+Croquet,Croquet,CQT,1956,0,0,official
+Croquet,Croquet,CQT,1960,0,0,official
+Croquet,Croquet,CQT,1964,0,0,official
+Croquet,Croquet,CQT,1968,0,0,official
+Croquet,Croquet,CQT,1972,0,0,official
+Croquet,Croquet,CQT,1976,0,0,official
+Croquet,Croquet,CQT,1980,0,0,official
+Croquet,Croquet,CQT,1984,0,0,official
+Croquet,Croquet,CQT,1988,0,0,official
+Croquet,Croquet,CQT,1992,0,0,official
+Croquet,Croquet,CQT,1996,0,0,official
+Croquet,Croquet,CQT,2000,0,0,official
+Croquet,Croquet,CQT,2004,0,0,official
+Croquet,Croquet,CQT,2008,0,0,official
+Croquet,Croquet,CQT,2012,0,0,official
+Croquet,Croquet,CQT,2016,0,0,official
+Croquet,Croquet,CQT,2020,0,0,official
+Croquet,Croquet,CQT,2024,0,0,official
+Cycling,BMX Freestyle,BMF,1896,0,0,official
+Cycling,BMX Freestyle,BMF,1900,0,0,official
+Cycling,BMX Freestyle,BMF,1904,0,0,official
+Cycling,BMX Freestyle,BMF,1908,0,0,official
+Cycling,BMX Freestyle,BMF,1912,0,0,official
+Cycling,BMX Freestyle,BMF,1920,0,0,official
+Cycling,BMX Freestyle,BMF,1924,0,0,official
+Cycling,BMX Freestyle,BMF,1928,0,0,official
+Cycling,BMX Freestyle,BMF,1932,0,0,official
+Cycling,BMX Freestyle,BMF,1936,0,0,official
+Cycling,BMX Freestyle,BMF,1948,0,0,official
+Cycling,BMX Freestyle,BMF,1952,0,0,official
+Cycling,BMX Freestyle,BMF,1956,0,0,official
+Cycling,BMX Freestyle,BMF,1960,0,0,official
+Cycling,BMX Freestyle,BMF,1964,0,0,official
+Cycling,BMX Freestyle,BMF,1968,0,0,official
+Cycling,BMX Freestyle,BMF,1972,0,0,official
+Cycling,BMX Freestyle,BMF,1976,0,0,official
+Cycling,BMX Freestyle,BMF,1980,0,0,official
+Cycling,BMX Freestyle,BMF,1984,0,0,official
+Cycling,BMX Freestyle,BMF,1988,0,0,official
+Cycling,BMX Freestyle,BMF,1992,0,0,official
+Cycling,BMX Freestyle,BMF,1996,0,0,official
+Cycling,BMX Freestyle,BMF,2000,0,0,official
+Cycling,BMX Freestyle,BMF,2004,0,0,official
+Cycling,BMX Freestyle,BMF,2008,0,0,official
+Cycling,BMX Freestyle,BMF,2012,0,0,official
+Cycling,BMX Freestyle,BMF,2016,0,0,official
+Cycling,BMX Freestyle,BMF,2020,2,0,official
+Cycling,BMX Freestyle,BMF,2024,2,0,official
+Cycling,BMX Racing,BMX,1896,0,0,official
+Cycling,BMX Racing,BMX,1900,0,0,official
+Cycling,BMX Racing,BMX,1904,0,0,official
+Cycling,BMX Racing,BMX,1908,0,0,official
+Cycling,BMX Racing,BMX,1912,0,0,official
+Cycling,BMX Racing,BMX,1920,0,0,official
+Cycling,BMX Racing,BMX,1924,0,0,official
+Cycling,BMX Racing,BMX,1928,0,0,official
+Cycling,BMX Racing,BMX,1932,0,0,official
+Cycling,BMX Racing,BMX,1936,0,0,official
+Cycling,BMX Racing,BMX,1948,0,0,official
+Cycling,BMX Racing,BMX,1952,0,0,official
+Cycling,BMX Racing,BMX,1956,0,0,official
+Cycling,BMX Racing,BMX,1960,0,0,official
+Cycling,BMX Racing,BMX,1964,0,0,official
+Cycling,BMX Racing,BMX,1968,0,0,official
+Cycling,BMX Racing,BMX,1972,0,0,official
+Cycling,BMX Racing,BMX,1976,0,0,official
+Cycling,BMX Racing,BMX,1980,0,0,official
+Cycling,BMX Racing,BMX,1984,0,0,official
+Cycling,BMX Racing,BMX,1988,0,0,official
+Cycling,BMX Racing,BMX,1992,0,0,official
+Cycling,BMX Racing,BMX,1996,0,0,official
+Cycling,BMX Racing,BMX,2000,0,0,official
+Cycling,BMX Racing,BMX,2004,0,0,official
+Cycling,BMX Racing,BMX,2008,2,0,official
+Cycling,BMX Racing,BMX,2012,2,0,official
+Cycling,BMX Racing,BMX,2016,2,0,official
+Cycling,BMX Racing,BMX,2020,2,0,official
+Cycling,BMX Racing,BMX,2024,2,0,official
+Cycling,Mountain Bike,MTB,1896,0,0,official
+Cycling,Mountain Bike,MTB,1900,0,0,official
+Cycling,Mountain Bike,MTB,1904,0,0,official
+Cycling,Mountain Bike,MTB,1908,0,0,official
+Cycling,Mountain Bike,MTB,1912,0,0,official
+Cycling,Mountain Bike,MTB,1920,0,0,official
+Cycling,Mountain Bike,MTB,1924,0,0,official
+Cycling,Mountain Bike,MTB,1928,0,0,official
+Cycling,Mountain Bike,MTB,1932,0,0,official
+Cycling,Mountain Bike,MTB,1936,0,0,official
+Cycling,Mountain Bike,MTB,1948,0,0,official
+Cycling,Mountain Bike,MTB,1952,0,0,official
+Cycling,Mountain Bike,MTB,1956,0,0,official
+Cycling,Mountain Bike,MTB,1960,0,0,official
+Cycling,Mountain Bike,MTB,1964,0,0,official
+Cycling,Mountain Bike,MTB,1968,0,0,official
+Cycling,Mountain Bike,MTB,1972,0,0,official
+Cycling,Mountain Bike,MTB,1976,0,0,official
+Cycling,Mountain Bike,MTB,1980,0,0,official
+Cycling,Mountain Bike,MTB,1984,0,0,official
+Cycling,Mountain Bike,MTB,1988,0,0,official
+Cycling,Mountain Bike,MTB,1992,0,0,official
+Cycling,Mountain Bike,MTB,1996,2,0,official
+Cycling,Mountain Bike,MTB,2000,2,0,official
+Cycling,Mountain Bike,MTB,2004,2,0,official
+Cycling,Mountain Bike,MTB,2008,2,0,official
+Cycling,Mountain Bike,MTB,2012,2,0,official
+Cycling,Mountain Bike,MTB,2016,2,0,official
+Cycling,Mountain Bike,MTB,2020,2,0,official
+Cycling,Mountain Bike,MTB,2024,2,0,official
+Cycling,Road,CRD,1896,1,0,official
+Cycling,Road,CRD,1900,0,0,official
+Cycling,Road,CRD,1904,0,0,official
+Cycling,Road,CRD,1908,0,0,official
+Cycling,Road,CRD,1912,2,0,official
+Cycling,Road,CRD,1920,2,0,official
+Cycling,Road,CRD,1924,2,0,official
+Cycling,Road,CRD,1928,2,0,official
+Cycling,Road,CRD,1932,2,0,official
+Cycling,Road,CRD,1936,2,0,official
+Cycling,Road,CRD,1948,2,0,official
+Cycling,Road,CRD,1952,2,0,official
+Cycling,Road,CRD,1956,2,0,official
+Cycling,Road,CRD,1960,2,0,official
+Cycling,Road,CRD,1964,2,0,official
+Cycling,Road,CRD,1968,2,0,official
+Cycling,Road,CRD,1972,2,0,official
+Cycling,Road,CRD,1976,2,0,official
+Cycling,Road,CRD,1980,2,0,official
+Cycling,Road,CRD,1984,3,0,official
+Cycling,Road,CRD,1988,3,0,official
+Cycling,Road,CRD,1992,3,0,official
+Cycling,Road,CRD,1996,4,0,official
+Cycling,Road,CRD,2000,4,0,official
+Cycling,Road,CRD,2004,4,0,official
+Cycling,Road,CRD,2008,4,0,official
+Cycling,Road,CRD,2012,4,0,official
+Cycling,Road,CRD,2016,4,0,official
+Cycling,Road,CRD,2020,4,0,official
+Cycling,Road,CRD,2024,4,0,official
+Cycling,Track,CTR,1896,5,0,official
+Cycling,Track,CTR,1900,3,0,official
+Cycling,Track,CTR,1904,7,0,official
+Cycling,Track,CTR,1908,7,0,official
+Cycling,Track,CTR,1912,0,0,official
+Cycling,Track,CTR,1920,4,0,official
+Cycling,Track,CTR,1924,4,0,official
+Cycling,Track,CTR,1928,4,0,official
+Cycling,Track,CTR,1932,4,0,official
+Cycling,Track,CTR,1936,4,0,official
+Cycling,Track,CTR,1948,4,0,official
+Cycling,Track,CTR,1952,4,0,official
+Cycling,Track,CTR,1956,4,0,official
+Cycling,Track,CTR,1960,4,0,official
+Cycling,Track,CTR,1964,5,0,official
+Cycling,Track,CTR,1968,5,0,official
+Cycling,Track,CTR,1972,5,0,official
+Cycling,Track,CTR,1976,4,0,official
+Cycling,Track,CTR,1980,4,0,official
+Cycling,Track,CTR,1984,5,0,official
+Cycling,Track,CTR,1988,6,0,official
+Cycling,Track,CTR,1992,7,0,official
+Cycling,Track,CTR,1996,8,0,official
+Cycling,Track,CTR,2000,12,0,official
+Cycling,Track,CTR,2004,12,0,official
+Cycling,Track,CTR,2008,10,0,official
+Cycling,Track,CTR,2012,10,0,official
+Cycling,Track,CTR,2016,10,0,official
+Cycling,Track,CTR,2020,12,0,official
+Cycling,Track,CTR,2024,12,0,official
+Equestrian,Dressage,EDR,1896,0,0,official
+Equestrian,Dressage,EDR,1900,0,0,official
+Equestrian,Dressage,EDR,1904,0,0,official
+Equestrian,Dressage,EDR,1908,0,0,official
+Equestrian,Dressage,EDR,1912,1,0,official
+Equestrian,Dressage,EDR,1920,1,0,official
+Equestrian,Dressage,EDR,1924,1,0,official
+Equestrian,Dressage,EDR,1928,2,0,official
+Equestrian,Dressage,EDR,1932,2,0,official
+Equestrian,Dressage,EDR,1936,2,0,official
+Equestrian,Dressage,EDR,1948,2,0,official
+Equestrian,Dressage,EDR,1952,2,0,official
+Equestrian,Dressage,EDR,1956,2,0,official
+Equestrian,Dressage,EDR,1960,1,0,official
+Equestrian,Dressage,EDR,1964,2,0,official
+Equestrian,Dressage,EDR,1968,2,0,official
+Equestrian,Dressage,EDR,1972,2,0,official
+Equestrian,Dressage,EDR,1976,2,0,official
+Equestrian,Dressage,EDR,1980,2,0,official
+Equestrian,Dressage,EDR,1984,2,0,official
+Equestrian,Dressage,EDR,1988,2,0,official
+Equestrian,Dressage,EDR,1992,2,0,official
+Equestrian,Dressage,EDR,1996,2,0,official
+Equestrian,Dressage,EDR,2000,2,0,official
+Equestrian,Dressage,EDR,2004,2,0,official
+Equestrian,Dressage,EDR,2008,2,0,official
+Equestrian,Dressage,EDR,2012,2,0,official
+Equestrian,Dressage,EDR,2016,2,0,official
+Equestrian,Dressage,EDR,2020,2,0,official
+Equestrian,Dressage,EDR,2024,2,0,official
+Equestrian,Driving,EDV,1896,0,0,official
+Equestrian,Driving,EDV,1900,2,0,official
+Equestrian,Driving,EDV,1904,0,0,official
+Equestrian,Driving,EDV,1908,0,0,official
+Equestrian,Driving,EDV,1912,0,0,official
+Equestrian,Driving,EDV,1920,0,0,official
+Equestrian,Driving,EDV,1924,0,0,official
+Equestrian,Driving,EDV,1928,0,0,official
+Equestrian,Driving,EDV,1932,0,0,official
+Equestrian,Driving,EDV,1936,0,0,official
+Equestrian,Driving,EDV,1948,0,0,official
+Equestrian,Driving,EDV,1952,0,0,official
+Equestrian,Driving,EDV,1956,0,0,official
+Equestrian,Driving,EDV,1960,0,0,official
+Equestrian,Driving,EDV,1964,0,0,official
+Equestrian,Driving,EDV,1968,0,0,official
+Equestrian,Driving,EDV,1972,0,0,official
+Equestrian,Driving,EDV,1976,0,0,official
+Equestrian,Driving,EDV,1980,0,0,official
+Equestrian,Driving,EDV,1984,0,0,official
+Equestrian,Driving,EDV,1988,0,0,official
+Equestrian,Driving,EDV,1992,0,0,official
+Equestrian,Driving,EDV,1996,0,0,official
+Equestrian,Driving,EDV,2000,0,0,official
+Equestrian,Driving,EDV,2004,0,0,official
+Equestrian,Driving,EDV,2008,0,0,official
+Equestrian,Driving,EDV,2012,0,0,official
+Equestrian,Driving,EDV,2016,0,0,official
+Equestrian,Driving,EDV,2020,0,0,official
+Equestrian,Driving,EDV,2024,0,0,official
+Equestrian,Eventing,EVE,1896,0,0,official
+Equestrian,Eventing,EVE,1900,0,0,official
+Equestrian,Eventing,EVE,1904,0,0,official
+Equestrian,Eventing,EVE,1908,0,0,official
+Equestrian,Eventing,EVE,1912,2,0,official
+Equestrian,Eventing,EVE,1920,2,0,official
+Equestrian,Eventing,EVE,1924,2,0,official
+Equestrian,Eventing,EVE,1928,2,0,official
+Equestrian,Eventing,EVE,1932,2,0,official
+Equestrian,Eventing,EVE,1936,2,0,official
+Equestrian,Eventing,EVE,1948,2,0,official
+Equestrian,Eventing,EVE,1952,2,0,official
+Equestrian,Eventing,EVE,1956,2,0,official
+Equestrian,Eventing,EVE,1960,2,0,official
+Equestrian,Eventing,EVE,1964,2,0,official
+Equestrian,Eventing,EVE,1968,2,0,official
+Equestrian,Eventing,EVE,1972,2,0,official
+Equestrian,Eventing,EVE,1976,2,0,official
+Equestrian,Eventing,EVE,1980,2,0,official
+Equestrian,Eventing,EVE,1984,2,0,official
+Equestrian,Eventing,EVE,1988,2,0,official
+Equestrian,Eventing,EVE,1992,2,0,official
+Equestrian,Eventing,EVE,1996,2,0,official
+Equestrian,Eventing,EVE,2000,2,0,official
+Equestrian,Eventing,EVE,2004,2,0,official
+Equestrian,Eventing,EVE,2008,2,0,official
+Equestrian,Eventing,EVE,2012,2,0,official
+Equestrian,Eventing,EVE,2016,2,0,official
+Equestrian,Eventing,EVE,2020,2,0,official
+Equestrian,Eventing,EVE,2024,2,0,official
+Equestrian,Jumping,EJP,1896,0,0,official
+Equestrian,Jumping,EJP,1900,3,0,official
+Equestrian,Jumping,EJP,1904,0,0,official
+Equestrian,Jumping,EJP,1908,0,0,official
+Equestrian,Jumping,EJP,1912,2,0,official
+Equestrian,Jumping,EJP,1920,2,0,official
+Equestrian,Jumping,EJP,1924,2,0,official
+Equestrian,Jumping,EJP,1928,2,0,official
+Equestrian,Jumping,EJP,1932,2,0,official
+Equestrian,Jumping,EJP,1936,2,0,official
+Equestrian,Jumping,EJP,1948,2,0,official
+Equestrian,Jumping,EJP,1952,2,0,official
+Equestrian,Jumping,EJP,1956,2,0,official
+Equestrian,Jumping,EJP,1960,2,0,official
+Equestrian,Jumping,EJP,1964,2,0,official
+Equestrian,Jumping,EJP,1968,2,0,official
+Equestrian,Jumping,EJP,1972,2,0,official
+Equestrian,Jumping,EJP,1976,2,0,official
+Equestrian,Jumping,EJP,1980,2,0,official
+Equestrian,Jumping,EJP,1984,2,0,official
+Equestrian,Jumping,EJP,1988,2,0,official
+Equestrian,Jumping,EJP,1992,2,0,official
+Equestrian,Jumping,EJP,1996,2,0,official
+Equestrian,Jumping,EJP,2000,2,0,official
+Equestrian,Jumping,EJP,2004,2,0,official
+Equestrian,Jumping,EJP,2008,2,0,official
+Equestrian,Jumping,EJP,2012,2,0,official
+Equestrian,Jumping,EJP,2016,2,0,official
+Equestrian,Jumping,EJP,2020,2,0,official
+Equestrian,Jumping,EJP,2024,2,0,official
+Equestrian,Vaulting,EVL,1896,0,0,official
+Equestrian,Vaulting,EVL,1900,0,0,official
+Equestrian,Vaulting,EVL,1904,0,0,official
+Equestrian,Vaulting,EVL,1908,0,0,official
+Equestrian,Vaulting,EVL,1912,0,0,official
+Equestrian,Vaulting,EVL,1920,2,0,official
+Equestrian,Vaulting,EVL,1924,0,0,official
+Equestrian,Vaulting,EVL,1928,0,0,official
+Equestrian,Vaulting,EVL,1932,0,0,official
+Equestrian,Vaulting,EVL,1936,0,0,official
+Equestrian,Vaulting,EVL,1948,0,0,official
+Equestrian,Vaulting,EVL,1952,0,0,official
+Equestrian,Vaulting,EVL,1956,0,0,official
+Equestrian,Vaulting,EVL,1960,0,0,official
+Equestrian,Vaulting,EVL,1964,0,0,official
+Equestrian,Vaulting,EVL,1968,0,0,official
+Equestrian,Vaulting,EVL,1972,0,0,official
+Equestrian,Vaulting,EVL,1976,0,0,official
+Equestrian,Vaulting,EVL,1980,0,0,official
+Equestrian,Vaulting,EVL,1984,0,0,official
+Equestrian,Vaulting,EVL,1988,0,0,official
+Equestrian,Vaulting,EVL,1992,0,0,official
+Equestrian,Vaulting,EVL,1996,0,0,official
+Equestrian,Vaulting,EVL,2000,0,0,official
+Equestrian,Vaulting,EVL,2004,0,0,official
+Equestrian,Vaulting,EVL,2008,0,0,official
+Equestrian,Vaulting,EVL,2012,0,0,official
+Equestrian,Vaulting,EVL,2016,0,0,official
+Equestrian,Vaulting,EVL,2020,0,0,official
+Equestrian,Vaulting,EVL,2024,0,0,official
+Fencing,Fencing,FEN,1896,3,0,official
+Fencing,Fencing,FEN,1900,7,0,official
+Fencing,Fencing,FEN,1904,5,0,official
+Fencing,Fencing,FEN,1908,4,0,official
+Fencing,Fencing,FEN,1912,5,0,official
+Fencing,Fencing,FEN,1920,6,0,official
+Fencing,Fencing,FEN,1924,7,0,official
+Fencing,Fencing,FEN,1928,7,0,official
+Fencing,Fencing,FEN,1932,7,0,official
+Fencing,Fencing,FEN,1936,7,0,official
+Fencing,Fencing,FEN,1948,7,0,official
+Fencing,Fencing,FEN,1952,7,0,official
+Fencing,Fencing,FEN,1956,7,0,official
+Fencing,Fencing,FEN,1960,8,0,official
+Fencing,Fencing,FEN,1964,8,0,official
+Fencing,Fencing,FEN,1968,8,0,official
+Fencing,Fencing,FEN,1972,8,0,official
+Fencing,Fencing,FEN,1976,8,0,official
+Fencing,Fencing,FEN,1980,8,0,official
+Fencing,Fencing,FEN,1984,8,0,official
+Fencing,Fencing,FEN,1988,8,0,official
+Fencing,Fencing,FEN,1992,8,0,official
+Fencing,Fencing,FEN,1996,10,0,official
+Fencing,Fencing,FEN,2000,10,0,official
+Fencing,Fencing,FEN,2004,10,0,official
+Fencing,Fencing,FEN,2008,10,0,official
+Fencing,Fencing,FEN,2012,10,0,official
+Fencing,Fencing,FEN,2016,10,0,official
+Fencing,Fencing,FEN,2020,12,0,official
+Fencing,Fencing,FEN,2024,12,0,official
+Field hockey,Field hockey,HOC,1896,0,0,official
+Field hockey,Field hockey,HOC,1900,0,0,official
+Field hockey,Field hockey,HOC,1904,0,0,official
+Field hockey,Field hockey,HOC,1908,1,0,official
+Field hockey,Field hockey,HOC,1912,0,0,official
+Field hockey,Field hockey,HOC,1920,1,0,official
+Field hockey,Field hockey,HOC,1924,0,0,official
+Field hockey,Field hockey,HOC,1928,1,0,official
+Field hockey,Field hockey,HOC,1932,1,0,official
+Field hockey,Field hockey,HOC,1936,1,0,official
+Field hockey,Field hockey,HOC,1948,1,0,official
+Field hockey,Field hockey,HOC,1952,1,0,official
+Field hockey,Field hockey,HOC,1956,1,0,official
+Field hockey,Field hockey,HOC,1960,1,0,official
+Field hockey,Field hockey,HOC,1964,1,0,official
+Field hockey,Field hockey,HOC,1968,1,0,official
+Field hockey,Field hockey,HOC,1972,1,0,official
+Field hockey,Field hockey,HOC,1976,1,0,official
+Field hockey,Field hockey,HOC,1980,2,0,official
+Field hockey,Field hockey,HOC,1984,2,0,official
+Field hockey,Field hockey,HOC,1988,2,0,official
+Field hockey,Field hockey,HOC,1992,2,0,official
+Field hockey,Field hockey,HOC,1996,2,0,official
+Field hockey,Field hockey,HOC,2000,2,0,official
+Field hockey,Field hockey,HOC,2004,2,0,official
+Field hockey,Field hockey,HOC,2008,2,0,official
+Field hockey,Field hockey,HOC,2012,2,0,official
+Field hockey,Field hockey,HOC,2016,2,0,official
+Field hockey,Field hockey,HOC,2020,2,0,official
+Field hockey,Field hockey,HOC,2024,2,0,official
+Flag football,Flag football,AFB,1896,0,0,official
+Flag football,Flag football,AFB,1900,0,0,official
+Flag football,Flag football,AFB,1904,0,0,official
+Flag football,Flag football,AFB,1908,0,0,official
+Flag football,Flag football,AFB,1912,0,0,official
+Flag football,Flag football,AFB,1920,0,0,official
+Flag football,Flag football,AFB,1924,0,0,official
+Flag football,Flag football,AFB,1928,0,0,official
+Flag football,Flag football,AFB,1932,0,0,official
+Flag football,Flag football,AFB,1936,0,0,official
+Flag football,Flag football,AFB,1948,0,0,official
+Flag football,Flag football,AFB,1952,0,0,official
+Flag football,Flag football,AFB,1956,0,0,official
+Flag football,Flag football,AFB,1960,0,0,official
+Flag football,Flag football,AFB,1964,0,0,official
+Flag football,Flag football,AFB,1968,0,0,official
+Flag football,Flag football,AFB,1972,0,0,official
+Flag football,Flag football,AFB,1976,0,0,official
+Flag football,Flag football,AFB,1980,0,0,official
+Flag football,Flag football,AFB,1984,0,0,official
+Flag football,Flag football,AFB,1988,0,0,official
+Flag football,Flag football,AFB,1992,0,0,official
+Flag football,Flag football,AFB,1996,0,0,official
+Flag football,Flag football,AFB,2000,0,0,official
+Flag football,Flag football,AFB,2004,0,0,official
+Flag football,Flag football,AFB,2008,0,0,official
+Flag football,Flag football,AFB,2012,0,0,official
+Flag football,Flag football,AFB,2016,0,0,official
+Flag football,Flag football,AFB,2020,0,0,official
+Flag football,Flag football,AFB,2024,0,0,official
+Football,Football,FBL,1896,0,0,official
+Football,Football,FBL,1900,1,0,official
+Football,Football,FBL,1904,1,0,official
+Football,Football,FBL,1908,1,0,official
+Football,Football,FBL,1912,1,0,official
+Football,Football,FBL,1920,1,0,official
+Football,Football,FBL,1924,1,0,official
+Football,Football,FBL,1928,1,0,official
+Football,Football,FBL,1932,0,0,official
+Football,Football,FBL,1936,1,0,official
+Football,Football,FBL,1948,1,0,official
+Football,Football,FBL,1952,1,0,official
+Football,Football,FBL,1956,1,0,official
+Football,Football,FBL,1960,1,0,official
+Football,Football,FBL,1964,1,0,official
+Football,Football,FBL,1968,1,0,official
+Football,Football,FBL,1972,1,0,official
+Football,Football,FBL,1976,1,0,official
+Football,Football,FBL,1980,1,0,official
+Football,Football,FBL,1984,1,0,official
+Football,Football,FBL,1988,1,0,official
+Football,Football,FBL,1992,1,0,official
+Football,Football,FBL,1996,2,0,official
+Football,Football,FBL,2000,2,0,official
+Football,Football,FBL,2004,2,0,official
+Football,Football,FBL,2008,2,0,official
+Football,Football,FBL,2012,2,0,official
+Football,Football,FBL,2016,2,0,official
+Football,Football,FBL,2020,2,0,official
+Football,Football,FBL,2024,2,0,official
+Golf,Golf,GLF,1896,0,0,official
+Golf,Golf,GLF,1900,2,0,official
+Golf,Golf,GLF,1904,2,0,official
+Golf,Golf,GLF,1908,0,0,official
+Golf,Golf,GLF,1912,0,0,official
+Golf,Golf,GLF,1920,0,0,official
+Golf,Golf,GLF,1924,0,0,official
+Golf,Golf,GLF,1928,0,0,official
+Golf,Golf,GLF,1932,0,0,official
+Golf,Golf,GLF,1936,0,0,official
+Golf,Golf,GLF,1948,0,0,official
+Golf,Golf,GLF,1952,0,0,official
+Golf,Golf,GLF,1956,0,0,official
+Golf,Golf,GLF,1960,0,0,official
+Golf,Golf,GLF,1964,0,0,official
+Golf,Golf,GLF,1968,0,0,official
+Golf,Golf,GLF,1972,0,0,official
+Golf,Golf,GLF,1976,0,0,official
+Golf,Golf,GLF,1980,0,0,official
+Golf,Golf,GLF,1984,0,0,official
+Golf,Golf,GLF,1988,0,0,official
+Golf,Golf,GLF,1992,0,0,official
+Golf,Golf,GLF,1996,0,0,official
+Golf,Golf,GLF,2000,0,0,official
+Golf,Golf,GLF,2004,0,0,official
+Golf,Golf,GLF,2008,0,0,official
+Golf,Golf,GLF,2012,0,0,official
+Golf,Golf,GLF,2016,2,0,official
+Golf,Golf,GLF,2020,2,0,official
+Golf,Golf,GLF,2024,2,0,official
+Gymnastics,Artistic,GAR,1896,8,0,official
+Gymnastics,Artistic,GAR,1900,1,0,official
+Gymnastics,Artistic,GAR,1904,11,0,official
+Gymnastics,Artistic,GAR,1908,2,0,official
+Gymnastics,Artistic,GAR,1912,4,0,official
+Gymnastics,Artistic,GAR,1920,4,0,official
+Gymnastics,Artistic,GAR,1924,9,0,official
+Gymnastics,Artistic,GAR,1928,8,0,official
+Gymnastics,Artistic,GAR,1932,11,0,official
+Gymnastics,Artistic,GAR,1936,9,0,official
+Gymnastics,Artistic,GAR,1948,9,0,official
+Gymnastics,Artistic,GAR,1952,15,0,official
+Gymnastics,Artistic,GAR,1956,15,0,official
+Gymnastics,Artistic,GAR,1960,14,0,official
+Gymnastics,Artistic,GAR,1964,14,0,official
+Gymnastics,Artistic,GAR,1968,14,0,official
+Gymnastics,Artistic,GAR,1972,14,0,official
+Gymnastics,Artistic,GAR,1976,14,0,official
+Gymnastics,Artistic,GAR,1980,14,0,official
+Gymnastics,Artistic,GAR,1984,14,0,official
+Gymnastics,Artistic,GAR,1988,14,0,official
+Gymnastics,Artistic,GAR,1992,14,0,official
+Gymnastics,Artistic,GAR,1996,14,0,official
+Gymnastics,Artistic,GAR,2000,14,0,official
+Gymnastics,Artistic,GAR,2004,14,0,official
+Gymnastics,Artistic,GAR,2008,14,0,official
+Gymnastics,Artistic,GAR,2012,14,0,official
+Gymnastics,Artistic,GAR,2016,14,0,official
+Gymnastics,Artistic,GAR,2020,14,0,official
+Gymnastics,Artistic,GAR,2024,14,0,official
+Gymnastics,Rhythmic,GRY,1896,0,0,official
+Gymnastics,Rhythmic,GRY,1900,0,0,official
+Gymnastics,Rhythmic,GRY,1904,0,0,official
+Gymnastics,Rhythmic,GRY,1908,0,0,official
+Gymnastics,Rhythmic,GRY,1912,0,0,official
+Gymnastics,Rhythmic,GRY,1920,0,0,official
+Gymnastics,Rhythmic,GRY,1924,0,0,official
+Gymnastics,Rhythmic,GRY,1928,0,0,official
+Gymnastics,Rhythmic,GRY,1932,0,0,official
+Gymnastics,Rhythmic,GRY,1936,0,0,official
+Gymnastics,Rhythmic,GRY,1948,0,0,official
+Gymnastics,Rhythmic,GRY,1952,0,0,official
+Gymnastics,Rhythmic,GRY,1956,0,0,official
+Gymnastics,Rhythmic,GRY,1960,0,0,official
+Gymnastics,Rhythmic,GRY,1964,0,0,official
+Gymnastics,Rhythmic,GRY,1968,0,0,official
+Gymnastics,Rhythmic,GRY,1972,0,0,official
+Gymnastics,Rhythmic,GRY,1976,0,0,official
+Gymnastics,Rhythmic,GRY,1980,0,0,official
+Gymnastics,Rhythmic,GRY,1984,1,0,official
+Gymnastics,Rhythmic,GRY,1988,1,0,official
+Gymnastics,Rhythmic,GRY,1992,1,0,official
+Gymnastics,Rhythmic,GRY,1996,2,0,official
+Gymnastics,Rhythmic,GRY,2000,2,0,official
+Gymnastics,Rhythmic,GRY,2004,2,0,official
+Gymnastics,Rhythmic,GRY,2008,2,0,official
+Gymnastics,Rhythmic,GRY,2012,2,0,official
+Gymnastics,Rhythmic,GRY,2016,2,0,official
+Gymnastics,Rhythmic,GRY,2020,2,0,official
+Gymnastics,Rhythmic,GRY,2024,2,0,official
+Gymnastics,Trampoline,GTR,1896,0,0,official
+Gymnastics,Trampoline,GTR,1900,0,0,official
+Gymnastics,Trampoline,GTR,1904,0,0,official
+Gymnastics,Trampoline,GTR,1908,0,0,official
+Gymnastics,Trampoline,GTR,1912,0,0,official
+Gymnastics,Trampoline,GTR,1920,0,0,official
+Gymnastics,Trampoline,GTR,1924,0,0,official
+Gymnastics,Trampoline,GTR,1928,0,0,official
+Gymnastics,Trampoline,GTR,1932,0,0,official
+Gymnastics,Trampoline,GTR,1936,0,0,official
+Gymnastics,Trampoline,GTR,1948,0,0,official
+Gymnastics,Trampoline,GTR,1952,0,0,official
+Gymnastics,Trampoline,GTR,1956,0,0,official
+Gymnastics,Trampoline,GTR,1960,0,0,official
+Gymnastics,Trampoline,GTR,1964,0,0,official
+Gymnastics,Trampoline,GTR,1968,0,0,official
+Gymnastics,Trampoline,GTR,1972,0,0,official
+Gymnastics,Trampoline,GTR,1976,0,0,official
+Gymnastics,Trampoline,GTR,1980,0,0,official
+Gymnastics,Trampoline,GTR,1984,0,0,official
+Gymnastics,Trampoline,GTR,1988,0,0,official
+Gymnastics,Trampoline,GTR,1992,0,0,official
+Gymnastics,Trampoline,GTR,1996,0,0,official
+Gymnastics,Trampoline,GTR,2000,2,0,official
+Gymnastics,Trampoline,GTR,2004,2,0,official
+Gymnastics,Trampoline,GTR,2008,2,0,official
+Gymnastics,Trampoline,GTR,2012,2,0,official
+Gymnastics,Trampoline,GTR,2016,2,0,official
+Gymnastics,Trampoline,GTR,2020,2,0,official
+Gymnastics,Trampoline,GTR,2024,2,0,official
+Handball,Field,HBL,1896,0,0,official
+Handball,Field,HBL,1900,0,0,official
+Handball,Field,HBL,1904,0,0,official
+Handball,Field,HBL,1908,0,0,official
+Handball,Field,HBL,1912,0,0,official
+Handball,Field,HBL,1920,0,0,official
+Handball,Field,HBL,1924,0,0,official
+Handball,Field,HBL,1928,0,0,official
+Handball,Field,HBL,1932,0,0,official
+Handball,Field,HBL,1936,1,0,official
+Handball,Field,HBL,1948,0,0,official
+Handball,Field,HBL,1952,0,0,official
+Handball,Field,HBL,1956,0,1,demo
+Handball,Field,HBL,1960,0,0,official
+Handball,Field,HBL,1964,0,0,official
+Handball,Field,HBL,1968,0,0,official
+Handball,Field,HBL,1972,0,0,official
+Handball,Field,HBL,1976,0,0,official
+Handball,Field,HBL,1980,0,0,official
+Handball,Field,HBL,1984,0,0,official
+Handball,Field,HBL,1988,0,0,official
+Handball,Field,HBL,1992,0,0,official
+Handball,Field,HBL,1996,0,0,official
+Handball,Field,HBL,2000,0,0,official
+Handball,Field,HBL,2004,0,0,official
+Handball,Field,HBL,2008,0,0,official
+Handball,Field,HBL,2012,0,0,official
+Handball,Field,HBL,2016,0,0,official
+Handball,Field,HBL,2020,0,0,official
+Handball,Field,HBL,2024,0,0,official
+Handball,Indoor,HBL,1896,0,0,official
+Handball,Indoor,HBL,1900,0,0,official
+Handball,Indoor,HBL,1904,0,0,official
+Handball,Indoor,HBL,1908,0,0,official
+Handball,Indoor,HBL,1912,0,0,official
+Handball,Indoor,HBL,1920,0,0,official
+Handball,Indoor,HBL,1924,0,0,official
+Handball,Indoor,HBL,1928,0,0,official
+Handball,Indoor,HBL,1932,0,0,official
+Handball,Indoor,HBL,1936,0,0,official
+Handball,Indoor,HBL,1948,0,0,official
+Handball,Indoor,HBL,1952,0,0,official
+Handball,Indoor,HBL,1956,0,0,official
+Handball,Indoor,HBL,1960,0,0,official
+Handball,Indoor,HBL,1964,0,0,official
+Handball,Indoor,HBL,1968,0,0,official
+Handball,Indoor,HBL,1972,1,0,official
+Handball,Indoor,HBL,1976,2,0,official
+Handball,Indoor,HBL,1980,2,0,official
+Handball,Indoor,HBL,1984,2,0,official
+Handball,Indoor,HBL,1988,2,0,official
+Handball,Indoor,HBL,1992,2,0,official
+Handball,Indoor,HBL,1996,2,0,official
+Handball,Indoor,HBL,2000,2,0,official
+Handball,Indoor,HBL,2004,2,0,official
+Handball,Indoor,HBL,2008,2,0,official
+Handball,Indoor,HBL,2012,2,0,official
+Handball,Indoor,HBL,2016,2,0,official
+Handball,Indoor,HBL,2020,2,0,official
+Handball,Indoor,HBL,2024,2,0,official
+Ice Hockey,Ice Hockey,IHO,1896,0,0,official
+Ice Hockey,Ice Hockey,IHO,1900,0,0,official
+Ice Hockey,Ice Hockey,IHO,1904,0,0,official
+Ice Hockey,Ice Hockey,IHO,1908,0,0,official
+Ice Hockey,Ice Hockey,IHO,1912,0,0,official
+Ice Hockey,Ice Hockey,IHO,1920,1,0,official
+Ice Hockey,Ice Hockey,IHO,1924,0,0,winter_transfer
+Ice Hockey,Ice Hockey,IHO,1928,0,0,official
+Ice Hockey,Ice Hockey,IHO,1932,0,0,official
+Ice Hockey,Ice Hockey,IHO,1936,0,0,official
+Ice Hockey,Ice Hockey,IHO,1948,0,0,official
+Ice Hockey,Ice Hockey,IHO,1952,0,0,official
+Ice Hockey,Ice Hockey,IHO,1956,0,0,official
+Ice Hockey,Ice Hockey,IHO,1960,0,0,official
+Ice Hockey,Ice Hockey,IHO,1964,0,0,official
+Ice Hockey,Ice Hockey,IHO,1968,0,0,official
+Ice Hockey,Ice Hockey,IHO,1972,0,0,official
+Ice Hockey,Ice Hockey,IHO,1976,0,0,official
+Ice Hockey,Ice Hockey,IHO,1980,0,0,official
+Ice Hockey,Ice Hockey,IHO,1984,0,0,official
+Ice Hockey,Ice Hockey,IHO,1988,0,0,official
+Ice Hockey,Ice Hockey,IHO,1992,0,0,official
+Ice Hockey,Ice Hockey,IHO,1996,0,0,official
+Ice Hockey,Ice Hockey,IHO,2000,0,0,official
+Ice Hockey,Ice Hockey,IHO,2004,0,0,official
+Ice Hockey,Ice Hockey,IHO,2008,0,0,official
+Ice Hockey,Ice Hockey,IHO,2012,0,0,official
+Ice Hockey,Ice Hockey,IHO,2016,0,0,official
+Ice Hockey,Ice Hockey,IHO,2020,0,0,official
+Ice Hockey,Ice Hockey,IHO,2024,0,0,official
+Jeu de Paume,Jeu de Paume,??0,1896,0,0,official
+Jeu de Paume,Jeu de Paume,??0,1900,0,0,official
+Jeu de Paume,Jeu de Paume,??0,1904,1,0,official
+Jeu de Paume,Jeu de Paume,??0,1908,0,0,official
+Jeu de Paume,Jeu de Paume,??0,1912,0,0,official
+Jeu de Paume,Jeu de Paume,??0,1920,0,0,official
+Jeu de Paume,Jeu de Paume,??0,1924,0,0,official
+Jeu de Paume,Jeu de Paume,??0,1928,0,0,official
+Jeu de Paume,Jeu de Paume,??0,1932,0,0,official
+Jeu de Paume,Jeu de Paume,??0,1936,0,0,official
+Jeu de Paume,Jeu de Paume,??0,1948,0,0,official
+Jeu de Paume,Jeu de Paume,??0,1952,0,0,official
+Jeu de Paume,Jeu de Paume,??0,1956,0,0,official
+Jeu de Paume,Jeu de Paume,??0,1960,0,0,official
+Jeu de Paume,Jeu de Paume,??0,1964,0,0,official
+Jeu de Paume,Jeu de Paume,??0,1968,0,0,official
+Jeu de Paume,Jeu de Paume,??0,1972,0,0,official
+Jeu de Paume,Jeu de Paume,??0,1976,0,0,official
+Jeu de Paume,Jeu de Paume,??0,1980,0,0,official
+Jeu de Paume,Jeu de Paume,??0,1984,0,0,official
+Jeu de Paume,Jeu de Paume,??0,1988,0,0,official
+Jeu de Paume,Jeu de Paume,??0,1992,0,0,official
+Jeu de Paume,Jeu de Paume,??0,1996,0,0,official
+Jeu de Paume,Jeu de Paume,??0,2000,0,0,official
+Jeu de Paume,Jeu de Paume,??0,2004,0,0,official
+Jeu de Paume,Jeu de Paume,??0,2008,0,0,official
+Jeu de Paume,Jeu de Paume,??0,2012,0,0,official
+Jeu de Paume,Jeu de Paume,??0,2016,0,0,official
+Jeu de Paume,Jeu de Paume,??0,2020,0,0,official
+Jeu de Paume,Jeu de Paume,??0,2024,0,0,official
+Judo,Judo,JUD,1896,0,0,official
+Judo,Judo,JUD,1900,0,0,official
+Judo,Judo,JUD,1904,0,0,official
+Judo,Judo,JUD,1908,0,0,official
+Judo,Judo,JUD,1912,0,0,official
+Judo,Judo,JUD,1920,0,0,official
+Judo,Judo,JUD,1924,0,0,official
+Judo,Judo,JUD,1928,0,0,official
+Judo,Judo,JUD,1932,0,0,official
+Judo,Judo,JUD,1936,0,0,official
+Judo,Judo,JUD,1948,0,0,official
+Judo,Judo,JUD,1952,0,0,official
+Judo,Judo,JUD,1956,0,0,official
+Judo,Judo,JUD,1960,0,0,official
+Judo,Judo,JUD,1964,4,0,official
+Judo,Judo,JUD,1968,0,0,official
+Judo,Judo,JUD,1972,6,0,official
+Judo,Judo,JUD,1976,6,0,official
+Judo,Judo,JUD,1980,8,0,official
+Judo,Judo,JUD,1984,8,0,official
+Judo,Judo,JUD,1988,7,0,official
+Judo,Judo,JUD,1992,14,0,official
+Judo,Judo,JUD,1996,14,0,official
+Judo,Judo,JUD,2000,14,0,official
+Judo,Judo,JUD,2004,14,0,official
+Judo,Judo,JUD,2008,14,0,official
+Judo,Judo,JUD,2012,14,0,official
+Judo,Judo,JUD,2016,14,0,official
+Judo,Judo,JUD,2020,15,0,official
+Judo,Judo,JUD,2024,15,0,official
+Karate,Karate,KTE,1896,0,0,official
+Karate,Karate,KTE,1900,0,0,official
+Karate,Karate,KTE,1904,0,0,official
+Karate,Karate,KTE,1908,0,0,official
+Karate,Karate,KTE,1912,0,0,official
+Karate,Karate,KTE,1920,0,0,official
+Karate,Karate,KTE,1924,0,0,official
+Karate,Karate,KTE,1928,0,0,official
+Karate,Karate,KTE,1932,0,0,official
+Karate,Karate,KTE,1936,0,0,official
+Karate,Karate,KTE,1948,0,0,official
+Karate,Karate,KTE,1952,0,0,official
+Karate,Karate,KTE,1956,0,0,official
+Karate,Karate,KTE,1960,0,0,official
+Karate,Karate,KTE,1964,0,0,official
+Karate,Karate,KTE,1968,0,0,official
+Karate,Karate,KTE,1972,0,0,official
+Karate,Karate,KTE,1976,0,0,official
+Karate,Karate,KTE,1980,0,0,official
+Karate,Karate,KTE,1984,0,0,official
+Karate,Karate,KTE,1988,0,0,official
+Karate,Karate,KTE,1992,0,0,official
+Karate,Karate,KTE,1996,0,0,official
+Karate,Karate,KTE,2000,0,0,official
+Karate,Karate,KTE,2004,0,0,official
+Karate,Karate,KTE,2008,0,0,official
+Karate,Karate,KTE,2012,0,0,official
+Karate,Karate,KTE,2016,0,0,official
+Karate,Karate,KTE,2020,8,0,official
+Karate,Karate,KTE,2024,0,0,official
+Lacrosse,Field,LAX,1896,0,0,official
+Lacrosse,Field,LAX,1900,0,0,official
+Lacrosse,Field,LAX,1904,1,0,official
+Lacrosse,Field,LAX,1908,1,0,official
+Lacrosse,Field,LAX,1912,0,0,official
+Lacrosse,Field,LAX,1920,0,0,official
+Lacrosse,Field,LAX,1924,0,0,official
+Lacrosse,Field,LAX,1928,0,1,demo
+Lacrosse,Field,LAX,1932,0,1,demo
+Lacrosse,Field,LAX,1936,0,0,official
+Lacrosse,Field,LAX,1948,0,0,official
+Lacrosse,Field,LAX,1952,0,0,official
+Lacrosse,Field,LAX,1956,0,0,official
+Lacrosse,Field,LAX,1960,0,0,official
+Lacrosse,Field,LAX,1964,0,0,official
+Lacrosse,Field,LAX,1968,0,0,official
+Lacrosse,Field,LAX,1972,0,0,official
+Lacrosse,Field,LAX,1976,0,0,official
+Lacrosse,Field,LAX,1980,0,0,official
+Lacrosse,Field,LAX,1984,0,0,official
+Lacrosse,Field,LAX,1988,0,0,official
+Lacrosse,Field,LAX,1992,0,0,official
+Lacrosse,Field,LAX,1996,0,0,official
+Lacrosse,Field,LAX,2000,0,0,official
+Lacrosse,Field,LAX,2004,0,0,official
+Lacrosse,Field,LAX,2008,0,0,official
+Lacrosse,Field,LAX,2012,0,0,official
+Lacrosse,Field,LAX,2016,0,0,official
+Lacrosse,Field,LAX,2020,0,0,official
+Lacrosse,Field,LAX,2024,0,0,official
+Lacrosse,Sixes,LAX,1896,0,0,official
+Lacrosse,Sixes,LAX,1900,0,0,official
+Lacrosse,Sixes,LAX,1904,0,0,official
+Lacrosse,Sixes,LAX,1908,0,0,official
+Lacrosse,Sixes,LAX,1912,0,0,official
+Lacrosse,Sixes,LAX,1920,0,0,official
+Lacrosse,Sixes,LAX,1924,0,0,official
+Lacrosse,Sixes,LAX,1928,0,0,official
+Lacrosse,Sixes,LAX,1932,0,0,official
+Lacrosse,Sixes,LAX,1936,0,0,official
+Lacrosse,Sixes,LAX,1948,0,0,official
+Lacrosse,Sixes,LAX,1952,0,0,official
+Lacrosse,Sixes,LAX,1956,0,0,official
+Lacrosse,Sixes,LAX,1960,0,0,official
+Lacrosse,Sixes,LAX,1964,0,0,official
+Lacrosse,Sixes,LAX,1968,0,0,official
+Lacrosse,Sixes,LAX,1972,0,0,official
+Lacrosse,Sixes,LAX,1976,0,0,official
+Lacrosse,Sixes,LAX,1980,0,0,official
+Lacrosse,Sixes,LAX,1984,0,0,official
+Lacrosse,Sixes,LAX,1988,0,0,official
+Lacrosse,Sixes,LAX,1992,0,0,official
+Lacrosse,Sixes,LAX,1996,0,0,official
+Lacrosse,Sixes,LAX,2000,0,0,official
+Lacrosse,Sixes,LAX,2004,0,0,official
+Lacrosse,Sixes,LAX,2008,0,0,official
+Lacrosse,Sixes,LAX,2012,0,0,official
+Lacrosse,Sixes,LAX,2016,0,0,official
+Lacrosse,Sixes,LAX,2020,0,0,official
+Lacrosse,Sixes,LAX,2024,0,0,official
+Modern Pentathlon,,MPN,1896,0,0,official
+Modern Pentathlon,,MPN,1900,0,0,official
+Modern Pentathlon,,MPN,1904,0,0,official
+Modern Pentathlon,,MPN,1908,0,0,official
+Modern Pentathlon,,MPN,1912,1,0,official
+Modern Pentathlon,,MPN,1920,1,0,official
+Modern Pentathlon,,MPN,1924,1,0,official
+Modern Pentathlon,,MPN,1928,1,0,official
+Modern Pentathlon,,MPN,1932,1,0,official
+Modern Pentathlon,,MPN,1936,1,0,official
+Modern Pentathlon,,MPN,1948,1,0,official
+Modern Pentathlon,,MPN,1952,2,0,official
+Modern Pentathlon,,MPN,1956,2,0,official
+Modern Pentathlon,,MPN,1960,2,0,official
+Modern Pentathlon,,MPN,1964,2,0,official
+Modern Pentathlon,,MPN,1968,2,0,official
+Modern Pentathlon,,MPN,1972,2,0,official
+Modern Pentathlon,,MPN,1976,2,0,official
+Modern Pentathlon,,MPN,1980,2,0,official
+Modern Pentathlon,,MPN,1984,2,0,official
+Modern Pentathlon,,MPN,1988,2,0,official
+Modern Pentathlon,,MPN,1992,2,0,official
+Modern Pentathlon,,MPN,1996,1,0,official
+Modern Pentathlon,,MPN,2000,2,0,official
+Modern Pentathlon,,MPN,2004,2,0,official
+Modern Pentathlon,,MPN,2008,2,0,official
+Modern Pentathlon,,MPN,2012,2,0,official
+Modern Pentathlon,,MPN,2016,2,0,official
+Modern Pentathlon,,MPN,2020,2,0,official
+Modern Pentathlon,,MPN,2024,2,0,official
+Polo,Polo,POL,1896,0,0,official
+Polo,Polo,POL,1900,1,0,official
+Polo,Polo,POL,1904,0,0,official
+Polo,Polo,POL,1908,1,0,official
+Polo,Polo,POL,1912,0,0,official
+Polo,Polo,POL,1920,1,0,official
+Polo,Polo,POL,1924,1,0,official
+Polo,Polo,POL,1928,0,0,official
+Polo,Polo,POL,1932,0,0,official
+Polo,Polo,POL,1936,1,0,official
+Polo,Polo,POL,1948,0,0,official
+Polo,Polo,POL,1952,0,0,official
+Polo,Polo,POL,1956,0,0,official
+Polo,Polo,POL,1960,0,0,official
+Polo,Polo,POL,1964,0,0,official
+Polo,Polo,POL,1968,0,0,official
+Polo,Polo,POL,1972,0,0,official
+Polo,Polo,POL,1976,0,0,official
+Polo,Polo,POL,1980,0,0,official
+Polo,Polo,POL,1984,0,0,official
+Polo,Polo,POL,1988,0,0,official
+Polo,Polo,POL,1992,0,0,official
+Polo,Polo,POL,1996,0,0,official
+Polo,Polo,POL,2000,0,0,official
+Polo,Polo,POL,2004,0,0,official
+Polo,Polo,POL,2008,0,0,official
+Polo,Polo,POL,2012,0,0,official
+Polo,Polo,POL,2016,0,0,official
+Polo,Polo,POL,2020,0,0,official
+Polo,Polo,POL,2024,0,0,official
+Rackets,Rackets,RQT,1896,0,0,official
+Rackets,Rackets,RQT,1900,0,0,official
+Rackets,Rackets,RQT,1904,0,0,official
+Rackets,Rackets,RQT,1908,0,0,official
+Rackets,Rackets,RQT,1912,0,0,official
+Rackets,Rackets,RQT,1920,0,0,official
+Rackets,Rackets,RQT,1924,0,0,official
+Rackets,Rackets,RQT,1928,0,0,official
+Rackets,Rackets,RQT,1932,0,0,official
+Rackets,Rackets,RQT,1936,0,0,official
+Rackets,Rackets,RQT,1948,0,0,official
+Rackets,Rackets,RQT,1952,0,0,official
+Rackets,Rackets,RQT,1956,0,0,official
+Rackets,Rackets,RQT,1960,0,0,official
+Rackets,Rackets,RQT,1964,0,0,official
+Rackets,Rackets,RQT,1968,0,0,official
+Rackets,Rackets,RQT,1972,0,0,official
+Rackets,Rackets,RQT,1976,0,0,official
+Rackets,Rackets,RQT,1980,0,0,official
+Rackets,Rackets,RQT,1984,0,0,official
+Rackets,Rackets,RQT,1988,0,0,official
+Rackets,Rackets,RQT,1992,0,0,official
+Rackets,Rackets,RQT,1996,0,0,official
+Rackets,Rackets,RQT,2000,0,0,official
+Rackets,Rackets,RQT,2004,0,0,official
+Rackets,Rackets,RQT,2008,0,0,official
+Rackets,Rackets,RQT,2012,0,0,official
+Rackets,Rackets,RQT,2016,0,0,official
+Rackets,Rackets,RQT,2020,0,0,official
+Rackets,Rackets,RQT,2024,0,0,official
+Roque,Roque,??0,1896,1,0,official
+Roque,Roque,??0,1900,0,0,official
+Roque,Roque,??0,1904,0,0,official
+Roque,Roque,??0,1908,0,0,official
+Roque,Roque,??0,1912,0,0,official
+Roque,Roque,??0,1920,0,0,official
+Roque,Roque,??0,1924,0,0,official
+Roque,Roque,??0,1928,0,0,official
+Roque,Roque,??0,1932,0,0,official
+Roque,Roque,??0,1936,0,0,official
+Roque,Roque,??0,1948,0,0,official
+Roque,Roque,??0,1952,0,0,official
+Roque,Roque,??0,1956,0,0,official
+Roque,Roque,??0,1960,0,0,official
+Roque,Roque,??0,1964,0,0,official
+Roque,Roque,??0,1968,0,0,official
+Roque,Roque,??0,1972,0,0,official
+Roque,Roque,??0,1976,0,0,official
+Roque,Roque,??0,1980,0,0,official
+Roque,Roque,??0,1984,0,0,official
+Roque,Roque,??0,1988,0,0,official
+Roque,Roque,??0,1992,0,0,official
+Roque,Roque,??0,1996,0,0,official
+Roque,Roque,??0,2000,0,0,official
+Roque,Roque,??0,2004,0,0,official
+Roque,Roque,??0,2008,0,0,official
+Roque,Roque,??0,2012,0,0,official
+Roque,Roque,??0,2016,0,0,official
+Roque,Roque,??0,2020,0,0,official
+Roque,Roque,??0,2024,0,0,official
+Rowing,Coastal,ROC,1896,0,0,official
+Rowing,Coastal,ROC,1900,0,0,official
+Rowing,Coastal,ROC,1904,0,0,official
+Rowing,Coastal,ROC,1908,0,0,official
+Rowing,Coastal,ROC,1912,0,0,official
+Rowing,Coastal,ROC,1920,0,0,official
+Rowing,Coastal,ROC,1924,0,0,official
+Rowing,Coastal,ROC,1928,0,0,official
+Rowing,Coastal,ROC,1932,0,0,official
+Rowing,Coastal,ROC,1936,0,0,official
+Rowing,Coastal,ROC,1948,0,0,official
+Rowing,Coastal,ROC,1952,0,0,official
+Rowing,Coastal,ROC,1956,0,0,official
+Rowing,Coastal,ROC,1960,0,0,official
+Rowing,Coastal,ROC,1964,0,0,official
+Rowing,Coastal,ROC,1968,0,0,official
+Rowing,Coastal,ROC,1972,0,0,official
+Rowing,Coastal,ROC,1976,0,0,official
+Rowing,Coastal,ROC,1980,0,0,official
+Rowing,Coastal,ROC,1984,0,0,official
+Rowing,Coastal,ROC,1988,0,0,official
+Rowing,Coastal,ROC,1992,0,0,official
+Rowing,Coastal,ROC,1996,0,0,official
+Rowing,Coastal,ROC,2000,0,0,official
+Rowing,Coastal,ROC,2004,0,0,official
+Rowing,Coastal,ROC,2008,0,0,official
+Rowing,Coastal,ROC,2012,0,0,official
+Rowing,Coastal,ROC,2016,0,0,official
+Rowing,Coastal,ROC,2020,0,0,official
+Rowing,Coastal,ROC,2024,0,0,official
+Rowing,Rowing,ROW,1896,0,0,cancelled_weather
+Rowing,Rowing,ROW,1900,5,0,official
+Rowing,Rowing,ROW,1904,5,0,official
+Rowing,Rowing,ROW,1908,4,0,official
+Rowing,Rowing,ROW,1912,4,0,official
+Rowing,Rowing,ROW,1920,5,0,official
+Rowing,Rowing,ROW,1924,7,0,official
+Rowing,Rowing,ROW,1928,7,0,official
+Rowing,Rowing,ROW,1932,7,0,official
+Rowing,Rowing,ROW,1936,7,0,official
+Rowing,Rowing,ROW,1948,7,0,official
+Rowing,Rowing,ROW,1952,7,0,official
+Rowing,Rowing,ROW,1956,7,0,official
+Rowing,Rowing,ROW,1960,7,0,official
+Rowing,Rowing,ROW,1964,7,0,official
+Rowing,Rowing,ROW,1968,7,0,official
+Rowing,Rowing,ROW,1972,7,0,official
+Rowing,Rowing,ROW,1976,14,0,official
+Rowing,Rowing,ROW,1980,14,0,official
+Rowing,Rowing,ROW,1984,14,0,official
+Rowing,Rowing,ROW,1988,14,0,official
+Rowing,Rowing,ROW,1992,14,0,official
+Rowing,Rowing,ROW,1996,14,0,official
+Rowing,Rowing,ROW,2000,14,0,official
+Rowing,Rowing,ROW,2004,14,0,official
+Rowing,Rowing,ROW,2008,14,0,official
+Rowing,Rowing,ROW,2012,14,0,official
+Rowing,Rowing,ROW,2016,14,0,official
+Rowing,Rowing,ROW,2020,14,0,official
+Rowing,Rowing,ROW,2024,14,0,official
+Rugby,Sevens,RU7,1896,0,0,official
+Rugby,Sevens,RU7,1900,0,0,official
+Rugby,Sevens,RU7,1904,0,0,official
+Rugby,Sevens,RU7,1908,0,0,official
+Rugby,Sevens,RU7,1912,0,0,official
+Rugby,Sevens,RU7,1920,0,0,official
+Rugby,Sevens,RU7,1924,0,0,official
+Rugby,Sevens,RU7,1928,0,0,official
+Rugby,Sevens,RU7,1932,0,0,official
+Rugby,Sevens,RU7,1936,0,0,official
+Rugby,Sevens,RU7,1948,0,0,official
+Rugby,Sevens,RU7,1952,0,0,official
+Rugby,Sevens,RU7,1956,0,0,official
+Rugby,Sevens,RU7,1960,0,0,official
+Rugby,Sevens,RU7,1964,0,0,official
+Rugby,Sevens,RU7,1968,0,0,official
+Rugby,Sevens,RU7,1972,0,0,official
+Rugby,Sevens,RU7,1976,0,0,official
+Rugby,Sevens,RU7,1980,0,0,official
+Rugby,Sevens,RU7,1984,0,0,official
+Rugby,Sevens,RU7,1988,0,0,official
+Rugby,Sevens,RU7,1992,0,0,official
+Rugby,Sevens,RU7,1996,0,0,official
+Rugby,Sevens,RU7,2000,0,0,official
+Rugby,Sevens,RU7,2004,0,0,official
+Rugby,Sevens,RU7,2008,0,0,official
+Rugby,Sevens,RU7,2012,0,0,official
+Rugby,Sevens,RU7,2016,2,0,official
+Rugby,Sevens,RU7,2020,2,0,official
+Rugby,Sevens,RU7,2024,2,0,official
+Rugby,Union,RUG,1896,0,0,official
+Rugby,Union,RUG,1900,1,0,official
+Rugby,Union,RUG,1904,0,0,official
+Rugby,Union,RUG,1908,1,0,official
+Rugby,Union,RUG,1912,0,0,official
+Rugby,Union,RUG,1920,1,0,official
+Rugby,Union,RUG,1924,1,0,official
+Rugby,Union,RUG,1928,0,0,official
+Rugby,Union,RUG,1932,0,0,official
+Rugby,Union,RUG,1936,0,0,official
+Rugby,Union,RUG,1948,0,0,official
+Rugby,Union,RUG,1952,0,0,official
+Rugby,Union,RUG,1956,0,0,official
+Rugby,Union,RUG,1960,0,0,official
+Rugby,Union,RUG,1964,0,0,official
+Rugby,Union,RUG,1968,0,0,official
+Rugby,Union,RUG,1972,0,0,official
+Rugby,Union,RUG,1976,0,0,official
+Rugby,Union,RUG,1980,0,0,official
+Rugby,Union,RUG,1984,0,0,official
+Rugby,Union,RUG,1988,0,0,official
+Rugby,Union,RUG,1992,0,0,official
+Rugby,Union,RUG,1996,0,0,official
+Rugby,Union,RUG,2000,0,0,official
+Rugby,Union,RUG,2004,0,0,official
+Rugby,Union,RUG,2008,0,0,official
+Rugby,Union,RUG,2012,0,0,official
+Rugby,Union,RUG,2016,0,0,official
+Rugby,Union,RUG,2020,0,0,official
+Rugby,Union,RUG,2024,0,0,official
+Sailing,Sailing,SAL,1896,0,0,cancelled_weather
+Sailing,Sailing,SAL,1900,13,0,official
+Sailing,Sailing,SAL,1904,0,0,official
+Sailing,Sailing,SAL,1908,4,0,official
+Sailing,Sailing,SAL,1912,4,0,official
+Sailing,Sailing,SAL,1920,14,0,official
+Sailing,Sailing,SAL,1924,3,0,official
+Sailing,Sailing,SAL,1928,3,0,official
+Sailing,Sailing,SAL,1932,4,0,official
+Sailing,Sailing,SAL,1936,4,0,official
+Sailing,Sailing,SAL,1948,5,0,official
+Sailing,Sailing,SAL,1952,5,0,official
+Sailing,Sailing,SAL,1956,5,0,official
+Sailing,Sailing,SAL,1960,5,0,official
+Sailing,Sailing,SAL,1964,5,0,official
+Sailing,Sailing,SAL,1968,5,0,official
+Sailing,Sailing,SAL,1972,6,0,official
+Sailing,Sailing,SAL,1976,6,0,official
+Sailing,Sailing,SAL,1980,6,0,official
+Sailing,Sailing,SAL,1984,7,0,official
+Sailing,Sailing,SAL,1988,8,0,official
+Sailing,Sailing,SAL,1992,10,0,official
+Sailing,Sailing,SAL,1996,10,0,official
+Sailing,Sailing,SAL,2000,11,0,official
+Sailing,Sailing,SAL,2004,11,0,official
+Sailing,Sailing,SAL,2008,11,0,official
+Sailing,Sailing,SAL,2012,10,0,official
+Sailing,Sailing,SAL,2016,10,0,official
+Sailing,Sailing,SAL,2020,10,0,official
+Sailing,Sailing,SAL,2024,10,0,official
+Shooting,Shooting,SHO,1896,5,0,official
+Shooting,Shooting,SHO,1900,8,0,official
+Shooting,Shooting,SHO,1904,0,0,official
+Shooting,Shooting,SHO,1908,15,0,official
+Shooting,Shooting,SHO,1912,18,0,official
+Shooting,Shooting,SHO,1920,21,0,official
+Shooting,Shooting,SHO,1924,10,0,official
+Shooting,Shooting,SHO,1928,0,0,official
+Shooting,Shooting,SHO,1932,2,0,official
+Shooting,Shooting,SHO,1936,3,0,official
+Shooting,Shooting,SHO,1948,4,0,official
+Shooting,Shooting,SHO,1952,7,0,official
+Shooting,Shooting,SHO,1956,7,0,official
+Shooting,Shooting,SHO,1960,6,0,official
+Shooting,Shooting,SHO,1964,6,0,official
+Shooting,Shooting,SHO,1968,7,0,official
+Shooting,Shooting,SHO,1972,8,0,official
+Shooting,Shooting,SHO,1976,7,0,official
+Shooting,Shooting,SHO,1980,7,0,official
+Shooting,Shooting,SHO,1984,11,0,official
+Shooting,Shooting,SHO,1988,13,0,official
+Shooting,Shooting,SHO,1992,13,0,official
+Shooting,Shooting,SHO,1996,15,0,official
+Shooting,Shooting,SHO,2000,17,0,official
+Shooting,Shooting,SHO,2004,17,0,official
+Shooting,Shooting,SHO,2008,15,0,official
+Shooting,Shooting,SHO,2012,15,0,official
+Shooting,Shooting,SHO,2016,15,0,official
+Shooting,Shooting,SHO,2020,15,0,official
+Shooting,Shooting,SHO,2024,15,0,official
+Skateboarding,Skateboarding,SKB,1896,0,0,official
+Skateboarding,Skateboarding,SKB,1900,0,0,official
+Skateboarding,Skateboarding,SKB,1904,0,0,official
+Skateboarding,Skateboarding,SKB,1908,0,0,official
+Skateboarding,Skateboarding,SKB,1912,0,0,official
+Skateboarding,Skateboarding,SKB,1920,0,0,official
+Skateboarding,Skateboarding,SKB,1924,0,0,official
+Skateboarding,Skateboarding,SKB,1928,0,0,official
+Skateboarding,Skateboarding,SKB,1932,0,0,official
+Skateboarding,Skateboarding,SKB,1936,0,0,official
+Skateboarding,Skateboarding,SKB,1948,0,0,official
+Skateboarding,Skateboarding,SKB,1952,0,0,official
+Skateboarding,Skateboarding,SKB,1956,0,0,official
+Skateboarding,Skateboarding,SKB,1960,0,0,official
+Skateboarding,Skateboarding,SKB,1964,0,0,official
+Skateboarding,Skateboarding,SKB,1968,0,0,official
+Skateboarding,Skateboarding,SKB,1972,0,0,official
+Skateboarding,Skateboarding,SKB,1976,0,0,official
+Skateboarding,Skateboarding,SKB,1980,0,0,official
+Skateboarding,Skateboarding,SKB,1984,0,0,official
+Skateboarding,Skateboarding,SKB,1988,0,0,official
+Skateboarding,Skateboarding,SKB,1992,0,0,official
+Skateboarding,Skateboarding,SKB,1996,0,0,official
+Skateboarding,Skateboarding,SKB,2000,0,0,official
+Skateboarding,Skateboarding,SKB,2004,0,0,official
+Skateboarding,Skateboarding,SKB,2008,0,0,official
+Skateboarding,Skateboarding,SKB,2012,0,0,official
+Skateboarding,Skateboarding,SKB,2016,0,0,official
+Skateboarding,Skateboarding,SKB,2020,4,0,official
+Skateboarding,Skateboarding,SKB,2024,4,0,official
+Skating,Figure,FSK,1896,0,0,official
+Skating,Figure,FSK,1900,0,0,official
+Skating,Figure,FSK,1904,0,0,official
+Skating,Figure,FSK,1908,4,0,official
+Skating,Figure,FSK,1912,0,0,official
+Skating,Figure,FSK,1920,3,0,official
+Skating,Figure,FSK,1924,0,0,winter_transfer
+Skating,Figure,FSK,1928,0,0,official
+Skating,Figure,FSK,1932,0,0,official
+Skating,Figure,FSK,1936,0,0,official
+Skating,Figure,FSK,1948,0,0,official
+Skating,Figure,FSK,1952,0,0,official
+Skating,Figure,FSK,1956,0,0,official
+Skating,Figure,FSK,1960,0,0,official
+Skating,Figure,FSK,1964,0,0,official
+Skating,Figure,FSK,1968,0,0,official
+Skating,Figure,FSK,1972,0,0,official
+Skating,Figure,FSK,1976,0,0,official
+Skating,Figure,FSK,1980,0,0,official
+Skating,Figure,FSK,1984,0,0,official
+Skating,Figure,FSK,1988,0,0,official
+Skating,Figure,FSK,1992,0,0,official
+Skating,Figure,FSK,1996,0,0,official
+Skating,Figure,FSK,2000,0,0,official
+Skating,Figure,FSK,2004,0,0,official
+Skating,Figure,FSK,2008,0,0,official
+Skating,Figure,FSK,2012,0,0,official
+Skating,Figure,FSK,2016,0,0,official
+Skating,Figure,FSK,2020,0,0,official
+Skating,Figure,FSK,2024,0,0,official
+Sport Climbing,Sport Climbing,CLB,1896,0,0,official
+Sport Climbing,Sport Climbing,CLB,1900,0,0,official
+Sport Climbing,Sport Climbing,CLB,1904,0,0,official
+Sport Climbing,Sport Climbing,CLB,1908,0,0,official
+Sport Climbing,Sport Climbing,CLB,1912,0,0,official
+Sport Climbing,Sport Climbing,CLB,1920,0,0,official
+Sport Climbing,Sport Climbing,CLB,1924,0,0,official
+Sport Climbing,Sport Climbing,CLB,1928,0,0,official
+Sport Climbing,Sport Climbing,CLB,1932,0,0,official
+Sport Climbing,Sport Climbing,CLB,1936,0,0,official
+Sport Climbing,Sport Climbing,CLB,1948,0,0,official
+Sport Climbing,Sport Climbing,CLB,1952,0,0,official
+Sport Climbing,Sport Climbing,CLB,1956,0,0,official
+Sport Climbing,Sport Climbing,CLB,1960,0,0,official
+Sport Climbing,Sport Climbing,CLB,1964,0,0,official
+Sport Climbing,Sport Climbing,CLB,1968,0,0,official
+Sport Climbing,Sport Climbing,CLB,1972,0,0,official
+Sport Climbing,Sport Climbing,CLB,1976,0,0,official
+Sport Climbing,Sport Climbing,CLB,1980,0,0,official
+Sport Climbing,Sport Climbing,CLB,1984,0,0,official
+Sport Climbing,Sport Climbing,CLB,1988,0,0,official
+Sport Climbing,Sport Climbing,CLB,1992,0,0,official
+Sport Climbing,Sport Climbing,CLB,1996,0,0,official
+Sport Climbing,Sport Climbing,CLB,2000,0,0,official
+Sport Climbing,Sport Climbing,CLB,2004,0,0,official
+Sport Climbing,Sport Climbing,CLB,2008,0,0,official
+Sport Climbing,Sport Climbing,CLB,2012,0,0,official
+Sport Climbing,Sport Climbing,CLB,2016,0,0,official
+Sport Climbing,Sport Climbing,CLB,2020,2,0,official
+Sport Climbing,Sport Climbing,CLB,2024,4,0,official
+Squash,Squash,SQU,1896,0,0,official
+Squash,Squash,SQU,1900,0,0,official
+Squash,Squash,SQU,1904,0,0,official
+Squash,Squash,SQU,1908,0,0,official
+Squash,Squash,SQU,1912,0,0,official
+Squash,Squash,SQU,1920,0,0,official
+Squash,Squash,SQU,1924,0,0,official
+Squash,Squash,SQU,1928,0,0,official
+Squash,Squash,SQU,1932,0,0,official
+Squash,Squash,SQU,1936,0,0,official
+Squash,Squash,SQU,1948,0,0,official
+Squash,Squash,SQU,1952,0,0,official
+Squash,Squash,SQU,1956,0,0,official
+Squash,Squash,SQU,1960,0,0,official
+Squash,Squash,SQU,1964,0,0,official
+Squash,Squash,SQU,1968,0,0,official
+Squash,Squash,SQU,1972,0,0,official
+Squash,Squash,SQU,1976,0,0,official
+Squash,Squash,SQU,1980,0,0,official
+Squash,Squash,SQU,1984,0,0,official
+Squash,Squash,SQU,1988,0,0,official
+Squash,Squash,SQU,1992,0,0,official
+Squash,Squash,SQU,1996,0,0,official
+Squash,Squash,SQU,2000,0,0,official
+Squash,Squash,SQU,2004,0,0,official
+Squash,Squash,SQU,2008,0,0,official
+Squash,Squash,SQU,2012,0,0,official
+Squash,Squash,SQU,2016,0,0,official
+Squash,Squash,SQU,2020,0,0,official
+Squash,Squash,SQU,2024,0,0,official
+Surfing,Surfing,SRF,1896,0,0,official
+Surfing,Surfing,SRF,1900,0,0,official
+Surfing,Surfing,SRF,1904,0,0,official
+Surfing,Surfing,SRF,1908,0,0,official
+Surfing,Surfing,SRF,1912,0,0,official
+Surfing,Surfing,SRF,1920,0,0,official
+Surfing,Surfing,SRF,1924,0,0,official
+Surfing,Surfing,SRF,1928,0,0,official
+Surfing,Surfing,SRF,1932,0,0,official
+Surfing,Surfing,SRF,1936,0,0,official
+Surfing,Surfing,SRF,1948,0,0,official
+Surfing,Surfing,SRF,1952,0,0,official
+Surfing,Surfing,SRF,1956,0,0,official
+Surfing,Surfing,SRF,1960,0,0,official
+Surfing,Surfing,SRF,1964,0,0,official
+Surfing,Surfing,SRF,1968,0,0,official
+Surfing,Surfing,SRF,1972,0,0,official
+Surfing,Surfing,SRF,1976,0,0,official
+Surfing,Surfing,SRF,1980,0,0,official
+Surfing,Surfing,SRF,1984,0,0,official
+Surfing,Surfing,SRF,1988,0,0,official
+Surfing,Surfing,SRF,1992,0,0,official
+Surfing,Surfing,SRF,1996,0,0,official
+Surfing,Surfing,SRF,2000,0,0,official
+Surfing,Surfing,SRF,2004,0,0,official
+Surfing,Surfing,SRF,2008,0,0,official
+Surfing,Surfing,SRF,2012,0,0,official
+Surfing,Surfing,SRF,2016,0,0,official
+Surfing,Surfing,SRF,2020,2,0,official
+Surfing,Surfing,SRF,2024,2,0,official
+Table Tennis,Table Tennis,TTE,1896,0,0,official
+Table Tennis,Table Tennis,TTE,1900,0,0,official
+Table Tennis,Table Tennis,TTE,1904,0,0,official
+Table Tennis,Table Tennis,TTE,1908,0,0,official
+Table Tennis,Table Tennis,TTE,1912,0,0,official
+Table Tennis,Table Tennis,TTE,1920,0,0,official
+Table Tennis,Table Tennis,TTE,1924,0,0,official
+Table Tennis,Table Tennis,TTE,1928,0,0,official
+Table Tennis,Table Tennis,TTE,1932,0,0,official
+Table Tennis,Table Tennis,TTE,1936,0,0,official
+Table Tennis,Table Tennis,TTE,1948,0,0,official
+Table Tennis,Table Tennis,TTE,1952,0,0,official
+Table Tennis,Table Tennis,TTE,1956,0,0,official
+Table Tennis,Table Tennis,TTE,1960,0,0,official
+Table Tennis,Table Tennis,TTE,1964,0,0,official
+Table Tennis,Table Tennis,TTE,1968,0,0,official
+Table Tennis,Table Tennis,TTE,1972,0,0,official
+Table Tennis,Table Tennis,TTE,1976,0,0,official
+Table Tennis,Table Tennis,TTE,1980,0,0,official
+Table Tennis,Table Tennis,TTE,1984,0,0,official
+Table Tennis,Table Tennis,TTE,1988,4,0,official
+Table Tennis,Table Tennis,TTE,1992,4,0,official
+Table Tennis,Table Tennis,TTE,1996,4,0,official
+Table Tennis,Table Tennis,TTE,2000,4,0,official
+Table Tennis,Table Tennis,TTE,2004,4,0,official
+Table Tennis,Table Tennis,TTE,2008,4,0,official
+Table Tennis,Table Tennis,TTE,2012,4,0,official
+Table Tennis,Table Tennis,TTE,2016,4,0,official
+Table Tennis,Table Tennis,TTE,2020,5,0,official
+Table Tennis,Table Tennis,TTE,2024,5,0,official
+Taekwondo,Taekwondo,TKW,1896,0,0,official
+Taekwondo,Taekwondo,TKW,1900,0,0,official
+Taekwondo,Taekwondo,TKW,1904,0,0,official
+Taekwondo,Taekwondo,TKW,1908,0,0,official
+Taekwondo,Taekwondo,TKW,1912,0,0,official
+Taekwondo,Taekwondo,TKW,1920,0,0,official
+Taekwondo,Taekwondo,TKW,1924,0,0,official
+Taekwondo,Taekwondo,TKW,1928,0,0,official
+Taekwondo,Taekwondo,TKW,1932,0,0,official
+Taekwondo,Taekwondo,TKW,1936,0,0,official
+Taekwondo,Taekwondo,TKW,1948,0,0,official
+Taekwondo,Taekwondo,TKW,1952,0,0,official
+Taekwondo,Taekwondo,TKW,1956,0,0,official
+Taekwondo,Taekwondo,TKW,1960,0,0,official
+Taekwondo,Taekwondo,TKW,1964,0,0,official
+Taekwondo,Taekwondo,TKW,1968,0,0,official
+Taekwondo,Taekwondo,TKW,1972,0,0,official
+Taekwondo,Taekwondo,TKW,1976,0,0,official
+Taekwondo,Taekwondo,TKW,1980,0,0,official
+Taekwondo,Taekwondo,TKW,1984,0,0,official
+Taekwondo,Taekwondo,TKW,1988,0,1,demo
+Taekwondo,Taekwondo,TKW,1992,8,0,official
+Taekwondo,Taekwondo,TKW,1996,8,0,official
+Taekwondo,Taekwondo,TKW,2000,8,0,official
+Taekwondo,Taekwondo,TKW,2004,8,0,official
+Taekwondo,Taekwondo,TKW,2008,8,0,official
+Taekwondo,Taekwondo,TKW,2012,8,0,official
+Taekwondo,Taekwondo,TKW,2016,8,0,official
+Taekwondo,Taekwondo,TKW,2020,0,0,official
+Taekwondo,Taekwondo,TKW,2024,0,0,official
+Tennis,Tennis,TEN,1896,2,0,official
+Tennis,Tennis,TEN,1900,4,0,official
+Tennis,Tennis,TEN,1904,2,0,official
+Tennis,Tennis,TEN,1908,6,0,official
+Tennis,Tennis,TEN,1912,8,0,official
+Tennis,Tennis,TEN,1920,5,0,official
+Tennis,Tennis,TEN,1924,5,0,official
+Tennis,Tennis,TEN,1928,0,0,official
+Tennis,Tennis,TEN,1932,0,0,official
+Tennis,Tennis,TEN,1936,0,0,official
+Tennis,Tennis,TEN,1948,0,0,official
+Tennis,Tennis,TEN,1952,0,0,official
+Tennis,Tennis,TEN,1956,0,0,official
+Tennis,Tennis,TEN,1960,0,0,official
+Tennis,Tennis,TEN,1964,0,0,official
+Tennis,Tennis,TEN,1968,0,1,demo
+Tennis,Tennis,TEN,1972,0,0,official
+Tennis,Tennis,TEN,1976,0,0,official
+Tennis,Tennis,TEN,1980,4,1,demo
+Tennis,Tennis,TEN,1984,4,0,official
+Tennis,Tennis,TEN,1988,4,0,official
+Tennis,Tennis,TEN,1992,4,0,official
+Tennis,Tennis,TEN,1996,4,0,official
+Tennis,Tennis,TEN,2000,4,0,official
+Tennis,Tennis,TEN,2004,5,0,official
+Tennis,Tennis,TEN,2008,5,0,official
+Tennis,Tennis,TEN,2012,5,0,official
+Tennis,Tennis,TEN,2016,5,0,official
+Tennis,Tennis,TEN,2020,0,0,official
+Tennis,Tennis,TEN,2024,0,0,official
+Triathlon,Triathlon,TRI,1896,0,0,official
+Triathlon,Triathlon,TRI,1900,0,0,official
+Triathlon,Triathlon,TRI,1904,0,0,official
+Triathlon,Triathlon,TRI,1908,0,0,official
+Triathlon,Triathlon,TRI,1912,0,0,official
+Triathlon,Triathlon,TRI,1920,0,0,official
+Triathlon,Triathlon,TRI,1924,0,0,official
+Triathlon,Triathlon,TRI,1928,0,0,official
+Triathlon,Triathlon,TRI,1932,0,0,official
+Triathlon,Triathlon,TRI,1936,0,0,official
+Triathlon,Triathlon,TRI,1948,0,0,official
+Triathlon,Triathlon,TRI,1952,0,0,official
+Triathlon,Triathlon,TRI,1956,0,0,official
+Triathlon,Triathlon,TRI,1960,0,0,official
+Triathlon,Triathlon,TRI,1964,0,0,official
+Triathlon,Triathlon,TRI,1968,0,0,official
+Triathlon,Triathlon,TRI,1972,0,0,official
+Triathlon,Triathlon,TRI,1976,0,0,official
+Triathlon,Triathlon,TRI,1980,0,0,official
+Triathlon,Triathlon,TRI,1984,0,0,official
+Triathlon,Triathlon,TRI,1988,0,0,official
+Triathlon,Triathlon,TRI,1992,0,0,official
+Triathlon,Triathlon,TRI,1996,0,0,official
+Triathlon,Triathlon,TRI,2000,2,0,official
+Triathlon,Triathlon,TRI,2004,2,0,official
+Triathlon,Triathlon,TRI,2008,2,0,official
+Triathlon,Triathlon,TRI,2012,2,0,official
+Triathlon,Triathlon,TRI,2016,2,0,official
+Triathlon,Triathlon,TRI,2020,3,0,official
+Triathlon,Triathlon,TRI,2024,3,0,official
+Tug of War,Tug of War,TOW,1896,0,0,official
+Tug of War,Tug of War,TOW,1900,1,0,official
+Tug of War,Tug of War,TOW,1904,1,0,official
+Tug of War,Tug of War,TOW,1908,1,0,official
+Tug of War,Tug of War,TOW,1912,1,0,official
+Tug of War,Tug of War,TOW,1920,1,0,official
+Tug of War,Tug of War,TOW,1924,0,0,official
+Tug of War,Tug of War,TOW,1928,0,0,official
+Tug of War,Tug of War,TOW,1932,0,0,official
+Tug of War,Tug of War,TOW,1936,0,0,official
+Tug of War,Tug of War,TOW,1948,0,0,official
+Tug of War,Tug of War,TOW,1952,0,0,official
+Tug of War,Tug of War,TOW,1956,0,0,official
+Tug of War,Tug of War,TOW,1960,0,0,official
+Tug of War,Tug of War,TOW,1964,0,0,official
+Tug of War,Tug of War,TOW,1968,0,0,official
+Tug of War,Tug of War,TOW,1972,0,0,official
+Tug of War,Tug of War,TOW,1976,0,0,official
+Tug of War,Tug of War,TOW,1980,0,0,official
+Tug of War,Tug of War,TOW,1984,0,0,official
+Tug of War,Tug of War,TOW,1988,0,0,official
+Tug of War,Tug of War,TOW,1992,0,0,official
+Tug of War,Tug of War,TOW,1996,0,0,official
+Tug of War,Tug of War,TOW,2000,0,0,official
+Tug of War,Tug of War,TOW,2004,0,0,official
+Tug of War,Tug of War,TOW,2008,0,0,official
+Tug of War,Tug of War,TOW,2012,0,0,official
+Tug of War,Tug of War,TOW,2016,0,0,official
+Tug of War,Tug of War,TOW,2020,0,0,official
+Tug of War,Tug of War,TOW,2024,0,0,official
+Volleyball,Beach,VBV,1896,0,0,official
+Volleyball,Beach,VBV,1900,0,0,official
+Volleyball,Beach,VBV,1904,0,0,official
+Volleyball,Beach,VBV,1908,0,0,official
+Volleyball,Beach,VBV,1912,0,0,official
+Volleyball,Beach,VBV,1920,0,0,official
+Volleyball,Beach,VBV,1924,0,0,official
+Volleyball,Beach,VBV,1928,0,0,official
+Volleyball,Beach,VBV,1932,0,0,official
+Volleyball,Beach,VBV,1936,0,0,official
+Volleyball,Beach,VBV,1948,0,0,official
+Volleyball,Beach,VBV,1952,0,0,official
+Volleyball,Beach,VBV,1956,0,0,official
+Volleyball,Beach,VBV,1960,0,0,official
+Volleyball,Beach,VBV,1964,0,0,official
+Volleyball,Beach,VBV,1968,0,0,official
+Volleyball,Beach,VBV,1972,0,0,official
+Volleyball,Beach,VBV,1976,0,0,official
+Volleyball,Beach,VBV,1980,0,0,official
+Volleyball,Beach,VBV,1984,0,0,official
+Volleyball,Beach,VBV,1988,0,0,official
+Volleyball,Beach,VBV,1992,0,0,official
+Volleyball,Beach,VBV,1996,2,0,official
+Volleyball,Beach,VBV,2000,2,0,official
+Volleyball,Beach,VBV,2004,2,0,official
+Volleyball,Beach,VBV,2008,2,0,official
+Volleyball,Beach,VBV,2012,2,0,official
+Volleyball,Beach,VBV,2016,2,0,official
+Volleyball,Beach,VBV,2020,2,0,official
+Volleyball,Beach,VBV,2024,2,0,official
+Volleyball,Indoor,VVO,1896,0,0,official
+Volleyball,Indoor,VVO,1900,0,0,official
+Volleyball,Indoor,VVO,1904,0,0,official
+Volleyball,Indoor,VVO,1908,0,0,official
+Volleyball,Indoor,VVO,1912,0,0,official
+Volleyball,Indoor,VVO,1920,0,0,official
+Volleyball,Indoor,VVO,1924,0,1,demo
+Volleyball,Indoor,VVO,1928,0,0,official
+Volleyball,Indoor,VVO,1932,0,0,official
+Volleyball,Indoor,VVO,1936,0,0,official
+Volleyball,Indoor,VVO,1948,0,0,official
+Volleyball,Indoor,VVO,1952,0,0,official
+Volleyball,Indoor,VVO,1956,0,0,official
+Volleyball,Indoor,VVO,1960,2,0,official
+Volleyball,Indoor,VVO,1964,2,0,official
+Volleyball,Indoor,VVO,1968,2,0,official
+Volleyball,Indoor,VVO,1972,2,0,official
+Volleyball,Indoor,VVO,1976,2,0,official
+Volleyball,Indoor,VVO,1980,2,0,official
+Volleyball,Indoor,VVO,1984,2,0,official
+Volleyball,Indoor,VVO,1988,2,0,official
+Volleyball,Indoor,VVO,1992,2,0,official
+Volleyball,Indoor,VVO,1996,2,0,official
+Volleyball,Indoor,VVO,2000,2,0,official
+Volleyball,Indoor,VVO,2004,2,0,official
+Volleyball,Indoor,VVO,2008,2,0,official
+Volleyball,Indoor,VVO,2012,2,0,official
+Volleyball,Indoor,VVO,2016,2,0,official
+Volleyball,Indoor,VVO,2020,2,0,official
+Volleyball,Indoor,VVO,2024,0,0,official
+Water Motorsports,,PBT,1896,0,0,official
+Water Motorsports,,PBT,1900,0,1,demo
+Water Motorsports,,PBT,1904,0,0,official
+Water Motorsports,,PBT,1908,0,0,official
+Water Motorsports,,PBT,1912,0,0,official
+Water Motorsports,,PBT,1920,0,0,official
+Water Motorsports,,PBT,1924,0,0,official
+Water Motorsports,,PBT,1928,0,0,official
+Water Motorsports,,PBT,1932,0,0,official
+Water Motorsports,,PBT,1936,0,0,official
+Water Motorsports,,PBT,1948,0,0,official
+Water Motorsports,,PBT,1952,0,0,official
+Water Motorsports,,PBT,1956,0,0,official
+Water Motorsports,,PBT,1960,0,0,official
+Water Motorsports,,PBT,1964,0,0,official
+Water Motorsports,,PBT,1968,0,0,official
+Water Motorsports,,PBT,1972,0,0,official
+Water Motorsports,,PBT,1976,0,0,official
+Water Motorsports,,PBT,1980,0,0,official
+Water Motorsports,,PBT,1984,0,0,official
+Water Motorsports,,PBT,1988,0,0,official
+Water Motorsports,,PBT,1992,0,0,official
+Water Motorsports,,PBT,1996,0,0,official
+Water Motorsports,,PBT,2000,0,0,official
+Water Motorsports,,PBT,2004,0,0,official
+Water Motorsports,,PBT,2008,0,0,official
+Water Motorsports,,PBT,2012,0,0,official
+Water Motorsports,,PBT,2016,0,0,official
+Water Motorsports,,PBT,2020,0,0,official
+Water Motorsports,,PBT,2024,0,0,official
+Weightlifting,Weightlifting,WLF,1896,2,0,official
+Weightlifting,Weightlifting,WLF,1900,2,0,official
+Weightlifting,Weightlifting,WLF,1904,2,0,official
+Weightlifting,Weightlifting,WLF,1908,0,0,official
+Weightlifting,Weightlifting,WLF,1912,0,0,official
+Weightlifting,Weightlifting,WLF,1920,5,0,official
+Weightlifting,Weightlifting,WLF,1924,5,0,official
+Weightlifting,Weightlifting,WLF,1928,5,0,official
+Weightlifting,Weightlifting,WLF,1932,5,0,official
+Weightlifting,Weightlifting,WLF,1936,5,0,official
+Weightlifting,Weightlifting,WLF,1948,6,0,official
+Weightlifting,Weightlifting,WLF,1952,7,0,official
+Weightlifting,Weightlifting,WLF,1956,7,0,official
+Weightlifting,Weightlifting,WLF,1960,7,0,official
+Weightlifting,Weightlifting,WLF,1964,7,0,official
+Weightlifting,Weightlifting,WLF,1968,7,0,official
+Weightlifting,Weightlifting,WLF,1972,9,0,official
+Weightlifting,Weightlifting,WLF,1976,9,0,official
+Weightlifting,Weightlifting,WLF,1980,10,0,official
+Weightlifting,Weightlifting,WLF,1984,10,0,official
+Weightlifting,Weightlifting,WLF,1988,10,0,official
+Weightlifting,Weightlifting,WLF,1992,10,0,official
+Weightlifting,Weightlifting,WLF,1996,10,0,official
+Weightlifting,Weightlifting,WLF,2000,15,0,official
+Weightlifting,Weightlifting,WLF,2004,15,0,official
+Weightlifting,Weightlifting,WLF,2008,15,0,official
+Weightlifting,Weightlifting,WLF,2012,15,0,official
+Weightlifting,Weightlifting,WLF,2016,15,0,official
+Weightlifting,Weightlifting,WLF,2020,14,0,official
+Weightlifting,Weightlifting,WLF,2024,10,0,official
+Wrestling,Freestyle,WRF,1896,0,0,official
+Wrestling,Freestyle,WRF,1900,0,0,official
+Wrestling,Freestyle,WRF,1904,7,0,official
+Wrestling,Freestyle,WRF,1908,5,0,official
+Wrestling,Freestyle,WRF,1912,0,0,official
+Wrestling,Freestyle,WRF,1920,5,0,official
+Wrestling,Freestyle,WRF,1924,7,0,official
+Wrestling,Freestyle,WRF,1928,7,0,official
+Wrestling,Freestyle,WRF,1932,7,0,official
+Wrestling,Freestyle,WRF,1936,7,0,official
+Wrestling,Freestyle,WRF,1948,8,0,official
+Wrestling,Freestyle,WRF,1952,8,0,official
+Wrestling,Freestyle,WRF,1956,8,0,official
+Wrestling,Freestyle,WRF,1960,8,0,official
+Wrestling,Freestyle,WRF,1964,8,0,official
+Wrestling,Freestyle,WRF,1968,8,0,official
+Wrestling,Freestyle,WRF,1972,10,0,official
+Wrestling,Freestyle,WRF,1976,10,0,official
+Wrestling,Freestyle,WRF,1980,10,0,official
+Wrestling,Freestyle,WRF,1984,10,0,official
+Wrestling,Freestyle,WRF,1988,10,0,official
+Wrestling,Freestyle,WRF,1992,10,0,official
+Wrestling,Freestyle,WRF,1996,10,0,official
+Wrestling,Freestyle,WRF,2000,8,0,official
+Wrestling,Freestyle,WRF,2004,11,0,official
+Wrestling,Freestyle,WRF,2008,11,0,official
+Wrestling,Freestyle,WRF,2012,11,0,official
+Wrestling,Freestyle,WRF,2016,12,0,official
+Wrestling,Freestyle,WRF,2020,12,0,official
+Wrestling,Freestyle,WRF,2024,12,0,official
+Wrestling,Greco-Roman,WRG,1896,1,0,official
+Wrestling,Greco-Roman,WRG,1900,0,0,official
+Wrestling,Greco-Roman,WRG,1904,0,0,official
+Wrestling,Greco-Roman,WRG,1908,4,0,official
+Wrestling,Greco-Roman,WRG,1912,5,0,official
+Wrestling,Greco-Roman,WRG,1920,5,0,official
+Wrestling,Greco-Roman,WRG,1924,6,0,official
+Wrestling,Greco-Roman,WRG,1928,6,0,official
+Wrestling,Greco-Roman,WRG,1932,7,0,official
+Wrestling,Greco-Roman,WRG,1936,7,0,official
+Wrestling,Greco-Roman,WRG,1948,8,0,official
+Wrestling,Greco-Roman,WRG,1952,8,0,official
+Wrestling,Greco-Roman,WRG,1956,8,0,official
+Wrestling,Greco-Roman,WRG,1960,8,0,official
+Wrestling,Greco-Roman,WRG,1964,8,0,official
+Wrestling,Greco-Roman,WRG,1968,8,0,official
+Wrestling,Greco-Roman,WRG,1972,10,0,official
+Wrestling,Greco-Roman,WRG,1976,10,0,official
+Wrestling,Greco-Roman,WRG,1980,10,0,official
+Wrestling,Greco-Roman,WRG,1984,10,0,official
+Wrestling,Greco-Roman,WRG,1988,10,0,official
+Wrestling,Greco-Roman,WRG,1992,10,0,official
+Wrestling,Greco-Roman,WRG,1996,10,0,official
+Wrestling,Greco-Roman,WRG,2000,8,0,official
+Wrestling,Greco-Roman,WRG,2004,7,0,official
+Wrestling,Greco-Roman,WRG,2008,7,0,official
+Wrestling,Greco-Roman,WRG,2012,7,0,official
+Wrestling,Greco-Roman,WRG,2016,6,0,official
+Wrestling,Greco-Roman,WRG,2020,6,0,official
+Wrestling,Greco-Roman,WRG,2024,6,0,official

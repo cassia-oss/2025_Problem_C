@@ -29,7 +29,9 @@ ATHLETES_CLEAN = CLEANED_DIR / 'athletes_clean.csv'
 MEDAL_COUNTS_CLEAN = CLEANED_DIR / 'medal_counts_clean.csv'
 PROGRAMS_CLEAN = CLEANED_DIR / 'programs_clean.csv'
 HOSTS_CLEAN = CLEANED_DIR / 'hosts_clean.csv'
-NOC_MAPPING = CLEANED_DIR / 'noc_mapping.csv'
+NOC_MAPPING = CLEANED_DIR / 'noc_mapping_v2.csv'
+ATHLETE_DISCIPLINE_MAP = CLEANED_DIR / 'athlete_discipline_map.csv'
+DISCIPLINE_MAP_REVIEW = CLEANED_DIR / 'discipline_map_review.csv'
 NOC_DECISIONS_MANUAL = CLEANED_DIR / 'noc_decisions_manual.csv'
 UNKNOWN_NOC = CLEANED_DIR / 'unknown_noc.csv'
 MEDAL_MISMATCH = CLEANED_DIR / 'medal_mismatch.csv'
@@ -49,7 +51,9 @@ VALID_MEDALS = {'Gold', 'Silver', 'Bronze', 'No medal'}
 FIRST_OLYMPIC_YEAR = 1896
 LAST_OLYMPIC_YEAR = 2024
 
-# All valid Summer Olympic years (1896–2024, every 4 years, excluding cancelled)
+# All valid Summer Olympic years (1896–2024, every 4 years, excluding cancelled).
+# 1906 Intercalated Games is excluded (D10): breaks the 4-year cycle, causes lag
+# feature misalignment, and was never an official IOC Olympiad.
 OLYMPIC_YEARS = sorted(
     {y for y in range(FIRST_OLYMPIC_YEAR, LAST_OLYMPIC_YEAR + 1, 4)
      if y not in CANCELLED_YEARS}

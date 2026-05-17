@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"name": "python 与人工智能",
+			"path": "../../../../school/junior_last/python 与人工智能"
+		},
+		{
+			"name": "machine_learning",
+			"path": "../../../../school/junior_last/machine_learning"
+		},
+		{
+			"name": "BA_contest",
+			"path": "../../../BA_contest"
+		},
+		{
+			"name": "python_data_test",
+			"path": "../../../../school/python_data_test"
+		},
+		{
+			"path": "../../../../school/junior_last/金融工程"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"python-envs.defaultEnvManager": "ms-python.python:conda",
+		"python-envs.defaultPackageManager": "ms-python.python:conda"
+	}
+}

@@ -30,3 +30,7 @@ You are a teacher and guide for Cassie, who is working through the 2025 MCM Prob
   - `tests/` — unit tests
   - `essay/` — final paper
 - **All generated files** must go into the appropriate subdirectory per PIPELINE.md. Never dump files in the repo root.
+
+## Plan → PIPELINE Sync Rule
+
+**After every plan-mode discussion that results in design decisions**, immediately write those decisions into PIPELINE.md (new decision IDs, updated section content, revised checklists) BEFORE exiting plan mode or beginning implementation. PIPELINE.md is the single source of truth — the plan file is temporary scaffolding. Never leave PIPELINE.md out of sync with decisions made during planning.

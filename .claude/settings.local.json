@@ -3,7 +3,16 @@
     "allow": [
       "Bash(git -C \"D:/Vault/Future/2025_Problem_C\" log --oneline --all)",
       "Bash(git -C \"D:/Vault/Future/2025_Problem_C\" ls-files \"2025_Problem_C_Data/\")",
-      "Bash(python src/utils/config.py)"
+      "Bash(python src/utils/config.py)",
+      "Bash(python -c ' *)",
+      "WebSearch",
+      "Bash(python src/preprocess/build_discipline_map.py)",
+      "Bash(python src/features/build_features.py)",
+      "Bash(python -m pytest tests/ -q)",
+      "Bash(awk -F',' 'NR>1 && $1!=\"\" {entities[$1]=1} END {for \\(e in entities\\) print e}' \"D:/Vault/Future/2025_Problem_C/output/features/feature_matrix.csv\")",
+      "Bash(awk *)",
+      "Bash(python3 *)",
+      "Bash(python -m pytest tests/ -v)"
     ]
   }
 }

@@ -1,0 +1,100 @@
+Total removals: 41
+
+By reason type:
+  G_ath=50 vs G_off=27 S_ath=93 vs S_off=39 B_ath=82 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=78 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=76 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=75 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=74 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=73 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=72 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=71 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=70 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=69 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=68 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=67 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=66 vs B_off=...: 1
+  G_ath=16 vs G_off=6 S_ath=4 vs S_off=2 B_ath=1 vs B_off=1...: 1
+  G_ath=15 vs G_off=6 S_ath=4 vs S_off=2 B_ath=1 vs B_off=1...: 1
+  G_ath=14 vs G_off=6 S_ath=4 vs S_off=2 B_ath=1 vs B_off=1...: 1
+  G_ath=13 vs G_off=6 S_ath=4 vs S_off=2 B_ath=1 vs B_off=1...: 1
+  G_ath=13 vs G_off=6 S_ath=3 vs S_off=2 B_ath=1 vs B_off=1...: 1
+  G_ath=5 vs G_off=5 S_ath=25 vs S_off=10 B_ath=6 vs B_off=5...: 1
+  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=77 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=79 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=93 vs S_off=39 B_ath=82 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=80 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=92 vs S_off=39 B_ath=82 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=91 vs S_off=39 B_ath=82 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=90 vs S_off=39 B_ath=82 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=89 vs S_off=39 B_ath=82 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=88 vs S_off=39 B_ath=82 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=87 vs S_off=39 B_ath=82 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=86 vs S_off=39 B_ath=82 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=85 vs S_off=39 B_ath=82 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=84 vs S_off=39 B_ath=82 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=83 vs S_off=39 B_ath=82 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=82 vs S_off=39 B_ath=82 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=81 vs S_off=39 B_ath=82 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=80 vs S_off=39 B_ath=82 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=79 vs S_off=39 B_ath=82 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=78 vs S_off=39 B_ath=82 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=82 vs B_off=...: 1
+  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=81 vs B_off=...: 1
+  G_ath=5 vs G_off=5 S_ath=24 vs S_off=10 B_ath=6 vs B_off=5...: 1
+
+By dropped_medal:
+dropped_medal
+Silver    19
+Bronze    18
+Gold       4
+
+By kept_medal:
+kept_medal
+Silver    20
+Bronze    18
+Gold       3
+
+All rows:
+                 Name  NOC  Year dropped_medal kept_medal                                                          reason
+0      Pierre Gervais  FRA  1900          Gold     Bronze  G_ath=50 vs G_off=27 S_ath=93 vs S_off=39 B_ath=82 vs B_off=37
+1           A. Dubois  FRA  1900        Silver     Bronze  G_ath=49 vs G_off=27 S_ath=93 vs S_off=39 B_ath=82 vs B_off=37
+2        Albert Duval  FRA  1900        Silver     Bronze  G_ath=49 vs G_off=27 S_ath=92 vs S_off=39 B_ath=82 vs B_off=37
+3      Auguste Albert  FRA  1900        Silver     Bronze  G_ath=49 vs G_off=27 S_ath=91 vs S_off=39 B_ath=82 vs B_off=37
+4    Camille Michelet  FRA  1900        Silver     Bronze  G_ath=49 vs G_off=27 S_ath=90 vs S_off=39 B_ath=82 vs B_off=37
+5    Charles Guiraist  FRA  1900        Silver     Bronze  G_ath=49 vs G_off=27 S_ath=89 vs S_off=39 B_ath=82 vs B_off=37
+6        Charles Hugo  FRA  1900        Silver     Bronze  G_ath=49 vs G_off=27 S_ath=88 vs S_off=39 B_ath=82 vs B_off=37
+7      Charles Martin  FRA  1900        Silver     Bronze  G_ath=49 vs G_off=27 S_ath=87 vs S_off=39 B_ath=82 vs B_off=37
+8       Flix Marcotte  FRA  1900        Silver     Bronze  G_ath=49 vs G_off=27 S_ath=86 vs S_off=39 B_ath=82 vs B_off=37
+9   Franois (caubet-)  FRA  1900        Silver     Bronze  G_ath=49 vs G_off=27 S_ath=85 vs S_off=39 B_ath=82 vs B_off=37
+10       Gabriel Bret  FRA  1900        Silver     Bronze  G_ath=49 vs G_off=27 S_ath=84 vs S_off=39 B_ath=82 vs B_off=37
+11      Henri Gufflet  FRA  1900        Silver     Bronze  G_ath=49 vs G_off=27 S_ath=83 vs S_off=39 B_ath=82 vs B_off=37
+12       Henri Valton  FRA  1900        Silver     Bronze  G_ath=49 vs G_off=27 S_ath=82 vs S_off=39 B_ath=82 vs B_off=37
+13          J. Dubois  FRA  1900        Silver     Bronze  G_ath=49 vs G_off=27 S_ath=81 vs S_off=39 B_ath=82 vs B_off=37
+14   Jacques Baudrier  FRA  1900        Silver     Bronze  G_ath=49 vs G_off=27 S_ath=80 vs S_off=39 B_ath=82 vs B_off=37
+15       Marcel Meran  FRA  1900        Silver     Bronze  G_ath=49 vs G_off=27 S_ath=79 vs S_off=39 B_ath=82 vs B_off=37
+16     Robert Gufflet  FRA  1900        Silver     Bronze  G_ath=49 vs G_off=27 S_ath=78 vs S_off=39 B_ath=82 vs B_off=37
+17          A. Dubois  FRA  1900        Bronze     Silver  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=82 vs B_off=37
+18       Albert Duval  FRA  1900        Bronze     Silver  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=81 vs B_off=37
+19     Auguste Albert  FRA  1900        Bronze     Silver  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=80 vs B_off=37
+20   Camille Michelet  FRA  1900        Bronze     Silver  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=79 vs B_off=37
+21   Charles Guiraist  FRA  1900        Bronze     Silver  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=78 vs B_off=37
+22       Charles Hugo  FRA  1900        Bronze     Silver  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=77 vs B_off=37
+23     Charles Martin  FRA  1900        Bronze     Silver  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=76 vs B_off=37
+24      Flix Marcotte  FRA  1900        Bronze     Silver  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=75 vs B_off=37
+25  Franois (caubet-)  FRA  1900        Bronze     Silver  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=74 vs B_off=37
+26       Gabriel Bret  FRA  1900        Bronze     Silver  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=73 vs B_off=37
+27      Henri Gufflet  FRA  1900        Bronze     Silver  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=72 vs B_off=37
+28       Henri Valton  FRA  1900        Bronze     Silver  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=71 vs B_off=37
+29          J. Dubois  FRA  1900        Bronze     Silver  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=70 vs B_off=37
+30   Jacques Baudrier  FRA  1900        Bronze     Silver  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=69 vs B_off=37
+31       Marcel Meran  FRA  1900        Bronze     Silver  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=68 vs B_off=37
+32     Pierre Gervais  FRA  1900        Bronze       Gold  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=67 vs B_off=37
+33     Robert Gufflet  FRA  1900        Bronze     Silver  G_ath=49 vs G_off=27 S_ath=77 vs S_off=39 B_ath=66 vs B_off=37
+34   Bernard Pourtals  SUI  1900          Gold     Silver       G_ath=16 vs G_off=6 S_ath=4 vs S_off=2 B_ath=1 vs B_off=1
+35   Hermann Pourtals  SUI  1900          Gold     Silver       G_ath=15 vs G_off=6 S_ath=4 vs S_off=2 B_ath=1 vs B_off=1
+36     Hlne (barbey-)  SUI  1900          Gold     Silver       G_ath=14 vs G_off=6 S_ath=4 vs S_off=2 B_ath=1 vs B_off=1
+37   Bernard Pourtals  SUI  1900        Silver       Gold       G_ath=13 vs G_off=6 S_ath=4 vs S_off=2 B_ath=1 vs B_off=1
+38   Hermann Pourtals  SUI  1900        Silver       Gold       G_ath=13 vs G_off=6 S_ath=3 vs S_off=2 B_ath=1 vs B_off=1
+39    Alex Diggelmann  SUI  1948        Silver     Bronze      G_ath=5 vs G_off=5 S_ath=25 vs S_off=10 B_ath=6 vs B_off=5
+40    Alex Diggelmann  SUI  1948        Bronze     Silver      G_ath=5 vs G_off=5 S_ath=24 vs S_off=10 B_ath=6 vs B_off=5

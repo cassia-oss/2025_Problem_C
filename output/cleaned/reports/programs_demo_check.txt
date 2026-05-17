@@ -1,0 +1,35 @@
+Demo rows:
+                      Sport     Discipline  Year  EventCount  is_demo
+234               Badminton      Badminton  1972           0        1
+237               Badminton      Badminton  1984           4        1
+249   Baseball and Softball       Baseball  1900           0        1
+252   Baseball and Softball       Baseball  1908           0        1
+253   Baseball and Softball       Baseball  1912           0        1
+255   Baseball and Softball       Baseball  1924           0        1
+257   Baseball and Softball       Baseball  1932           0        1
+258   Baseball and Softball       Baseball  1936           0        1
+262   Baseball and Softball       Baseball  1960           1        1
+343              Basketball     Basketball  1904           0        1
+347              Basketball     Basketball  1920           0        1
+379           Basque Pelota  Basque Pelota  1924           0        1
+387           Basque Pelota  Basque Pelota  1964           0        1
+392           Basque Pelota  Basque Pelota  1984           0        1
+503                Canoeing         Sprint  1924           0        1
+1160               Handball          Field  1956           0        1
+1341               Lacrosse          Field  1928           0        1
+1342               Lacrosse          Field  1932           0        1
+1912              Taekwondo      Taekwondo  1988           0        1
+1938                 Tennis         Tennis  1968           0        1
+1941                 Tennis         Tennis  1980           4        1
+2053             Volleyball         Indoor  1924           0        1
+2078      Water Motorsports            NaN  1900           0        1
+
+Cancelled weather:
+        Sport Discipline  Year  EventCount
+1550   Rowing     Rowing  1896           0
+1643  Sailing    Sailing  1896           0
+
+Winter transfer:
+           Sport  Discipline  Year  EventCount
+1216  Ice Hockey  Ice Hockey  1924           0
+1743     Skating      Figure  1924           0

@@ -1,0 +1,3202 @@
+NOC,Year,Gold,Silver,Bronze,Total,Rank
+Greece,1896,10,17,17,44,1
+United States,1896,11,6,2,19,2
+Germany,1896,7,5,2,14,3
+France,1896,5,4,2,11,4
+Great Britain,1896,3,3,3,9,5
+Hungary,1896,2,1,3,6,6
+Denmark,1896,1,2,3,6,6
+Austria,1896,2,1,2,5,8
+Australia,1896,2,0,1,3,9
+Switzerland,1896,1,2,0,3,9
+Italy,1896,0,0,0,0,11
+Sweden,1896,0,0,0,0,11
+France,1900,28,37,32,97,1
+United States,1900,21,16,17,54,2
+Great Britain,1900,19,11,12,42,3
+Belgium,1900,6,7,5,18,4
+Switzerland,1900,5,2,1,8,5
+Germany,1900,4,3,1,8,5
+Denmark,1900,2,3,2,7,7
+Netherlands,1900,1,2,4,7,7
+Australia,1900,3,0,3,6,9
+Austria,1900,0,3,3,6,9
+Italy,1900,3,2,0,5,11
+Hungary,1900,1,2,2,5,11
+Norway,1900,0,2,3,5,11
+Bohemia,1900,0,1,2,3,14
+Cuba,1900,1,1,0,2,15
+Canada,1900,1,0,1,2,15
+Sweden,1900,1,0,1,2,15
+India,1900,0,2,0,2,15
+Spain,1900,1,0,0,1,19
+Haiti,1900,1,0,0,1,19
+Luxembourg,1900,1,0,0,1,19
+New Zealand,1900,1,0,0,1,19
+Colombia,1900,0,1,0,1,19
+Mexico,1900,0,0,1,1,19
+Argentina,1900,0,0,0,0,25
+Brazil,1900,0,0,0,0,25
+Greece,1900,0,0,0,0,25
+Iran,1900,0,0,0,0,25
+Peru,1900,0,0,0,0,25
+Romania,1900,0,0,0,0,25
+Russia,1900,0,0,0,0,25
+United States,1904,76,79,75,230,1
+Germany,1904,4,5,7,16,2
+Canada,1904,4,1,1,6,3
+Cuba,1904,4,0,0,4,4
+Austria,1904,2,1,1,4,4
+Hungary,1904,2,1,1,4,4
+Australia,1904,0,3,1,4,4
+Switzerland,1904,1,0,2,3,8
+Norway,1904,2,0,0,2,9
+Great Britain,1904,1,1,0,2,9
+Greece,1904,1,0,1,2,9
+France,1904,0,2,0,2,9
+Italy,1904,0,0,0,0,13
+Newfoundland,1904,0,0,0,0,13
+South Africa,1904,0,0,0,0,13
+Great Britain,1908,56,50,37,143,1
+United States,1908,22,12,12,46,2
+Sweden,1908,8,6,11,25,3
+France,1908,5,5,9,19,4
+Canada,1908,3,3,10,16,5
+Germany,1908,3,5,5,13,6
+Hungary,1908,3,4,2,9,7
+Norway,1908,2,3,3,8,8
+Belgium,1908,1,5,2,8,8
+Australasia,1908,1,2,2,5,10
+Finland,1908,1,1,3,5,10
+Denmark,1908,0,2,3,5,10
+Italy,1908,2,2,0,4,13
+Greece,1908,0,3,1,4,13
+Russia,1908,1,2,0,3,15
+South Africa,1908,1,1,0,2,16
+Bohemia,1908,0,0,2,2,16
+Netherlands,1908,0,0,2,2,16
+Austria,1908,0,0,1,1,19
+Argentina,1908,0,0,0,0,20
+Iceland,1908,0,0,0,0,20
+Switzerland,1908,0,0,0,0,20
+Sweden,1912,24,24,17,65,1
+United States,1912,26,18,19,63,2
+Great Britain,1912,10,15,16,41,3
+Finland,1912,9,8,9,26,4
+Germany,1912,6,13,7,26,4
+France,1912,7,5,3,15,6
+Denmark,1912,1,6,5,12,7
+Norway,1912,4,1,5,10,8
+Italy,1912,5,1,2,8,9
+Canada,1912,3,2,3,8,9
+Hungary,1912,3,2,3,8,9
+Australasia,1912,2,2,3,7,12
+South Africa,1912,4,2,0,6,13
+Belgium,1912,2,1,3,6,13
+Russia,1912,0,2,3,5,15
+Austria,1912,0,2,2,4,16
+Netherlands,1912,0,0,3,3,17
+Greece,1912,1,0,1,2,18
+Switzerland,1912,1,0,0,1,19
+Bohemia,1912,0,0,0,0,20
+Chile,1912,0,0,0,0,20
+Iceland,1912,0,0,0,0,20
+Japan,1912,0,0,0,0,20
+Luxembourg,1912,0,0,0,0,20
+Poland,1912,0,0,0,0,20
+Portugal,1912,0,0,0,0,20
+Serbia,1912,0,0,0,0,20
+Turkey,1912,0,0,0,0,20
+Unknown,1912,0,0,0,0,20
+United States,1920,41,27,27,95,1
+Sweden,1920,19,20,25,64,2
+Great Britain,1920,14,16,13,43,3
+Belgium,1920,16,12,14,42,4
+France,1920,9,20,13,42,4
+Finland,1920,15,10,9,34,6
+Norway,1920,10,10,9,29,7
+Italy,1920,14,6,5,25,8
+Denmark,1920,3,9,1,13,9
+Netherlands,1920,4,2,5,11,10
+Switzerland,1920,2,2,7,11,10
+South Africa,1920,3,4,3,10,12
+Canada,1920,3,3,3,9,13
+Estonia,1920,1,2,0,3,14
+Brazil,1920,1,1,1,3,14
+Australia,1920,0,2,1,3,14
+Spain,1920,0,2,0,2,17
+Japan,1920,0,2,0,2,17
+Czechoslovakia,1920,0,0,2,2,17
+Greece,1920,0,1,0,1,20
+Luxembourg,1920,0,1,0,1,20
+New Zealand,1920,0,0,1,1,20
+Argentina,1920,0,0,0,0,23
+Chile,1920,0,0,0,0,23
+Egypt,1920,0,0,0,0,23
+India,1920,0,0,0,0,23
+Monaco,1920,0,0,0,0,23
+Portugal,1920,0,0,0,0,23
+Yugoslavia,1920,0,0,0,0,23
+United States,1924,45,27,27,99,1
+France,1924,14,14,12,40,2
+Finland,1924,14,13,10,37,3
+Great Britain,1924,9,14,12,35,4
+Sweden,1924,4,13,12,29,5
+Switzerland,1924,7,8,10,25,6
+Italy,1924,8,3,5,16,7
+Belgium,1924,3,7,3,13,8
+Netherlands,1924,4,1,6,11,9
+Denmark,1924,2,6,3,11,9
+Norway,1924,5,2,3,10,11
+Hungary,1924,2,4,4,10,11
+Czechoslovakia,1924,1,4,5,10,11
+Australia,1924,3,1,2,6,14
+Argentina,1924,1,3,2,6,14
+Estonia,1924,1,1,4,6,14
+Austria,1924,0,3,1,4,17
+Canada,1924,0,3,1,4,17
+South Africa,1924,1,1,1,3,19
+Yugoslavia,1924,2,0,0,2,20
+Luxembourg,1924,1,1,0,2,20
+Ireland,1924,0,1,1,2,20
+Poland,1924,0,1,1,2,20
+Greece,1924,1,0,0,1,24
+Uruguay,1924,1,0,0,1,24
+Haiti,1924,0,0,1,1,24
+Japan,1924,0,0,1,1,24
+Monaco,1924,0,0,1,1,24
+New Zealand,1924,0,0,1,1,24
+Portugal,1924,0,0,1,1,24
+Romania,1924,0,0,1,1,24
+Brazil,1924,0,0,0,0,32
+Bulgaria,1924,0,0,0,0,32
+Chile,1924,0,0,0,0,32
+Cuba,1924,0,0,0,0,32
+Ecuador,1924,0,0,0,0,32
+Egypt,1924,0,0,0,0,32
+Spain,1924,0,0,0,0,32
+India,1924,0,0,0,0,32
+Latvia,1924,0,0,0,0,32
+Lithuania,1924,0,0,0,0,32
+Mexico,1924,0,0,0,0,32
+Philippines,1924,0,0,0,0,32
+Russia,1924,0,0,0,0,32
+Turkey,1924,0,0,0,0,32
+United States,1928,22,18,16,56,1
+Germany,1928,11,9,19,39,2
+Finland,1928,8,8,9,25,3
+France,1928,7,12,6,25,3
+Sweden,1928,7,6,12,25,3
+Netherlands,1928,8,10,5,23,6
+Great Britain,1928,4,11,7,22,7
+Italy,1928,7,6,7,20,8
+Switzerland,1928,7,6,4,17,9
+Canada,1928,4,4,7,15,10
+Hungary,1928,5,5,0,10,11
+Denmark,1928,3,2,4,9,12
+Czechoslovakia,1928,2,5,2,9,12
+Argentina,1928,3,3,1,7,14
+Poland,1928,2,1,4,7,14
+Japan,1928,2,2,1,5,16
+Estonia,1928,2,1,2,5,16
+Yugoslavia,1928,1,1,3,5,16
+Austria,1928,3,0,1,4,19
+Egypt,1928,2,1,1,4,19
+Australia,1928,1,2,1,4,19
+Norway,1928,1,2,1,4,19
+South Africa,1928,1,0,2,3,23
+Belgium,1928,0,1,2,3,23
+Spain,1928,1,0,0,1,25
+India,1928,1,0,0,1,25
+Ireland,1928,1,0,0,1,25
+Luxembourg,1928,1,0,0,1,25
+New Zealand,1928,1,0,0,1,25
+Uruguay,1928,1,0,0,1,25
+Chile,1928,0,1,0,1,25
+Haiti,1928,0,1,0,1,25
+Philippines,1928,0,0,1,1,25
+Portugal,1928,0,0,1,1,25
+Bulgaria,1928,0,0,0,0,35
+Cuba,1928,0,0,0,0,35
+Greece,1928,0,0,0,0,35
+Latvia,1928,0,0,0,0,35
+Lithuania,1928,0,0,0,0,35
+Mexico,1928,0,0,0,0,35
+Malta,1928,0,0,0,0,35
+Monaco,1928,0,0,0,0,35
+Panama,1928,0,0,0,0,35
+Romania,1928,0,0,0,0,35
+Turkey,1928,0,0,0,0,35
+Zimbabwe,1928,0,0,0,0,35
+United States,1932,44,36,30,110,1
+Italy,1932,12,12,12,36,2
+Finland,1932,5,8,12,25,3
+Sweden,1932,10,5,9,24,4
+Germany,1932,5,12,7,24,4
+France,1932,11,5,4,20,6
+Japan,1932,7,7,4,18,7
+Great Britain,1932,5,7,5,17,8
+Hungary,1932,6,5,5,16,9
+Canada,1932,2,5,9,16,9
+Poland,1932,3,2,4,9,11
+Netherlands,1932,2,5,1,8,12
+Denmark,1932,0,5,3,8,12
+Czechoslovakia,1932,1,3,2,6,14
+Australia,1932,3,1,1,5,15
+South Africa,1932,2,0,3,5,15
+Austria,1932,1,1,3,5,15
+Argentina,1932,3,1,0,4,18
+Philippines,1932,0,0,3,3,19
+Ireland,1932,2,0,0,2,20
+Mexico,1932,0,2,0,2,20
+India,1932,1,0,0,1,22
+Latvia,1932,0,1,0,1,22
+New Zealand,1932,0,1,0,1,22
+Switzerland,1932,0,1,0,1,22
+Belgium,1932,0,0,1,1,22
+Spain,1932,0,0,1,1,22
+Uruguay,1932,0,0,1,1,22
+Brazil,1932,0,0,0,0,29
+Bulgaria,1932,0,0,0,0,29
+China,1932,0,0,0,0,29
+Colombia,1932,0,0,0,0,29
+Cuba,1932,0,0,0,0,29
+El Salvador,1932,0,0,0,0,29
+Estonia,1932,0,0,0,0,29
+Greece,1932,0,0,0,0,29
+Guatemala,1932,0,0,0,0,29
+Haiti,1932,0,0,0,0,29
+Luxembourg,1932,0,0,0,0,29
+Monaco,1932,0,0,0,0,29
+Norway,1932,0,0,0,0,29
+Peru,1932,0,0,0,0,29
+Portugal,1932,0,0,0,0,29
+Romania,1932,0,0,0,0,29
+Turkey,1932,0,0,0,0,29
+Venezuela,1932,0,0,0,0,29
+Yugoslavia,1932,0,0,0,0,29
+Germany,1936,38,31,32,101,1
+United States,1936,24,21,12,57,2
+Italy,1936,9,13,5,27,3
+Sweden,1936,6,5,10,21,4
+Finland,1936,8,6,6,20,5
+Japan,1936,6,4,10,20,5
+France,1936,7,6,6,19,7
+Switzerland,1936,4,9,5,18,8
+Netherlands,1936,6,4,7,17,9
+Austria,1936,5,7,5,17,9
+Hungary,1936,10,1,5,16,11
+Great Britain,1936,4,7,3,14,12
+Czechoslovakia,1936,3,5,1,9,13
+Canada,1936,1,3,5,9,13
+Poland,1936,0,4,5,9,13
+Argentina,1936,2,2,3,7,16
+Estonia,1936,2,2,3,7,16
+Norway,1936,1,3,2,6,18
+Egypt,1936,2,1,2,5,19
+Denmark,1936,0,2,3,5,19
+Belgium,1936,0,0,3,3,21
+Mexico,1936,0,0,3,3,21
+Turkey,1936,1,0,1,2,23
+Latvia,1936,0,1,1,2,23
+India,1936,1,0,0,1,25
+New Zealand,1936,1,0,0,1,25
+Romania,1936,0,1,0,1,25
+South Africa,1936,0,1,0,1,25
+Yugoslavia,1936,0,1,0,1,25
+Australia,1936,0,0,1,1,25
+Philippines,1936,0,0,1,1,25
+Portugal,1936,0,0,1,1,25
+Afghanistan,1936,0,0,0,0,33
+Bermuda,1936,0,0,0,0,33
+Bolivia,1936,0,0,0,0,33
+Brazil,1936,0,0,0,0,33
+Bulgaria,1936,0,0,0,0,33
+Chile,1936,0,0,0,0,33
+China,1936,0,0,0,0,33
+Colombia,1936,0,0,0,0,33
+Costa Rica,1936,0,0,0,0,33
+Greece,1936,0,0,0,0,33
+Iceland,1936,0,0,0,0,33
+Liechtenstein,1936,0,0,0,0,33
+Luxembourg,1936,0,0,0,0,33
+Malta,1936,0,0,0,0,33
+Monaco,1936,0,0,0,0,33
+Peru,1936,0,0,0,0,33
+Uruguay,1936,0,0,0,0,33
+United States,1948,38,27,19,84,1
+Sweden,1948,17,11,18,46,2
+France,1948,11,6,15,32,3
+Italy,1948,9,12,10,31,4
+Hungary,1948,10,5,12,27,5
+Great Britain,1948,4,16,7,27,5
+Finland,1948,8,8,6,22,7
+Denmark,1948,5,8,9,22,7
+Switzerland,1948,5,11,4,20,9
+Netherlands,1948,5,2,9,16,10
+Australia,1948,2,6,5,13,11
+Turkey,1948,6,4,2,12,12
+Czechoslovakia,1948,6,2,3,11,13
+Austria,1948,2,2,4,8,14
+Argentina,1948,3,3,1,7,15
+Belgium,1948,2,2,3,7,15
+Norway,1948,1,3,3,7,15
+South Africa,1948,2,2,2,6,18
+Egypt,1948,2,2,1,5,19
+Mexico,1948,2,1,2,5,19
+Canada,1948,0,2,2,4,21
+Jamaica,1948,1,2,0,3,22
+Poland,1948,1,0,1,2,23
+Yugoslavia,1948,0,2,0,2,23
+Portugal,1948,0,1,1,2,23
+Uruguay,1948,0,1,1,2,23
+South Korea,1948,0,0,2,2,23
+Panama,1948,0,0,2,2,23
+India,1948,1,0,0,1,29
+Peru,1948,1,0,0,1,29
+Cuba,1948,0,1,0,1,29
+Spain,1948,0,1,0,1,29
+Sri Lanka,1948,0,1,0,1,29
+Trinidad and Tobago,1948,0,1,0,1,29
+Brazil,1948,0,0,1,1,29
+Iran,1948,0,0,1,1,29
+Ireland,1948,0,0,1,1,29
+Puerto Rico,1948,0,0,1,1,29
+Afghanistan,1948,0,0,0,0,39
+Bermuda,1948,0,0,0,0,39
+Chile,1948,0,0,0,0,39
+China,1948,0,0,0,0,39
+Colombia,1948,0,0,0,0,39
+Greece,1948,0,0,0,0,39
+Guyana,1948,0,0,0,0,39
+Iraq,1948,0,0,0,0,39
+Iceland,1948,0,0,0,0,39
+Lebanon,1948,0,0,0,0,39
+Liechtenstein,1948,0,0,0,0,39
+Luxembourg,1948,0,0,0,0,39
+Malta,1948,0,0,0,0,39
+Monaco,1948,0,0,0,0,39
+Myanmar,1948,0,0,0,0,39
+New Zealand,1948,0,0,0,0,39
+Pakistan,1948,0,0,0,0,39
+Philippines,1948,0,0,0,0,39
+Singapore,1948,0,0,0,0,39
+Syria,1948,0,0,0,0,39
+Venezuela,1948,0,0,0,0,39
+United States,1952,40,19,17,76,1
+Soviet Union,1952,22,29,19,70,2
+Hungary,1952,16,10,16,42,3
+Sweden,1952,12,13,10,35,4
+Germany,1952,0,7,17,24,5
+Finland,1952,6,3,13,22,6
+Italy,1952,8,9,4,21,7
+France,1952,6,6,6,18,8
+Switzerland,1952,2,6,6,14,9
+Czechoslovakia,1952,7,3,3,13,10
+Australia,1952,6,2,3,11,11
+Great Britain,1952,1,2,8,11,11
+South Africa,1952,2,4,4,10,13
+Japan,1952,1,6,1,8,14
+Iran,1952,0,3,4,7,15
+Denmark,1952,2,1,3,6,16
+Norway,1952,3,2,0,5,17
+Jamaica,1952,2,3,0,5,17
+Argentina,1952,1,2,2,5,17
+Netherlands,1952,0,5,0,5,17
+Belgium,1952,2,2,0,4,21
+Poland,1952,1,2,1,4,21
+Romania,1952,1,1,2,4,21
+Turkey,1952,2,0,1,3,24
+Canada,1952,1,2,0,3,24
+Yugoslavia,1952,1,2,0,3,24
+Brazil,1952,1,0,2,3,24
+New Zealand,1952,1,0,2,3,24
+India,1952,1,0,1,2,29
+Chile,1952,0,2,0,2,29
+Austria,1952,0,1,1,2,29
+Lebanon,1952,0,1,1,2,29
+South Korea,1952,0,0,2,2,29
+Trinidad and Tobago,1952,0,0,2,2,29
+Uruguay,1952,0,0,2,2,29
+Luxembourg,1952,1,0,0,1,36
+Spain,1952,0,1,0,1,36
+Ireland,1952,0,1,0,1,36
+Mexico,1952,0,1,0,1,36
+Bulgaria,1952,0,0,1,1,36
+Egypt,1952,0,0,1,1,36
+Portugal,1952,0,0,1,1,36
+Venezuela,1952,0,0,1,1,36
+Netherlands Antilles,1952,0,0,0,0,44
+Bahamas,1952,0,0,0,0,44
+Bermuda,1952,0,0,0,0,44
+China,1952,0,0,0,0,44
+Cuba,1952,0,0,0,0,44
+Ghana,1952,0,0,0,0,44
+Greece,1952,0,0,0,0,44
+Guatemala,1952,0,0,0,0,44
+Guyana,1952,0,0,0,0,44
+Hong Kong,1952,0,0,0,0,44
+Indonesia,1952,0,0,0,0,44
+Iceland,1952,0,0,0,0,44
+Israel,1952,0,0,0,0,44
+Liechtenstein,1952,0,0,0,0,44
+Monaco,1952,0,0,0,0,44
+Myanmar,1952,0,0,0,0,44
+Nigeria,1952,0,0,0,0,44
+Pakistan,1952,0,0,0,0,44
+Panama,1952,0,0,0,0,44
+Philippines,1952,0,0,0,0,44
+Puerto Rico,1952,0,0,0,0,44
+Saar,1952,0,0,0,0,44
+Singapore,1952,0,0,0,0,44
+Sri Lanka,1952,0,0,0,0,44
+Thailand,1952,0,0,0,0,44
+South Vietnam,1952,0,0,0,0,44
+Soviet Union,1956,37,29,32,98,1
+United States,1956,32,25,17,74,2
+Australia,1956,13,8,14,35,3
+Hungary,1956,9,10,7,26,4
+Germany,1956,6,13,7,26,4
+Italy,1956,8,8,9,25,6
+Great Britain,1956,6,7,11,24,7
+Sweden,1956,8,5,6,19,8
+Japan,1956,4,10,3,17,9
+Finland,1956,3,1,11,15,10
+France,1956,4,4,6,14,11
+Romania,1956,5,3,5,13,12
+Poland,1956,1,4,4,9,13
+Turkey,1956,3,2,2,7,14
+Canada,1956,2,1,3,6,15
+Czechoslovakia,1956,1,4,1,6,15
+Iran,1956,2,2,1,5,17
+Bulgaria,1956,1,3,1,5,17
+Ireland,1956,1,1,3,5,17
+Denmark,1956,1,2,1,4,20
+Chile,1956,0,2,2,4,20
+South Africa,1956,0,0,4,4,20
+Norway,1956,1,0,2,3,23
+Yugoslavia,1956,0,3,0,3,23
+New Zealand,1956,2,0,0,2,25
+Mexico,1956,1,0,1,2,25
+Belgium,1956,0,2,0,2,25
+Argentina,1956,0,1,1,2,25
+South Korea,1956,0,1,1,2,25
+Austria,1956,0,0,2,2,25
+Brazil,1956,1,0,0,1,31
+India,1956,1,0,0,1,31
+Iceland,1956,0,1,0,1,31
+Pakistan,1956,0,1,0,1,31
+Bahamas,1956,0,0,1,1,31
+Greece,1956,0,0,1,1,31
+Switzerland,1956,0,0,1,1,31
+Uruguay,1956,0,0,1,1,31
+Afghanistan,1956,0,0,0,0,39
+Bermuda,1956,0,0,0,0,39
+Cambodia,1956,0,0,0,0,39
+Colombia,1956,0,0,0,0,39
+Cuba,1956,0,0,0,0,39
+Egypt,1956,0,0,0,0,39
+Spain,1956,0,0,0,0,39
+Ethiopia,1956,0,0,0,0,39
+Fiji,1956,0,0,0,0,39
+Guyana,1956,0,0,0,0,39
+Hong Kong,1956,0,0,0,0,39
+Indonesia,1956,0,0,0,0,39
+Israel,1956,0,0,0,0,39
+Jamaica,1956,0,0,0,0,39
+Kenya,1956,0,0,0,0,39
+Liberia,1956,0,0,0,0,39
+Luxembourg,1956,0,0,0,0,39
+Malaya,1956,0,0,0,0,39
+Myanmar,1956,0,0,0,0,39
+North Borneo,1956,0,0,0,0,39
+Netherlands,1956,0,0,0,0,39
+Nigeria,1956,0,0,0,0,39
+Peru,1956,0,0,0,0,39
+Philippines,1956,0,0,0,0,39
+Portugal,1956,0,0,0,0,39
+Puerto Rico,1956,0,0,0,0,39
+Singapore,1956,0,0,0,0,39
+Sri Lanka,1956,0,0,0,0,39
+Thailand,1956,0,0,0,0,39
+Chinese Taipei,1956,0,0,0,0,39
+Trinidad and Tobago,1956,0,0,0,0,39
+Uganda,1956,0,0,0,0,39
+Venezuela,1956,0,0,0,0,39
+South Vietnam,1956,0,0,0,0,39
+Soviet Union,1960,43,29,31,103,1
+United States,1960,34,21,16,71,2
+Germany,1960,12,19,11,42,3
+Italy,1960,13,10,13,36,4
+Australia,1960,8,8,6,22,5
+Hungary,1960,6,8,7,21,6
+Poland,1960,4,6,11,21,6
+Great Britain,1960,2,6,12,20,8
+Japan,1960,4,7,7,18,9
+Romania,1960,3,1,6,10,10
+Turkey,1960,7,2,0,9,11
+Czechoslovakia,1960,3,2,3,8,12
+Bulgaria,1960,1,3,3,7,13
+Denmark,1960,2,3,1,6,14
+Sweden,1960,1,2,3,6,14
+Switzerland,1960,0,3,3,6,14
+Finland,1960,1,1,3,5,17
+France,1960,0,2,3,5,17
+Belgium,1960,0,2,2,4,19
+Iran,1960,0,1,3,4,19
+New Zealand,1960,2,0,1,3,21
+Netherlands,1960,0,1,2,3,21
+South Africa,1960,0,1,2,3,21
+Austria,1960,1,1,0,2,24
+Yugoslavia,1960,1,1,0,2,24
+Pakistan,1960,1,0,1,2,24
+Argentina,1960,0,1,1,2,24
+United Arab Republic,1960,0,1,1,2,24
+Brazil,1960,0,0,2,2,24
+West Indies Federation,1960,0,0,2,2,24
+Ethiopia,1960,1,0,0,1,31
+Greece,1960,1,0,0,1,31
+Norway,1960,1,0,0,1,31
+Canada,1960,0,1,0,1,31
+Ghana,1960,0,1,0,1,31
+India,1960,0,1,0,1,31
+Morocco,1960,0,1,0,1,31
+Portugal,1960,0,1,0,1,31
+Singapore,1960,0,1,0,1,31
+Chinese Taipei,1960,0,1,0,1,31
+Spain,1960,0,0,1,1,31
+Iraq,1960,0,0,1,1,31
+Mexico,1960,0,0,1,1,31
+Venezuela,1960,0,0,1,1,31
+Afghanistan,1960,0,0,0,0,45
+Netherlands Antilles,1960,0,0,0,0,45
+Bahamas,1960,0,0,0,0,45
+Bermuda,1960,0,0,0,0,45
+Chile,1960,0,0,0,0,45
+Colombia,1960,0,0,0,0,45
+Cuba,1960,0,0,0,0,45
+Fiji,1960,0,0,0,0,45
+Guyana,1960,0,0,0,0,45
+Haiti,1960,0,0,0,0,45
+Hong Kong,1960,0,0,0,0,45
+Indonesia,1960,0,0,0,0,45
+Ireland,1960,0,0,0,0,45
+Iceland,1960,0,0,0,0,45
+Israel,1960,0,0,0,0,45
+Kenya,1960,0,0,0,0,45
+South Korea,1960,0,0,0,0,45
+Liberia,1960,0,0,0,0,45
+Lebanon,1960,0,0,0,0,45
+Liechtenstein,1960,0,0,0,0,45
+Luxembourg,1960,0,0,0,0,45
+Malaya,1960,0,0,0,0,45
+Malta,1960,0,0,0,0,45
+Monaco,1960,0,0,0,0,45
+Myanmar,1960,0,0,0,0,45
+Nigeria,1960,0,0,0,0,45
+Panama,1960,0,0,0,0,45
+Peru,1960,0,0,0,0,45
+Philippines,1960,0,0,0,0,45
+Puerto Rico,1960,0,0,0,0,45
+Rhodesia,1960,0,0,0,0,45
+San Marino,1960,0,0,0,0,45
+Sri Lanka,1960,0,0,0,0,45
+Sudan,1960,0,0,0,0,45
+Thailand,1960,0,0,0,0,45
+Tunisia,1960,0,0,0,0,45
+Uganda,1960,0,0,0,0,45
+Uruguay,1960,0,0,0,0,45
+South Vietnam,1960,0,0,0,0,45
+Zimbabwe,1960,0,0,0,0,45
+Soviet Union,1964,30,30,33,93,1
+United States,1964,36,26,28,90,2
+Germany,1964,10,22,18,50,3
+Japan,1964,16,5,8,29,4
+Italy,1964,10,10,7,27,5
+Poland,1964,7,6,10,23,6
+Hungary,1964,10,7,5,22,7
+Australia,1964,6,2,10,18,8
+Great Britain,1964,4,12,2,18,8
+France,1964,1,8,6,15,10
+Czechoslovakia,1964,5,6,3,14,11
+Romania,1964,2,4,6,12,12
+Bulgaria,1964,3,5,2,10,13
+Netherlands,1964,2,4,4,10,13
+Sweden,1964,2,2,4,8,15
+Turkey,1964,2,3,1,6,16
+Denmark,1964,2,1,3,6,16
+Finland,1964,3,0,2,5,18
+New Zealand,1964,3,0,2,5,18
+Yugoslavia,1964,2,1,2,5,18
+Canada,1964,1,2,1,4,21
+Switzerland,1964,1,2,1,4,21
+Belgium,1964,2,0,1,3,23
+South Korea,1964,0,2,1,3,23
+Trinidad and Tobago,1964,0,1,2,3,23
+Tunisia,1964,0,1,1,2,26
+Iran,1964,0,0,2,2,26
+Bahamas,1964,1,0,0,1,28
+Ethiopia,1964,1,0,0,1,28
+India,1964,1,0,0,1,28
+Argentina,1964,0,1,0,1,28
+Cuba,1964,0,1,0,1,28
+Pakistan,1964,0,1,0,1,28
+Philippines,1964,0,1,0,1,28
+Brazil,1964,0,0,1,1,28
+Ghana,1964,0,0,1,1,28
+Ireland,1964,0,0,1,1,28
+Kenya,1964,0,0,1,1,28
+Mexico,1964,0,0,1,1,28
+Nigeria,1964,0,0,1,1,28
+Uruguay,1964,0,0,1,1,28
+Afghanistan,1964,0,0,0,0,42
+Netherlands Antilles,1964,0,0,0,0,42
+Algeria,1964,0,0,0,0,42
+Austria,1964,0,0,0,0,42
+Bermuda,1964,0,0,0,0,42
+Bolivia,1964,0,0,0,0,42
+Cambodia,1964,0,0,0,0,42
+Republic of the Congo,1964,0,0,0,0,42
+Chad,1964,0,0,0,0,42
+Chile,1964,0,0,0,0,42
+Ivory Coast,1964,0,0,0,0,42
+Cameroon,1964,0,0,0,0,42
+Colombia,1964,0,0,0,0,42
+Costa Rica,1964,0,0,0,0,42
+Dominican Republic,1964,0,0,0,0,42
+Egypt,1964,0,0,0,0,42
+Spain,1964,0,0,0,0,42
+Greece,1964,0,0,0,0,42
+Guyana,1964,0,0,0,0,42
+Hong Kong,1964,0,0,0,0,42
+Iraq,1964,0,0,0,0,42
+Iceland,1964,0,0,0,0,42
+Israel,1964,0,0,0,0,42
+Jamaica,1964,0,0,0,0,42
+Liberia,1964,0,0,0,0,42
+Lebanon,1964,0,0,0,0,42
+Liechtenstein,1964,0,0,0,0,42
+Luxembourg,1964,0,0,0,0,42
+Madagascar,1964,0,0,0,0,42
+Morocco,1964,0,0,0,0,42
+Malaysia,1964,0,0,0,0,42
+Mongolia,1964,0,0,0,0,42
+Mali,1964,0,0,0,0,42
+Monaco,1964,0,0,0,0,42
+Myanmar,1964,0,0,0,0,42
+Nepal,1964,0,0,0,0,42
+Niger,1964,0,0,0,0,42
+Norway,1964,0,0,0,0,42
+Panama,1964,0,0,0,0,42
+Peru,1964,0,0,0,0,42
+Portugal,1964,0,0,0,0,42
+Puerto Rico,1964,0,0,0,0,42
+Senegal,1964,0,0,0,0,42
+Sri Lanka,1964,0,0,0,0,42
+Tanzania,1964,0,0,0,0,42
+Thailand,1964,0,0,0,0,42
+Chinese Taipei,1964,0,0,0,0,42
+Uganda,1964,0,0,0,0,42
+Venezuela,1964,0,0,0,0,42
+South Vietnam,1964,0,0,0,0,42
+Zambia,1964,0,0,0,0,42
+Zimbabwe,1964,0,0,0,0,42
+United States,1968,45,28,34,107,1
+Soviet Union,1968,29,32,30,91,2
+Hungary,1968,10,10,12,32,3
+West Germany,1968,5,11,10,26,4
+Japan,1968,11,7,7,25,5
+East Germany,1968,9,9,7,25,5
+Poland,1968,5,2,11,18,7
+Australia,1968,5,7,5,17,8
+Italy,1968,3,4,9,16,9
+France,1968,7,3,5,15,10
+Romania,1968,4,6,5,15,10
+Czechoslovakia,1968,7,2,4,13,12
+Great Britain,1968,5,5,3,13,12
+Kenya,1968,3,4,2,9,14
+Mexico,1968,3,3,3,9,14
+Bulgaria,1968,2,4,3,9,14
+Yugoslavia,1968,3,3,2,8,17
+Denmark,1968,1,4,3,8,17
+Netherlands,1968,3,3,1,7,19
+Iran,1968,2,1,2,5,20
+Canada,1968,1,3,1,5,20
+Switzerland,1968,0,1,4,5,20
+Sweden,1968,2,1,1,4,23
+Finland,1968,1,2,1,4,23
+Cuba,1968,0,4,0,4,23
+Austria,1968,0,2,2,4,23
+Mongolia,1968,0,1,3,4,23
+New Zealand,1968,1,0,2,3,28
+Brazil,1968,0,1,2,3,28
+Turkey,1968,2,0,0,2,30
+Ethiopia,1968,1,1,0,2,30
+Norway,1968,1,1,0,2,30
+Tunisia,1968,1,0,1,2,30
+Belgium,1968,0,1,1,2,30
+South Korea,1968,0,1,1,2,30
+Uganda,1968,0,1,1,2,30
+Argentina,1968,0,0,2,2,30
+Pakistan,1968,1,0,0,1,38
+Venezuela,1968,1,0,0,1,38
+Cameroon,1968,0,1,0,1,38
+Jamaica,1968,0,1,0,1,38
+Greece,1968,0,0,1,1,38
+India,1968,0,0,1,1,38
+Chinese Taipei,1968,0,0,1,1,38
+Afghanistan,1968,0,0,0,0,45
+Netherlands Antilles,1968,0,0,0,0,45
+Algeria,1968,0,0,0,0,45
+Bahamas,1968,0,0,0,0,45
+Barbados,1968,0,0,0,0,45
+Bermuda,1968,0,0,0,0,45
+Belize,1968,0,0,0,0,45
+Bolivia,1968,0,0,0,0,45
+Central African Republic,1968,0,0,0,0,45
+Chad,1968,0,0,0,0,45
+Chile,1968,0,0,0,0,45
+Ivory Coast,1968,0,0,0,0,45
+Democratic Republic of the Congo,1968,0,0,0,0,45
+Colombia,1968,0,0,0,0,45
+Costa Rica,1968,0,0,0,0,45
+Dominican Republic,1968,0,0,0,0,45
+Ecuador,1968,0,0,0,0,45
+Egypt,1968,0,0,0,0,45
+El Salvador,1968,0,0,0,0,45
+Spain,1968,0,0,0,0,45
+Fiji,1968,0,0,0,0,45
+Ghana,1968,0,0,0,0,45
+Guatemala,1968,0,0,0,0,45
+Guinea,1968,0,0,0,0,45
+Guyana,1968,0,0,0,0,45
+Hong Kong,1968,0,0,0,0,45
+Honduras,1968,0,0,0,0,45
+Indonesia,1968,0,0,0,0,45
+Ireland,1968,0,0,0,0,45
+Iraq,1968,0,0,0,0,45
+Iceland,1968,0,0,0,0,45
+Israel,1968,0,0,0,0,45
+Virgin Islands,1968,0,0,0,0,45
+Kuwait,1968,0,0,0,0,45
+Libya,1968,0,0,0,0,45
+Lebanon,1968,0,0,0,0,45
+Liechtenstein,1968,0,0,0,0,45
+Luxembourg,1968,0,0,0,0,45
+Madagascar,1968,0,0,0,0,45
+Morocco,1968,0,0,0,0,45
+Malaysia,1968,0,0,0,0,45
+Mali,1968,0,0,0,0,45
+Malta,1968,0,0,0,0,45
+Monaco,1968,0,0,0,0,45
+Myanmar,1968,0,0,0,0,45
+Nicaragua,1968,0,0,0,0,45
+Nigeria,1968,0,0,0,0,45
+Niger,1968,0,0,0,0,45
+Panama,1968,0,0,0,0,45
+Paraguay,1968,0,0,0,0,45
+Peru,1968,0,0,0,0,45
+Philippines,1968,0,0,0,0,45
+Portugal,1968,0,0,0,0,45
+Puerto Rico,1968,0,0,0,0,45
+Senegal,1968,0,0,0,0,45
+Singapore,1968,0,0,0,0,45
+Sierra Leone,1968,0,0,0,0,45
+San Marino,1968,0,0,0,0,45
+Sri Lanka,1968,0,0,0,0,45
+Sudan,1968,0,0,0,0,45
+Suriname,1968,0,0,0,0,45
+Syria,1968,0,0,0,0,45
+Tanzania,1968,0,0,0,0,45
+Thailand,1968,0,0,0,0,45
+Trinidad and Tobago,1968,0,0,0,0,45
+Uruguay,1968,0,0,0,0,45
+South Vietnam,1968,0,0,0,0,45
+Zambia,1968,0,0,0,0,45
+Soviet Union,1972,50,27,22,99,1
+United States,1972,33,31,30,94,2
+East Germany,1972,20,23,23,66,3
+West Germany,1972,13,11,16,40,4
+Hungary,1972,6,13,16,35,5
+Japan,1972,13,8,8,29,6
+Poland,1972,7,5,9,21,7
+Bulgaria,1972,6,10,5,21,7
+Italy,1972,5,3,10,18,9
+Great Britain,1972,4,5,9,18,9
+Australia,1972,8,7,2,17,11
+Sweden,1972,4,6,6,16,12
+Romania,1972,3,6,7,16,12
+France,1972,2,4,7,13,14
+Kenya,1972,2,3,4,9,15
+Cuba,1972,3,1,4,8,16
+Finland,1972,3,1,4,8,16
+Czechoslovakia,1972,2,4,2,8,16
+Netherlands,1972,3,1,1,5,19
+Yugoslavia,1972,2,1,2,5,19
+North Korea,1972,1,1,3,5,19
+Canada,1972,0,2,3,5,19
+Norway,1972,2,1,1,4,23
+New Zealand,1972,1,1,1,3,24
+Switzerland,1972,0,3,0,3,24
+Iran,1972,0,2,1,3,24
+Austria,1972,0,1,2,3,24
+Colombia,1972,0,1,2,3,24
+Uganda,1972,1,1,0,2,29
+Belgium,1972,0,2,0,2,29
+Greece,1972,0,2,0,2,29
+Brazil,1972,0,0,2,2,29
+Ethiopia,1972,0,0,2,2,29
+Denmark,1972,1,0,0,1,34
+Argentina,1972,0,1,0,1,34
+South Korea,1972,0,1,0,1,34
+Lebanon,1972,0,1,0,1,34
+Mexico,1972,0,1,0,1,34
+Mongolia,1972,0,1,0,1,34
+Pakistan,1972,0,1,0,1,34
+Tunisia,1972,0,1,0,1,34
+Turkey,1972,0,1,0,1,34
+Spain,1972,0,0,1,1,34
+Ghana,1972,0,0,1,1,34
+India,1972,0,0,1,1,34
+Jamaica,1972,0,0,1,1,34
+Nigeria,1972,0,0,1,1,34
+Niger,1972,0,0,1,1,34
+Afghanistan,1972,0,0,0,0,49
+Netherlands Antilles,1972,0,0,0,0,49
+Albania,1972,0,0,0,0,49
+Algeria,1972,0,0,0,0,49
+Bahamas,1972,0,0,0,0,49
+Barbados,1972,0,0,0,0,49
+Benin,1972,0,0,0,0,49
+Bermuda,1972,0,0,0,0,49
+Belize,1972,0,0,0,0,49
+Bolivia,1972,0,0,0,0,49
+Burkina Faso,1972,0,0,0,0,49
+Cambodia,1972,0,0,0,0,49
+Republic of the Congo,1972,0,0,0,0,49
+Chad,1972,0,0,0,0,49
+Chile,1972,0,0,0,0,49
+Ivory Coast,1972,0,0,0,0,49
+Cameroon,1972,0,0,0,0,49
+Costa Rica,1972,0,0,0,0,49
+Dominican Republic,1972,0,0,0,0,49
+Ecuador,1972,0,0,0,0,49
+Egypt,1972,0,0,0,0,49
+El Salvador,1972,0,0,0,0,49
+Fiji,1972,0,0,0,0,49
+Gabon,1972,0,0,0,0,49
+Guatemala,1972,0,0,0,0,49
+Guyana,1972,0,0,0,0,49
+Haiti,1972,0,0,0,0,49
+Hong Kong,1972,0,0,0,0,49
+Indonesia,1972,0,0,0,0,49
+Ireland,1972,0,0,0,0,49
+Iceland,1972,0,0,0,0,49
+Israel,1972,0,0,0,0,49
+Virgin Islands,1972,0,0,0,0,49
+Saudi Arabia,1972,0,0,0,0,49
+Kuwait,1972,0,0,0,0,49
+Liberia,1972,0,0,0,0,49
+Lesotho,1972,0,0,0,0,49
+Liechtenstein,1972,0,0,0,0,49
+Luxembourg,1972,0,0,0,0,49
+Madagascar,1972,0,0,0,0,49
+Morocco,1972,0,0,0,0,49
+Malaysia,1972,0,0,0,0,49
+Malawi,1972,0,0,0,0,49
+Mali,1972,0,0,0,0,49
+Malta,1972,0,0,0,0,49
+Monaco,1972,0,0,0,0,49
+Myanmar,1972,0,0,0,0,49
+Nicaragua,1972,0,0,0,0,49
+Nepal,1972,0,0,0,0,49
+Panama,1972,0,0,0,0,49
+Paraguay,1972,0,0,0,0,49
+Peru,1972,0,0,0,0,49
+Philippines,1972,0,0,0,0,49
+Portugal,1972,0,0,0,0,49
+Puerto Rico,1972,0,0,0,0,49
+Senegal,1972,0,0,0,0,49
+Singapore,1972,0,0,0,0,49
+San Marino,1972,0,0,0,0,49
+Somalia,1972,0,0,0,0,49
+Sri Lanka,1972,0,0,0,0,49
+Sudan,1972,0,0,0,0,49
+Suriname,1972,0,0,0,0,49
+Swaziland,1972,0,0,0,0,49
+Syria,1972,0,0,0,0,49
+Tanzania,1972,0,0,0,0,49
+Thailand,1972,0,0,0,0,49
+Togo,1972,0,0,0,0,49
+Chinese Taipei,1972,0,0,0,0,49
+Trinidad and Tobago,1972,0,0,0,0,49
+Uruguay,1972,0,0,0,0,49
+Venezuela,1972,0,0,0,0,49
+South Vietnam,1972,0,0,0,0,49
+Zambia,1972,0,0,0,0,49
+Soviet Union,1976,49,41,35,125,1
+United States,1976,34,35,25,94,2
+East Germany,1976,40,25,25,90,3
+West Germany,1976,10,12,17,39,4
+Romania,1976,4,9,14,27,5
+Poland,1976,7,6,13,26,6
+Japan,1976,9,6,10,25,7
+Bulgaria,1976,6,9,7,22,8
+Hungary,1976,4,5,13,22,8
+Cuba,1976,6,4,3,13,10
+Great Britain,1976,3,5,5,13,10
+Italy,1976,2,7,4,13,10
+Canada,1976,0,5,6,11,13
+France,1976,2,3,4,9,14
+Yugoslavia,1976,2,3,3,8,15
+Czechoslovakia,1976,2,2,4,8,15
+Finland,1976,4,2,0,6,17
+South Korea,1976,1,1,4,6,17
+Belgium,1976,0,3,3,6,17
+Sweden,1976,4,1,0,5,20
+Netherlands,1976,0,2,3,5,20
+Australia,1976,0,1,4,5,20
+New Zealand,1976,2,1,1,4,23
+Switzerland,1976,1,1,2,4,23
+Denmark,1976,1,0,2,3,25
+Jamaica,1976,1,1,0,2,26
+Norway,1976,1,1,0,2,26
+North Korea,1976,1,1,0,2,26
+Mexico,1976,1,0,1,2,26
+Spain,1976,0,2,0,2,26
+Portugal,1976,0,2,0,2,26
+Iran,1976,0,1,1,2,26
+Brazil,1976,0,0,2,2,26
+Trinidad and Tobago,1976,1,0,0,1,34
+Mongolia,1976,0,1,0,1,34
+Venezuela,1976,0,1,0,1,34
+Austria,1976,0,0,1,1,34
+Bermuda,1976,0,0,1,1,34
+Pakistan,1976,0,0,1,1,34
+Puerto Rico,1976,0,0,1,1,34
+Thailand,1976,0,0,1,1,34
+Netherlands Antilles,1976,0,0,0,0,42
+Andorra,1976,0,0,0,0,42
+Antigua and Barbuda,1976,0,0,0,0,42
+Argentina,1976,0,0,0,0,42
+Bahamas,1976,0,0,0,0,42
+Barbados,1976,0,0,0,0,42
+Belize,1976,0,0,0,0,42
+Bolivia,1976,0,0,0,0,42
+Cayman Islands,1976,0,0,0,0,42
+Chile,1976,0,0,0,0,42
+Ivory Coast,1976,0,0,0,0,42
+Cameroon,1976,0,0,0,0,42
+Colombia,1976,0,0,0,0,42
+Costa Rica,1976,0,0,0,0,42
+Dominican Republic,1976,0,0,0,0,42
+Ecuador,1976,0,0,0,0,42
+Egypt,1976,0,0,0,0,42
+Fiji,1976,0,0,0,0,42
+Greece,1976,0,0,0,0,42
+Guatemala,1976,0,0,0,0,42
+Haiti,1976,0,0,0,0,42
+Hong Kong,1976,0,0,0,0,42
+Honduras,1976,0,0,0,0,42
+Indonesia,1976,0,0,0,0,42
+India,1976,0,0,0,0,42
+Ireland,1976,0,0,0,0,42
+Iceland,1976,0,0,0,0,42
+Israel,1976,0,0,0,0,42
+Virgin Islands,1976,0,0,0,0,42
+Saudi Arabia,1976,0,0,0,0,42
+Kuwait,1976,0,0,0,0,42
+Lebanon,1976,0,0,0,0,42
+Liechtenstein,1976,0,0,0,0,42
+Luxembourg,1976,0,0,0,0,42
+Morocco,1976,0,0,0,0,42
+Malaysia,1976,0,0,0,0,42
+Monaco,1976,0,0,0,0,42
+Nicaragua,1976,0,0,0,0,42
+Nepal,1976,0,0,0,0,42
+Panama,1976,0,0,0,0,42
+Paraguay,1976,0,0,0,0,42
+Peru,1976,0,0,0,0,42
+Philippines,1976,0,0,0,0,42
+Papua New Guinea,1976,0,0,0,0,42
+Senegal,1976,0,0,0,0,42
+Singapore,1976,0,0,0,0,42
+San Marino,1976,0,0,0,0,42
+Suriname,1976,0,0,0,0,42
+Tunisia,1976,0,0,0,0,42
+Turkey,1976,0,0,0,0,42
+Uruguay,1976,0,0,0,0,42
+Soviet Union,1980,80,69,46,195,1
+East Germany,1980,47,37,42,126,2
+Bulgaria,1980,8,16,17,41,3
+Hungary,1980,7,10,15,32,4
+Poland,1980,3,14,15,32,4
+Romania,1980,6,6,13,25,6
+Great Britain,1980,5,7,9,21,7
+Cuba,1980,8,7,5,20,8
+Italy,1980,8,3,4,15,9
+France,1980,6,5,3,14,10
+Czechoslovakia,1980,2,3,9,14,10
+Sweden,1980,3,3,6,12,12
+Yugoslavia,1980,2,3,4,9,13
+Australia,1980,2,2,5,9,13
+Finland,1980,3,1,4,8,15
+Spain,1980,1,3,2,6,16
+Denmark,1980,2,1,2,5,17
+North Korea,1980,0,3,2,5,17
+Brazil,1980,2,0,2,4,19
+Ethiopia,1980,2,0,2,4,19
+Austria,1980,1,2,1,4,19
+Mongolia,1980,0,2,2,4,19
+Mexico,1980,0,1,3,4,19
+Greece,1980,1,0,2,3,24
+Netherlands,1980,0,1,2,3,24
+Jamaica,1980,0,0,3,3,24
+Switzerland,1980,2,0,0,2,27
+Tanzania,1980,0,2,0,2,27
+Ireland,1980,0,1,1,2,27
+Belgium,1980,1,0,0,1,30
+India,1980,1,0,0,1,30
+Zimbabwe,1980,1,0,0,1,30
+Uganda,1980,0,1,0,1,30
+Venezuela,1980,0,1,0,1,30
+Guyana,1980,0,0,1,1,30
+Lebanon,1980,0,0,1,1,30
+Afghanistan,1980,0,0,0,0,37
+Algeria,1980,0,0,0,0,37
+Andorra,1980,0,0,0,0,37
+Angola,1980,0,0,0,0,37
+Benin,1980,0,0,0,0,37
+Botswana,1980,0,0,0,0,37
+Republic of the Congo,1980,0,0,0,0,37
+Cameroon,1980,0,0,0,0,37
+Colombia,1980,0,0,0,0,37
+Costa Rica,1980,0,0,0,0,37
+Cyprus,1980,0,0,0,0,37
+Dominican Republic,1980,0,0,0,0,37
+Ecuador,1980,0,0,0,0,37
+Guatemala,1980,0,0,0,0,37
+Guinea,1980,0,0,0,0,37
+Iraq,1980,0,0,0,0,37
+Iceland,1980,0,0,0,0,37
+Jordan,1980,0,0,0,0,37
+Kuwait,1980,0,0,0,0,37
+Lao PDR,1980,0,0,0,0,37
+Libya,1980,0,0,0,0,37
+Lesotho,1980,0,0,0,0,37
+Luxembourg,1980,0,0,0,0,37
+Madagascar,1980,0,0,0,0,37
+Mali,1980,0,0,0,0,37
+Malta,1980,0,0,0,0,37
+Mozambique,1980,0,0,0,0,37
+Myanmar,1980,0,0,0,0,37
+Nicaragua,1980,0,0,0,0,37
+Nepal,1980,0,0,0,0,37
+Nigeria,1980,0,0,0,0,37
+New Zealand,1980,0,0,0,0,37
+Peru,1980,0,0,0,0,37
+Portugal,1980,0,0,0,0,37
+Puerto Rico,1980,0,0,0,0,37
+Senegal,1980,0,0,0,0,37
+Seychelles,1980,0,0,0,0,37
+Sierra Leone,1980,0,0,0,0,37
+San Marino,1980,0,0,0,0,37
+Sri Lanka,1980,0,0,0,0,37
+Syria,1980,0,0,0,0,37
+Trinidad and Tobago,1980,0,0,0,0,37
+Vietnam,1980,0,0,0,0,37
+Zambia,1980,0,0,0,0,37
+United States,1984,82,61,30,173,1
+West Germany,1984,17,19,23,59,2
+Romania,1984,19,16,17,52,3
+Canada,1984,10,18,16,44,4
+Great Britain,1984,5,11,21,37,5
+China,1984,15,8,9,32,6
+Italy,1984,14,6,12,32,6
+Japan,1984,10,7,14,31,8
+France,1984,5,7,16,28,9
+Australia,1984,4,8,12,24,10
+South Korea,1984,6,6,7,19,11
+Sweden,1984,2,11,6,19,11
+Yugoslavia,1984,7,4,7,18,13
+Netherlands,1984,5,2,6,13,14
+Finland,1984,4,2,6,12,15
+New Zealand,1984,8,1,2,11,16
+Brazil,1984,1,5,2,8,17
+Switzerland,1984,0,4,4,8,17
+Mexico,1984,2,3,1,6,19
+Denmark,1984,0,3,3,6,19
+Spain,1984,1,2,2,5,21
+Belgium,1984,1,1,2,4,22
+Austria,1984,1,1,1,3,23
+Kenya,1984,1,0,2,3,23
+Portugal,1984,1,0,2,3,23
+Jamaica,1984,0,1,2,3,23
+Norway,1984,0,1,2,3,23
+Turkey,1984,0,0,3,3,23
+Venezuela,1984,0,0,3,3,23
+Morocco,1984,2,0,0,2,30
+Greece,1984,0,1,1,2,30
+Nigeria,1984,0,1,1,2,30
+Puerto Rico,1984,0,1,1,2,30
+Algeria,1984,0,0,2,2,30
+Pakistan,1984,1,0,0,1,35
+Ivory Coast,1984,0,1,0,1,35
+Colombia,1984,0,1,0,1,35
+Egypt,1984,0,1,0,1,35
+Ireland,1984,0,1,0,1,35
+Peru,1984,0,1,0,1,35
+Syria,1984,0,1,0,1,35
+Thailand,1984,0,1,0,1,35
+Cameroon,1984,0,0,1,1,35
+Dominican Republic,1984,0,0,1,1,35
+Iceland,1984,0,0,1,1,35
+Chinese Taipei,1984,0,0,1,1,35
+Zambia,1984,0,0,1,1,35
+Netherlands Antilles,1984,0,0,0,0,48
+Andorra,1984,0,0,0,0,48
+Antigua and Barbuda,1984,0,0,0,0,48
+Argentina,1984,0,0,0,0,48
+Bahamas,1984,0,0,0,0,48
+Bangladesh,1984,0,0,0,0,48
+Barbados,1984,0,0,0,0,48
+Benin,1984,0,0,0,0,48
+Bermuda,1984,0,0,0,0,48
+Bhutan,1984,0,0,0,0,48
+Belize,1984,0,0,0,0,48
+Bolivia,1984,0,0,0,0,48
+Botswana,1984,0,0,0,0,48
+Bahrain,1984,0,0,0,0,48
+Central African Republic,1984,0,0,0,0,48
+Cayman Islands,1984,0,0,0,0,48
+Republic of the Congo,1984,0,0,0,0,48
+Chad,1984,0,0,0,0,48
+Chile,1984,0,0,0,0,48
+Democratic Republic of the Congo,1984,0,0,0,0,48
+Costa Rica,1984,0,0,0,0,48
+Cyprus,1984,0,0,0,0,48
+Djibouti,1984,0,0,0,0,48
+Ecuador,1984,0,0,0,0,48
+El Salvador,1984,0,0,0,0,48
+Fiji,1984,0,0,0,0,48
+Gabon,1984,0,0,0,0,48
+The Gambia,1984,0,0,0,0,48
+Equatorial Guinea,1984,0,0,0,0,48
+Ghana,1984,0,0,0,0,48
+Grenada,1984,0,0,0,0,48
+Guatemala,1984,0,0,0,0,48
+Guinea,1984,0,0,0,0,48
+Guyana,1984,0,0,0,0,48
+Haiti,1984,0,0,0,0,48
+Hong Kong,1984,0,0,0,0,48
+Honduras,1984,0,0,0,0,48
+Indonesia,1984,0,0,0,0,48
+India,1984,0,0,0,0,48
+Iraq,1984,0,0,0,0,48
+Israel,1984,0,0,0,0,48
+Virgin Islands,1984,0,0,0,0,48
+British Virgin Islands,1984,0,0,0,0,48
+Jordan,1984,0,0,0,0,48
+Saudi Arabia,1984,0,0,0,0,48
+Kuwait,1984,0,0,0,0,48
+Liberia,1984,0,0,0,0,48
+Lesotho,1984,0,0,0,0,48
+Lebanon,1984,0,0,0,0,48
+Liechtenstein,1984,0,0,0,0,48
+Luxembourg,1984,0,0,0,0,48
+Madagascar,1984,0,0,0,0,48
+Malaysia,1984,0,0,0,0,48
+Malawi,1984,0,0,0,0,48
+Mali,1984,0,0,0,0,48
+Malta,1984,0,0,0,0,48
+Monaco,1984,0,0,0,0,48
+Mozambique,1984,0,0,0,0,48
+Mauritius,1984,0,0,0,0,48
+Mauritania,1984,0,0,0,0,48
+Myanmar,1984,0,0,0,0,48
+Nicaragua,1984,0,0,0,0,48
+Nepal,1984,0,0,0,0,48
+Niger,1984,0,0,0,0,48
+Oman,1984,0,0,0,0,48
+Panama,1984,0,0,0,0,48
+Paraguay,1984,0,0,0,0,48
+Philippines,1984,0,0,0,0,48
+Papua New Guinea,1984,0,0,0,0,48
+Qatar,1984,0,0,0,0,48
+Rwanda,1984,0,0,0,0,48
+Samoa,1984,0,0,0,0,48
+Senegal,1984,0,0,0,0,48
+Seychelles,1984,0,0,0,0,48
+Singapore,1984,0,0,0,0,48
+Sierra Leone,1984,0,0,0,0,48
+San Marino,1984,0,0,0,0,48
+Solomon Islands,1984,0,0,0,0,48
+Somalia,1984,0,0,0,0,48
+Sri Lanka,1984,0,0,0,0,48
+Sudan,1984,0,0,0,0,48
+Suriname,1984,0,0,0,0,48
+Swaziland,1984,0,0,0,0,48
+Tanzania,1984,0,0,0,0,48
+Tonga,1984,0,0,0,0,48
+Togo,1984,0,0,0,0,48
+Trinidad and Tobago,1984,0,0,0,0,48
+Tunisia,1984,0,0,0,0,48
+United Arab Emirates,1984,0,0,0,0,48
+Uganda,1984,0,0,0,0,48
+Uruguay,1984,0,0,0,0,48
+North Yemen,1984,0,0,0,0,48
+Zimbabwe,1984,0,0,0,0,48
+Soviet Union,1988,54,31,46,131,1
+East Germany,1988,37,35,30,102,2
+United States,1988,36,31,27,94,3
+West Germany,1988,11,14,15,40,4
+Bulgaria,1988,10,12,13,35,5
+South Korea,1988,12,10,11,33,6
+China,1988,5,11,12,28,7
+Romania,1988,7,11,6,24,8
+Great Britain,1988,5,10,9,24,8
+Hungary,1988,11,6,6,23,10
+France,1988,6,4,6,16,11
+Poland,1988,2,5,9,16,11
+Italy,1988,6,4,4,14,13
+Japan,1988,4,3,7,14,13
+Australia,1988,3,6,5,14,13
+New Zealand,1988,3,2,8,13,16
+Yugoslavia,1988,3,4,5,12,17
+Sweden,1988,0,4,7,11,18
+Canada,1988,3,2,5,10,19
+Kenya,1988,5,2,2,9,20
+Netherlands,1988,2,2,5,9,20
+Czechoslovakia,1988,3,3,2,8,22
+Brazil,1988,1,2,3,6,23
+Norway,1988,2,3,0,5,24
+Denmark,1988,2,1,1,4,25
+Spain,1988,1,1,2,4,25
+Finland,1988,1,1,2,4,25
+Switzerland,1988,0,2,2,4,25
+Morocco,1988,1,0,2,3,29
+Turkey,1988,1,1,0,2,30
+Jamaica,1988,0,2,0,2,30
+Argentina,1988,0,1,1,2,30
+Belgium,1988,0,0,2,2,30
+Mexico,1988,0,0,2,2,30
+Austria,1988,1,0,0,1,35
+Portugal,1988,1,0,0,1,35
+Suriname,1988,1,0,0,1,35
+Netherlands Antilles,1988,0,1,0,1,35
+Chile,1988,0,1,0,1,35
+Costa Rica,1988,0,1,0,1,35
+Indonesia,1988,0,1,0,1,35
+Iran,1988,0,1,0,1,35
+Virgin Islands,1988,0,1,0,1,35
+Peru,1988,0,1,0,1,35
+Senegal,1988,0,1,0,1,35
+Colombia,1988,0,0,1,1,35
+Djibouti,1988,0,0,1,1,35
+Greece,1988,0,0,1,1,35
+Mongolia,1988,0,0,1,1,35
+Pakistan,1988,0,0,1,1,35
+Philippines,1988,0,0,1,1,35
+Thailand,1988,0,0,1,1,35
+Afghanistan,1988,0,0,0,0,53
+Algeria,1988,0,0,0,0,53
+Andorra,1988,0,0,0,0,53
+Angola,1988,0,0,0,0,53
+Antigua and Barbuda,1988,0,0,0,0,53
+Aruba,1988,0,0,0,0,53
+American Samoa,1988,0,0,0,0,53
+Bahamas,1988,0,0,0,0,53
+Bangladesh,1988,0,0,0,0,53
+Barbados,1988,0,0,0,0,53
+Benin,1988,0,0,0,0,53
+Bermuda,1988,0,0,0,0,53
+Bhutan,1988,0,0,0,0,53
+Belize,1988,0,0,0,0,53
+Bolivia,1988,0,0,0,0,53
+Botswana,1988,0,0,0,0,53
+Bahrain,1988,0,0,0,0,53
+Burkina Faso,1988,0,0,0,0,53
+Central African Republic,1988,0,0,0,0,53
+Cayman Islands,1988,0,0,0,0,53
+Republic of the Congo,1988,0,0,0,0,53
+Chad,1988,0,0,0,0,53
+Ivory Coast,1988,0,0,0,0,53
+Cameroon,1988,0,0,0,0,53
+Democratic Republic of the Congo,1988,0,0,0,0,53
+Cook Islands,1988,0,0,0,0,53
+Cyprus,1988,0,0,0,0,53
+Dominican Republic,1988,0,0,0,0,53
+Ecuador,1988,0,0,0,0,53
+Egypt,1988,0,0,0,0,53
+El Salvador,1988,0,0,0,0,53
+Fiji,1988,0,0,0,0,53
+Gabon,1988,0,0,0,0,53
+The Gambia,1988,0,0,0,0,53
+Equatorial Guinea,1988,0,0,0,0,53
+Ghana,1988,0,0,0,0,53
+Grenada,1988,0,0,0,0,53
+Guatemala,1988,0,0,0,0,53
+Guinea,1988,0,0,0,0,53
+Guam,1988,0,0,0,0,53
+Guyana,1988,0,0,0,0,53
+Haiti,1988,0,0,0,0,53
+Hong Kong,1988,0,0,0,0,53
+Honduras,1988,0,0,0,0,53
+India,1988,0,0,0,0,53
+Ireland,1988,0,0,0,0,53
+Iraq,1988,0,0,0,0,53
+Iceland,1988,0,0,0,0,53
+Israel,1988,0,0,0,0,53
+British Virgin Islands,1988,0,0,0,0,53
+Jordan,1988,0,0,0,0,53
+Saudi Arabia,1988,0,0,0,0,53
+Kuwait,1988,0,0,0,0,53
+Lao PDR,1988,0,0,0,0,53
+Libya,1988,0,0,0,0,53
+Liberia,1988,0,0,0,0,53
+Lesotho,1988,0,0,0,0,53
+Lebanon,1988,0,0,0,0,53
+Liechtenstein,1988,0,0,0,0,53
+Luxembourg,1988,0,0,0,0,53
+Malaysia,1988,0,0,0,0,53
+Malawi,1988,0,0,0,0,53
+Maldives,1988,0,0,0,0,53
+Mali,1988,0,0,0,0,53
+Malta,1988,0,0,0,0,53
+Monaco,1988,0,0,0,0,53
+Mozambique,1988,0,0,0,0,53
+Mauritius,1988,0,0,0,0,53
+Mauritania,1988,0,0,0,0,53
+Myanmar,1988,0,0,0,0,53
+Nepal,1988,0,0,0,0,53
+Nigeria,1988,0,0,0,0,53
+Niger,1988,0,0,0,0,53
+Oman,1988,0,0,0,0,53
+Panama,1988,0,0,0,0,53
+Paraguay,1988,0,0,0,0,53
+Papua New Guinea,1988,0,0,0,0,53
+Puerto Rico,1988,0,0,0,0,53
+Qatar,1988,0,0,0,0,53
+Rwanda,1988,0,0,0,0,53
+Samoa,1988,0,0,0,0,53
+Singapore,1988,0,0,0,0,53
+Sierra Leone,1988,0,0,0,0,53
+San Marino,1988,0,0,0,0,53
+Solomon Islands,1988,0,0,0,0,53
+Somalia,1988,0,0,0,0,53
+Sri Lanka,1988,0,0,0,0,53
+Sudan,1988,0,0,0,0,53
+Swaziland,1988,0,0,0,0,53
+Syria,1988,0,0,0,0,53
+Tanzania,1988,0,0,0,0,53
+Tonga,1988,0,0,0,0,53
+Togo,1988,0,0,0,0,53
+Chinese Taipei,1988,0,0,0,0,53
+Trinidad and Tobago,1988,0,0,0,0,53
+Tunisia,1988,0,0,0,0,53
+United Arab Emirates,1988,0,0,0,0,53
+Uganda,1988,0,0,0,0,53
+Uruguay,1988,0,0,0,0,53
+Vanuatu,1988,0,0,0,0,53
+Venezuela,1988,0,0,0,0,53
+Vietnam,1988,0,0,0,0,53
+Saint Vincent and the Grenadines,1988,0,0,0,0,53
+North Yemen,1988,0,0,0,0,53
+South Yemen,1988,0,0,0,0,53
+Zambia,1988,0,0,0,0,53
+Zimbabwe,1988,0,0,0,0,53
+Unified Team,1992,45,38,29,112,1
+United States,1992,37,34,37,108,2
+Germany,1992,33,21,28,82,3
+China,1992,16,22,15,53,4
+Cuba,1992,14,6,11,31,5
+Hungary,1992,11,12,7,30,6
+France,1992,8,5,16,29,7
+South Korea,1992,12,5,11,28,8
+Australia,1992,7,9,11,27,9
+Spain,1992,13,7,2,22,10
+Japan,1992,3,8,11,22,10
+Great Britain,1992,5,3,12,20,12
+Italy,1992,6,5,8,19,13
+Poland,1992,3,6,10,19,13
+Canada,1992,7,4,7,18,15
+Romania,1992,4,6,8,18,15
+Bulgaria,1992,3,7,6,16,17
+Netherlands,1992,2,6,7,15,18
+Sweden,1992,1,7,4,12,19
+New Zealand,1992,1,4,5,10,20
+North Korea,1992,4,0,5,9,21
+Kenya,1992,2,4,2,8,22
+Czechoslovakia,1992,4,2,1,7,23
+Norway,1992,2,4,1,7,23
+Turkey,1992,2,2,2,6,25
+Denmark,1992,1,1,4,6,25
+Indonesia,1992,2,2,1,5,27
+Finland,1992,1,2,2,5,27
+Jamaica,1992,0,3,1,4,29
+Nigeria,1992,0,3,1,4,29
+Brazil,1992,2,1,0,3,31
+Morocco,1992,1,1,1,3,31
+Ethiopia,1992,1,0,2,3,31
+Latvia,1992,0,2,1,3,31
+Belgium,1992,0,1,2,3,31
+Croatia,1992,0,1,2,3,31
+Individual Olympic Athletes,1992,0,1,2,3,31
+Iran,1992,0,1,2,3,31
+Greece,1992,2,0,0,2,39
+Ireland,1992,1,1,0,2,39
+Algeria,1992,1,0,1,2,39
+Estonia,1992,1,0,1,2,39
+Lithuania,1992,1,0,1,2,39
+Austria,1992,0,2,0,2,39
+Namibia,1992,0,2,0,2,39
+South Africa,1992,0,2,0,2,39
+Israel,1992,0,1,1,2,39
+Mongolia,1992,0,0,2,2,39
+Slovenia,1992,0,0,2,2,39
+Switzerland,1992,1,0,0,1,50
+Mexico,1992,0,1,0,1,50
+Peru,1992,0,1,0,1,50
+Chinese Taipei,1992,0,1,0,1,50
+Argentina,1992,0,0,1,1,50
+Bahamas,1992,0,0,1,1,50
+Colombia,1992,0,0,1,1,50
+Ghana,1992,0,0,1,1,50
+Malaysia,1992,0,0,1,1,50
+Pakistan,1992,0,0,1,1,50
+Philippines,1992,0,0,1,1,50
+Puerto Rico,1992,0,0,1,1,50
+Qatar,1992,0,0,1,1,50
+Suriname,1992,0,0,1,1,50
+Thailand,1992,0,0,1,1,50
+Netherlands Antilles,1992,0,0,0,0,65
+Albania,1992,0,0,0,0,65
+Andorra,1992,0,0,0,0,65
+Angola,1992,0,0,0,0,65
+Antigua and Barbuda,1992,0,0,0,0,65
+Aruba,1992,0,0,0,0,65
+American Samoa,1992,0,0,0,0,65
+Bangladesh,1992,0,0,0,0,65
+Barbados,1992,0,0,0,0,65
+Benin,1992,0,0,0,0,65
+Bermuda,1992,0,0,0,0,65
+Bhutan,1992,0,0,0,0,65
+Bosnia and Herzegovina,1992,0,0,0,0,65
+Belize,1992,0,0,0,0,65
+Bolivia,1992,0,0,0,0,65
+Botswana,1992,0,0,0,0,65
+Bahrain,1992,0,0,0,0,65
+Burkina Faso,1992,0,0,0,0,65
+Central African Republic,1992,0,0,0,0,65
+Cayman Islands,1992,0,0,0,0,65
+Republic of the Congo,1992,0,0,0,0,65
+Chad,1992,0,0,0,0,65
+Chile,1992,0,0,0,0,65
+Ivory Coast,1992,0,0,0,0,65
+Cameroon,1992,0,0,0,0,65
+Democratic Republic of the Congo,1992,0,0,0,0,65
+Cook Islands,1992,0,0,0,0,65
+Costa Rica,1992,0,0,0,0,65
+Cyprus,1992,0,0,0,0,65
+Djibouti,1992,0,0,0,0,65
+Dominican Republic,1992,0,0,0,0,65
+Ecuador,1992,0,0,0,0,65
+Egypt,1992,0,0,0,0,65
+El Salvador,1992,0,0,0,0,65
+Fiji,1992,0,0,0,0,65
+Gabon,1992,0,0,0,0,65
+The Gambia,1992,0,0,0,0,65
+Equatorial Guinea,1992,0,0,0,0,65
+Grenada,1992,0,0,0,0,65
+Guatemala,1992,0,0,0,0,65
+Guinea,1992,0,0,0,0,65
+Guam,1992,0,0,0,0,65
+Guyana,1992,0,0,0,0,65
+Haiti,1992,0,0,0,0,65
+Hong Kong,1992,0,0,0,0,65
+Honduras,1992,0,0,0,0,65
+India,1992,0,0,0,0,65
+Iraq,1992,0,0,0,0,65
+Iceland,1992,0,0,0,0,65
+Virgin Islands,1992,0,0,0,0,65
+British Virgin Islands,1992,0,0,0,0,65
+Jordan,1992,0,0,0,0,65
+Saudi Arabia,1992,0,0,0,0,65
+Kuwait,1992,0,0,0,0,65
+Lao PDR,1992,0,0,0,0,65
+Libya,1992,0,0,0,0,65
+Lesotho,1992,0,0,0,0,65
+Lebanon,1992,0,0,0,0,65
+Liechtenstein,1992,0,0,0,0,65
+Luxembourg,1992,0,0,0,0,65
+Madagascar,1992,0,0,0,0,65
+Malawi,1992,0,0,0,0,65
+Maldives,1992,0,0,0,0,65
+Mali,1992,0,0,0,0,65
+Malta,1992,0,0,0,0,65
+Monaco,1992,0,0,0,0,65
+Mozambique,1992,0,0,0,0,65
+Mauritius,1992,0,0,0,0,65
+Mauritania,1992,0,0,0,0,65
+Myanmar,1992,0,0,0,0,65
+Nicaragua,1992,0,0,0,0,65
+Nepal,1992,0,0,0,0,65
+Niger,1992,0,0,0,0,65
+Oman,1992,0,0,0,0,65
+Panama,1992,0,0,0,0,65
+Paraguay,1992,0,0,0,0,65
+Papua New Guinea,1992,0,0,0,0,65
+Portugal,1992,0,0,0,0,65
+Rwanda,1992,0,0,0,0,65
+Samoa,1992,0,0,0,0,65
+Senegal,1992,0,0,0,0,65
+Seychelles,1992,0,0,0,0,65
+Singapore,1992,0,0,0,0,65
+Sierra Leone,1992,0,0,0,0,65
+San Marino,1992,0,0,0,0,65
+Solomon Islands,1992,0,0,0,0,65
+Sri Lanka,1992,0,0,0,0,65
+Sudan,1992,0,0,0,0,65
+Swaziland,1992,0,0,0,0,65
+Syria,1992,0,0,0,0,65
+Tanzania,1992,0,0,0,0,65
+Tonga,1992,0,0,0,0,65
+Togo,1992,0,0,0,0,65
+Trinidad and Tobago,1992,0,0,0,0,65
+Tunisia,1992,0,0,0,0,65
+United Arab Emirates,1992,0,0,0,0,65
+Uganda,1992,0,0,0,0,65
+Uruguay,1992,0,0,0,0,65
+Vanuatu,1992,0,0,0,0,65
+Venezuela,1992,0,0,0,0,65
+Vietnam,1992,0,0,0,0,65
+Saint Vincent and the Grenadines,1992,0,0,0,0,65
+Yemen,1992,0,0,0,0,65
+Zambia,1992,0,0,0,0,65
+Zimbabwe,1992,0,0,0,0,65
+United States,1996,44,32,25,101,1
+Germany,1996,20,18,27,65,2
+Russia,1996,26,21,16,63,3
+China,1996,16,22,12,50,4
+Australia,1996,9,9,23,41,5
+France,1996,15,7,15,37,6
+Italy,1996,13,10,12,35,7
+South Korea,1996,7,15,5,27,8
+Cuba,1996,9,8,8,25,9
+Ukraine,1996,9,2,12,23,10
+Canada,1996,3,11,8,22,11
+Hungary,1996,7,4,10,21,12
+Romania,1996,4,7,8,19,13
+Netherlands,1996,4,5,10,19,13
+Poland,1996,7,5,5,17,15
+Spain,1996,5,6,6,17,15
+Bulgaria,1996,3,7,5,15,17
+Brazil,1996,3,3,9,15,17
+Great Britain,1996,1,8,6,15,17
+Belarus,1996,1,6,8,15,17
+Japan,1996,3,6,5,14,21
+Czech Republic,1996,4,3,4,11,22
+Kazakhstan,1996,3,4,4,11,22
+Greece,1996,4,4,0,8,24
+Sweden,1996,2,4,2,8,24
+Kenya,1996,1,4,3,8,24
+Switzerland,1996,4,3,0,7,27
+Norway,1996,2,2,3,7,27
+Denmark,1996,4,1,1,6,29
+Turkey,1996,4,1,1,6,29
+New Zealand,1996,3,2,1,6,29
+Belgium,1996,2,2,2,6,29
+Nigeria,1996,2,1,3,6,29
+Jamaica,1996,1,3,2,6,29
+South Africa,1996,3,1,1,5,35
+North Korea,1996,2,1,2,5,35
+Ireland,1996,3,0,1,4,37
+Finland,1996,1,2,1,4,37
+Indonesia,1996,1,1,2,4,37
+Serbia and Montenegro,1996,1,1,2,4,37
+Algeria,1996,2,0,1,3,41
+Ethiopia,1996,2,0,1,3,41
+Iran,1996,1,1,1,3,41
+Slovakia,1996,1,1,1,3,41
+Argentina,1996,0,2,1,3,41
+Austria,1996,0,1,2,3,41
+Armenia,1996,1,1,0,2,47
+Croatia,1996,1,1,0,2,47
+Portugal,1996,1,0,1,2,47
+Thailand,1996,1,0,1,2,47
+Namibia,1996,0,2,0,2,47
+Slovenia,1996,0,2,0,2,47
+Malaysia,1996,0,1,1,2,47
+Moldova,1996,0,1,1,2,47
+Uzbekistan,1996,0,1,1,2,47
+Georgia,1996,0,0,2,2,47
+Morocco,1996,0,0,2,2,47
+Trinidad and Tobago,1996,0,0,2,2,47
+Burundi,1996,1,0,0,1,59
+Costa Rica,1996,1,0,0,1,59
+Ecuador,1996,1,0,0,1,59
+Hong Kong,1996,1,0,0,1,59
+Syria,1996,1,0,0,1,59
+Azerbaijan,1996,0,1,0,1,59
+Bahamas,1996,0,1,0,1,59
+Latvia,1996,0,1,0,1,59
+Philippines,1996,0,1,0,1,59
+Tonga,1996,0,1,0,1,59
+Chinese Taipei,1996,0,1,0,1,59
+Zambia,1996,0,1,0,1,59
+India,1996,0,0,1,1,59
+Israel,1996,0,0,1,1,59
+Lithuania,1996,0,0,1,1,59
+Mexico,1996,0,0,1,1,59
+Mongolia,1996,0,0,1,1,59
+Mozambique,1996,0,0,1,1,59
+Puerto Rico,1996,0,0,1,1,59
+Tunisia,1996,0,0,1,1,59
+Uganda,1996,0,0,1,1,59
+Afghanistan,1996,0,0,0,0,80
+Netherlands Antilles,1996,0,0,0,0,80
+Albania,1996,0,0,0,0,80
+Andorra,1996,0,0,0,0,80
+Angola,1996,0,0,0,0,80
+Antigua and Barbuda,1996,0,0,0,0,80
+Aruba,1996,0,0,0,0,80
+American Samoa,1996,0,0,0,0,80
+Bangladesh,1996,0,0,0,0,80
+Barbados,1996,0,0,0,0,80
+Benin,1996,0,0,0,0,80
+Bermuda,1996,0,0,0,0,80
+Bhutan,1996,0,0,0,0,80
+Bosnia and Herzegovina,1996,0,0,0,0,80
+Belize,1996,0,0,0,0,80
+Bolivia,1996,0,0,0,0,80
+Botswana,1996,0,0,0,0,80
+Bahrain,1996,0,0,0,0,80
+Brunei Darussalam,1996,0,0,0,0,80
+Burkina Faso,1996,0,0,0,0,80
+Central African Republic,1996,0,0,0,0,80
+Cambodia,1996,0,0,0,0,80
+Cayman Islands,1996,0,0,0,0,80
+Republic of the Congo,1996,0,0,0,0,80
+Chad,1996,0,0,0,0,80
+Chile,1996,0,0,0,0,80
+Ivory Coast,1996,0,0,0,0,80
+Cameroon,1996,0,0,0,0,80
+Democratic Republic of the Congo,1996,0,0,0,0,80
+Cook Islands,1996,0,0,0,0,80
+Colombia,1996,0,0,0,0,80
+Comoros,1996,0,0,0,0,80
+Cabo Verde,1996,0,0,0,0,80
+Cyprus,1996,0,0,0,0,80
+Djibouti,1996,0,0,0,0,80
+Dominica,1996,0,0,0,0,80
+Dominican Republic,1996,0,0,0,0,80
+Egypt,1996,0,0,0,0,80
+El Salvador,1996,0,0,0,0,80
+Estonia,1996,0,0,0,0,80
+Fiji,1996,0,0,0,0,80
+Gabon,1996,0,0,0,0,80
+The Gambia,1996,0,0,0,0,80
+Guinea Bissau,1996,0,0,0,0,80
+Equatorial Guinea,1996,0,0,0,0,80
+Ghana,1996,0,0,0,0,80
+Grenada,1996,0,0,0,0,80
+Guatemala,1996,0,0,0,0,80
+Guinea,1996,0,0,0,0,80
+Guam,1996,0,0,0,0,80
+Guyana,1996,0,0,0,0,80
+Haiti,1996,0,0,0,0,80
+Honduras,1996,0,0,0,0,80
+Iraq,1996,0,0,0,0,80
+Iceland,1996,0,0,0,0,80
+Virgin Islands,1996,0,0,0,0,80
+British Virgin Islands,1996,0,0,0,0,80
+Jordan,1996,0,0,0,0,80
+Kyrgyzstan,1996,0,0,0,0,80
+Saudi Arabia,1996,0,0,0,0,80
+Kuwait,1996,0,0,0,0,80
+Lao PDR,1996,0,0,0,0,80
+Libya,1996,0,0,0,0,80
+Liberia,1996,0,0,0,0,80
+Saint Lucia,1996,0,0,0,0,80
+Lesotho,1996,0,0,0,0,80
+Lebanon,1996,0,0,0,0,80
+Liechtenstein,1996,0,0,0,0,80
+Luxembourg,1996,0,0,0,0,80
+Madagascar,1996,0,0,0,0,80
+Malawi,1996,0,0,0,0,80
+Maldives,1996,0,0,0,0,80
+Macedonia,1996,0,0,0,0,80
+Mali,1996,0,0,0,0,80
+Malta,1996,0,0,0,0,80
+Monaco,1996,0,0,0,0,80
+Mauritius,1996,0,0,0,0,80
+Mauritania,1996,0,0,0,0,80
+Myanmar,1996,0,0,0,0,80
+Nicaragua,1996,0,0,0,0,80
+Nepal,1996,0,0,0,0,80
+Niger,1996,0,0,0,0,80
+Nauru,1996,0,0,0,0,80
+Oman,1996,0,0,0,0,80
+Pakistan,1996,0,0,0,0,80
+Panama,1996,0,0,0,0,80
+Paraguay,1996,0,0,0,0,80
+Peru,1996,0,0,0,0,80
+Palestine,1996,0,0,0,0,80
+Papua New Guinea,1996,0,0,0,0,80
+Qatar,1996,0,0,0,0,80
+Rwanda,1996,0,0,0,0,80
+Samoa,1996,0,0,0,0,80
+Senegal,1996,0,0,0,0,80
+Seychelles,1996,0,0,0,0,80
+Singapore,1996,0,0,0,0,80
+Saint Kitts and Nevis,1996,0,0,0,0,80
+Sierra Leone,1996,0,0,0,0,80
+San Marino,1996,0,0,0,0,80
+Solomon Islands,1996,0,0,0,0,80
+Somalia,1996,0,0,0,0,80
+Sri Lanka,1996,0,0,0,0,80
+São Tomé and Príncipe,1996,0,0,0,0,80
+Sudan,1996,0,0,0,0,80
+Suriname,1996,0,0,0,0,80
+Swaziland,1996,0,0,0,0,80
+Tanzania,1996,0,0,0,0,80
+Tajikistan,1996,0,0,0,0,80
+Turkmenistan,1996,0,0,0,0,80
+Togo,1996,0,0,0,0,80
+United Arab Emirates,1996,0,0,0,0,80
+Uruguay,1996,0,0,0,0,80
+Vanuatu,1996,0,0,0,0,80
+Venezuela,1996,0,0,0,0,80
+Vietnam,1996,0,0,0,0,80
+Saint Vincent and the Grenadines,1996,0,0,0,0,80
+Yemen,1996,0,0,0,0,80
+Zimbabwe,1996,0,0,0,0,80
+United States,2000,36,24,31,91,1
+Russia,2000,32,28,29,89,2
+China,2000,28,16,14,58,3
+Australia,2000,16,25,17,58,3
+Germany,2000,13,17,26,56,5
+France,2000,13,14,11,38,6
+Italy,2000,13,8,13,34,7
+Cuba,2000,11,11,7,29,8
+Great Britain,2000,11,10,7,28,9
+South Korea,2000,8,10,10,28,9
+Romania,2000,11,6,9,26,11
+Netherlands,2000,12,9,4,25,12
+Ukraine,2000,3,10,10,23,13
+Japan,2000,5,8,5,18,14
+Hungary,2000,8,6,3,17,15
+Belarus,2000,3,3,11,17,15
+Poland,2000,6,5,3,14,17
+Canada,2000,3,3,8,14,17
+Bulgaria,2000,5,6,2,13,19
+Greece,2000,4,6,3,13,19
+Sweden,2000,4,5,3,12,21
+Brazil,2000,0,6,6,12,21
+Spain,2000,3,3,5,11,23
+Norway,2000,4,3,3,10,24
+Switzerland,2000,1,6,2,9,25
+Jamaica,2000,0,6,3,9,25
+Ethiopia,2000,4,1,3,8,27
+Czech Republic,2000,2,3,3,8,27
+Kazakhstan,2000,3,4,0,7,29
+Kenya,2000,2,3,2,7,29
+Denmark,2000,2,3,1,6,31
+Indonesia,2000,1,3,2,6,31
+Mexico,2000,1,2,3,6,31
+Georgia,2000,0,0,6,6,31
+Turkey,2000,3,0,2,5,35
+Lithuania,2000,2,0,3,5,35
+Slovakia,2000,1,3,1,5,35
+Algeria,2000,1,1,3,5,35
+Belgium,2000,0,2,3,5,35
+South Africa,2000,0,2,3,5,35
+Morocco,2000,0,1,4,5,35
+Chinese Taipei,2000,0,1,4,5,35
+Iran,2000,3,0,1,4,43
+Finland,2000,2,1,1,4,43
+Uzbekistan,2000,1,1,2,4,43
+New Zealand,2000,1,0,3,4,43
+Argentina,2000,0,2,2,4,43
+North Korea,2000,0,1,3,4,43
+Austria,2000,2,1,0,3,49
+Azerbaijan,2000,2,0,1,3,49
+Bahamas,2000,2,0,1,3,49
+Nigeria,2000,1,2,0,3,49
+Latvia,2000,1,1,1,3,49
+Serbia and Montenegro,2000,1,1,1,3,49
+Estonia,2000,1,0,2,3,49
+Thailand,2000,1,0,2,3,49
+Slovenia,2000,2,0,0,2,57
+Croatia,2000,1,0,1,2,57
+Saudi Arabia,2000,0,1,1,2,57
+Moldova,2000,0,1,1,2,57
+Trinidad and Tobago,2000,0,1,1,2,57
+Costa Rica,2000,0,0,2,2,57
+Portugal,2000,0,0,2,2,57
+Cameroon,2000,1,0,0,1,64
+Colombia,2000,1,0,0,1,64
+Mozambique,2000,1,0,0,1,64
+Ireland,2000,0,1,0,1,64
+Sri Lanka,2000,0,1,0,1,64
+Uruguay,2000,0,1,0,1,64
+Vietnam,2000,0,1,0,1,64
+Armenia,2000,0,0,1,1,64
+Barbados,2000,0,0,1,1,64
+Chile,2000,0,0,1,1,64
+India,2000,0,0,1,1,64
+Iceland,2000,0,0,1,1,64
+Israel,2000,0,0,1,1,64
+Kyrgyzstan,2000,0,0,1,1,64
+Kuwait,2000,0,0,1,1,64
+Macedonia,2000,0,0,1,1,64
+Qatar,2000,0,0,1,1,64
+Netherlands Antilles,2000,0,0,0,0,81
+Albania,2000,0,0,0,0,81
+Andorra,2000,0,0,0,0,81
+Angola,2000,0,0,0,0,81
+Antigua and Barbuda,2000,0,0,0,0,81
+Aruba,2000,0,0,0,0,81
+American Samoa,2000,0,0,0,0,81
+Bangladesh,2000,0,0,0,0,81
+Burundi,2000,0,0,0,0,81
+Benin,2000,0,0,0,0,81
+Bermuda,2000,0,0,0,0,81
+Bhutan,2000,0,0,0,0,81
+Bosnia and Herzegovina,2000,0,0,0,0,81
+Belize,2000,0,0,0,0,81
+Bolivia,2000,0,0,0,0,81
+Botswana,2000,0,0,0,0,81
+Bahrain,2000,0,0,0,0,81
+Brunei Darussalam,2000,0,0,0,0,81
+Burkina Faso,2000,0,0,0,0,81
+Central African Republic,2000,0,0,0,0,81
+Cambodia,2000,0,0,0,0,81
+Cayman Islands,2000,0,0,0,0,81
+Republic of the Congo,2000,0,0,0,0,81
+Chad,2000,0,0,0,0,81
+Ivory Coast,2000,0,0,0,0,81
+Democratic Republic of the Congo,2000,0,0,0,0,81
+Cook Islands,2000,0,0,0,0,81
+Comoros,2000,0,0,0,0,81
+Cabo Verde,2000,0,0,0,0,81
+Cyprus,2000,0,0,0,0,81
+Djibouti,2000,0,0,0,0,81
+Dominica,2000,0,0,0,0,81
+Dominican Republic,2000,0,0,0,0,81
+Ecuador,2000,0,0,0,0,81
+Egypt,2000,0,0,0,0,81
+Eritrea,2000,0,0,0,0,81
+El Salvador,2000,0,0,0,0,81
+Fiji,2000,0,0,0,0,81
+Federated States of Micronesia,2000,0,0,0,0,81
+Gabon,2000,0,0,0,0,81
+The Gambia,2000,0,0,0,0,81
+Guinea Bissau,2000,0,0,0,0,81
+Equatorial Guinea,2000,0,0,0,0,81
+Ghana,2000,0,0,0,0,81
+Grenada,2000,0,0,0,0,81
+Guatemala,2000,0,0,0,0,81
+Guinea,2000,0,0,0,0,81
+Guam,2000,0,0,0,0,81
+Guyana,2000,0,0,0,0,81
+Haiti,2000,0,0,0,0,81
+Hong Kong,2000,0,0,0,0,81
+Honduras,2000,0,0,0,0,81
+Individual Olympic Athletes,2000,0,0,0,0,81
+Iraq,2000,0,0,0,0,81
+Virgin Islands,2000,0,0,0,0,81
+British Virgin Islands,2000,0,0,0,0,81
+Jordan,2000,0,0,0,0,81
+Lao PDR,2000,0,0,0,0,81
+Libya,2000,0,0,0,0,81
+Liberia,2000,0,0,0,0,81
+Saint Lucia,2000,0,0,0,0,81
+Lesotho,2000,0,0,0,0,81
+Lebanon,2000,0,0,0,0,81
+Liechtenstein,2000,0,0,0,0,81
+Luxembourg,2000,0,0,0,0,81
+Madagascar,2000,0,0,0,0,81
+Malaysia,2000,0,0,0,0,81
+Malawi,2000,0,0,0,0,81
+Maldives,2000,0,0,0,0,81
+Mongolia,2000,0,0,0,0,81
+Mali,2000,0,0,0,0,81
+Malta,2000,0,0,0,0,81
+Monaco,2000,0,0,0,0,81
+Mauritius,2000,0,0,0,0,81
+Mauritania,2000,0,0,0,0,81
+Myanmar,2000,0,0,0,0,81
+Namibia,2000,0,0,0,0,81
+Nicaragua,2000,0,0,0,0,81
+Nepal,2000,0,0,0,0,81
+Niger,2000,0,0,0,0,81
+Nauru,2000,0,0,0,0,81
+Oman,2000,0,0,0,0,81
+Pakistan,2000,0,0,0,0,81
+Panama,2000,0,0,0,0,81
+Paraguay,2000,0,0,0,0,81
+Peru,2000,0,0,0,0,81
+Philippines,2000,0,0,0,0,81
+Palestine,2000,0,0,0,0,81
+Palau,2000,0,0,0,0,81
+Papua New Guinea,2000,0,0,0,0,81
+Puerto Rico,2000,0,0,0,0,81
+Rwanda,2000,0,0,0,0,81
+Samoa,2000,0,0,0,0,81
+Senegal,2000,0,0,0,0,81
+Seychelles,2000,0,0,0,0,81
+Singapore,2000,0,0,0,0,81
+Saint Kitts and Nevis,2000,0,0,0,0,81
+Sierra Leone,2000,0,0,0,0,81
+San Marino,2000,0,0,0,0,81
+Solomon Islands,2000,0,0,0,0,81
+Somalia,2000,0,0,0,0,81
+São Tomé and Príncipe,2000,0,0,0,0,81
+Sudan,2000,0,0,0,0,81
+Suriname,2000,0,0,0,0,81
+Swaziland,2000,0,0,0,0,81
+Syria,2000,0,0,0,0,81
+Tanzania,2000,0,0,0,0,81
+Tonga,2000,0,0,0,0,81
+Tajikistan,2000,0,0,0,0,81
+Turkmenistan,2000,0,0,0,0,81
+Togo,2000,0,0,0,0,81
+Tunisia,2000,0,0,0,0,81
+United Arab Emirates,2000,0,0,0,0,81
+Uganda,2000,0,0,0,0,81
+Vanuatu,2000,0,0,0,0,81
+Venezuela,2000,0,0,0,0,81
+Saint Vincent and the Grenadines,2000,0,0,0,0,81
+Yemen,2000,0,0,0,0,81
+Zambia,2000,0,0,0,0,81
+Zimbabwe,2000,0,0,0,0,81
+United States,2004,36,39,26,101,1
+Russia,2004,28,26,36,90,2
+China,2004,32,17,14,63,3
+Australia,2004,17,16,17,50,4
+Germany,2004,13,16,20,49,5
+Japan,2004,16,9,12,37,6
+France,2004,11,9,13,33,7
+Italy,2004,10,11,11,32,8
+South Korea,2004,9,12,9,30,9
+Great Britain,2004,9,9,12,30,9
+Cuba,2004,9,7,11,27,11
+Ukraine,2004,8,5,9,22,12
+Netherlands,2004,4,9,9,22,12
+Spain,2004,3,11,6,20,14
+Romania,2004,8,5,6,19,15
+Hungary,2004,8,6,3,17,16
+Greece,2004,6,6,4,16,17
+Belarus,2004,2,5,6,13,18
+Canada,2004,3,6,3,12,19
+Bulgaria,2004,2,1,9,12,19
+Turkey,2004,3,3,5,11,21
+Brazil,2004,5,2,3,10,22
+Poland,2004,3,2,5,10,22
+Czech Republic,2004,1,3,5,9,24
+Thailand,2004,3,1,4,8,25
+Denmark,2004,2,1,5,8,25
+Kazakhstan,2004,1,4,3,8,25
+Sweden,2004,4,2,1,7,28
+Austria,2004,2,4,1,7,28
+Ethiopia,2004,2,3,2,7,28
+Kenya,2004,1,4,2,7,28
+Norway,2004,5,0,1,6,32
+Iran,2004,2,2,2,6,32
+Slovakia,2004,2,2,2,6,32
+Argentina,2004,2,0,4,6,32
+South Africa,2004,1,3,2,6,32
+New Zealand,2004,3,2,0,5,37
+Chinese Taipei,2004,2,2,1,5,37
+Jamaica,2004,2,1,2,5,37
+Uzbekistan,2004,2,1,2,5,37
+Croatia,2004,1,2,2,5,37
+Egypt,2004,1,1,3,5,37
+Switzerland,2004,1,1,3,5,37
+Azerbaijan,2004,1,0,4,5,37
+North Korea,2004,0,4,1,5,37
+Georgia,2004,2,2,0,4,46
+Indonesia,2004,1,1,2,4,46
+Latvia,2004,0,4,0,4,46
+Mexico,2004,0,3,1,4,46
+Slovenia,2004,0,1,3,4,46
+Morocco,2004,2,1,0,3,51
+Chile,2004,2,0,1,3,51
+Lithuania,2004,1,2,0,3,51
+Zimbabwe,2004,1,1,1,3,51
+Belgium,2004,1,0,2,3,51
+Portugal,2004,0,2,1,3,51
+Estonia,2004,0,1,2,3,51
+Bahamas,2004,1,0,1,2,58
+Israel,2004,1,0,1,2,58
+Finland,2004,0,2,0,2,58
+Serbia and Montenegro,2004,0,2,0,2,58
+Colombia,2004,0,0,2,2,58
+Nigeria,2004,0,0,2,2,58
+Venezuela,2004,0,0,2,2,58
+Cameroon,2004,1,0,0,1,65
+Dominican Republic,2004,1,0,0,1,65
+United Arab Emirates,2004,1,0,0,1,65
+Hong Kong,2004,0,1,0,1,65
+India,2004,0,1,0,1,65
+Paraguay,2004,0,1,0,1,65
+Eritrea,2004,0,0,1,1,65
+Mongolia,2004,0,0,1,1,65
+Syria,2004,0,0,1,1,65
+Trinidad and Tobago,2004,0,0,1,1,65
+Afghanistan,2004,0,0,0,0,75
+Netherlands Antilles,2004,0,0,0,0,75
+Albania,2004,0,0,0,0,75
+Algeria,2004,0,0,0,0,75
+Andorra,2004,0,0,0,0,75
+Angola,2004,0,0,0,0,75
+Antigua and Barbuda,2004,0,0,0,0,75
+Armenia,2004,0,0,0,0,75
+Aruba,2004,0,0,0,0,75
+American Samoa,2004,0,0,0,0,75
+Bangladesh,2004,0,0,0,0,75
+Barbados,2004,0,0,0,0,75
+Burundi,2004,0,0,0,0,75
+Benin,2004,0,0,0,0,75
+Bermuda,2004,0,0,0,0,75
+Bhutan,2004,0,0,0,0,75
+Bosnia and Herzegovina,2004,0,0,0,0,75
+Belize,2004,0,0,0,0,75
+Bolivia,2004,0,0,0,0,75
+Botswana,2004,0,0,0,0,75
+Bahrain,2004,0,0,0,0,75
+Brunei Darussalam,2004,0,0,0,0,75
+Burkina Faso,2004,0,0,0,0,75
+Central African Republic,2004,0,0,0,0,75
+Cambodia,2004,0,0,0,0,75
+Cayman Islands,2004,0,0,0,0,75
+Republic of the Congo,2004,0,0,0,0,75
+Chad,2004,0,0,0,0,75
+Ivory Coast,2004,0,0,0,0,75
+Democratic Republic of the Congo,2004,0,0,0,0,75
+Cook Islands,2004,0,0,0,0,75
+Comoros,2004,0,0,0,0,75
+Cabo Verde,2004,0,0,0,0,75
+Costa Rica,2004,0,0,0,0,75
+Cyprus,2004,0,0,0,0,75
+Dominica,2004,0,0,0,0,75
+Ecuador,2004,0,0,0,0,75
+El Salvador,2004,0,0,0,0,75
+Fiji,2004,0,0,0,0,75
+Federated States of Micronesia,2004,0,0,0,0,75
+Gabon,2004,0,0,0,0,75
+The Gambia,2004,0,0,0,0,75
+Guinea Bissau,2004,0,0,0,0,75
+Equatorial Guinea,2004,0,0,0,0,75
+Ghana,2004,0,0,0,0,75
+Grenada,2004,0,0,0,0,75
+Guatemala,2004,0,0,0,0,75
+Guinea,2004,0,0,0,0,75
+Guam,2004,0,0,0,0,75
+Guyana,2004,0,0,0,0,75
+Haiti,2004,0,0,0,0,75
+Honduras,2004,0,0,0,0,75
+Ireland,2004,0,0,0,0,75
+Iraq,2004,0,0,0,0,75
+Iceland,2004,0,0,0,0,75
+Virgin Islands,2004,0,0,0,0,75
+British Virgin Islands,2004,0,0,0,0,75
+Jordan,2004,0,0,0,0,75
+Kyrgyzstan,2004,0,0,0,0,75
+Kiribati,2004,0,0,0,0,75
+Saudi Arabia,2004,0,0,0,0,75
+Kuwait,2004,0,0,0,0,75
+Lao PDR,2004,0,0,0,0,75
+Libya,2004,0,0,0,0,75
+Liberia,2004,0,0,0,0,75
+Saint Lucia,2004,0,0,0,0,75
+Lesotho,2004,0,0,0,0,75
+Lebanon,2004,0,0,0,0,75
+Liechtenstein,2004,0,0,0,0,75
+Luxembourg,2004,0,0,0,0,75
+Madagascar,2004,0,0,0,0,75
+Malaysia,2004,0,0,0,0,75
+Malawi,2004,0,0,0,0,75
+Moldova,2004,0,0,0,0,75
+Maldives,2004,0,0,0,0,75
+Macedonia,2004,0,0,0,0,75
+Mali,2004,0,0,0,0,75
+Malta,2004,0,0,0,0,75
+Monaco,2004,0,0,0,0,75
+Mozambique,2004,0,0,0,0,75
+Mauritius,2004,0,0,0,0,75
+Mauritania,2004,0,0,0,0,75
+Myanmar,2004,0,0,0,0,75
+Namibia,2004,0,0,0,0,75
+Nicaragua,2004,0,0,0,0,75
+Nepal,2004,0,0,0,0,75
+Niger,2004,0,0,0,0,75
+Nauru,2004,0,0,0,0,75
+Oman,2004,0,0,0,0,75
+Pakistan,2004,0,0,0,0,75
+Panama,2004,0,0,0,0,75
+Peru,2004,0,0,0,0,75
+Philippines,2004,0,0,0,0,75
+Palestine,2004,0,0,0,0,75
+Palau,2004,0,0,0,0,75
+Papua New Guinea,2004,0,0,0,0,75
+Puerto Rico,2004,0,0,0,0,75
+Qatar,2004,0,0,0,0,75
+Rwanda,2004,0,0,0,0,75
+Samoa,2004,0,0,0,0,75
+Senegal,2004,0,0,0,0,75
+Seychelles,2004,0,0,0,0,75
+Singapore,2004,0,0,0,0,75
+Saint Kitts and Nevis,2004,0,0,0,0,75
+Sierra Leone,2004,0,0,0,0,75
+San Marino,2004,0,0,0,0,75
+Solomon Islands,2004,0,0,0,0,75
+Somalia,2004,0,0,0,0,75
+Sri Lanka,2004,0,0,0,0,75
+São Tomé and Príncipe,2004,0,0,0,0,75
+Sudan,2004,0,0,0,0,75
+Suriname,2004,0,0,0,0,75
+Swaziland,2004,0,0,0,0,75
+Tanzania,2004,0,0,0,0,75
+Tonga,2004,0,0,0,0,75
+Tajikistan,2004,0,0,0,0,75
+Turkmenistan,2004,0,0,0,0,75
+Timor Leste,2004,0,0,0,0,75
+Togo,2004,0,0,0,0,75
+Tunisia,2004,0,0,0,0,75
+Uganda,2004,0,0,0,0,75
+Uruguay,2004,0,0,0,0,75
+Vanuatu,2004,0,0,0,0,75
+Vietnam,2004,0,0,0,0,75
+Saint Vincent and the Grenadines,2004,0,0,0,0,75
+Yemen,2004,0,0,0,0,75
+Zambia,2004,0,0,0,0,75
+United States,2008,36,39,35,110,1
+China,2008,51,21,28,100,2
+Russia,2008,23,21,28,72,3
+Great Britain,2008,19,13,16,48,4
+Australia,2008,14,15,17,46,5
+Germany,2008,16,10,15,41,6
+France,2008,7,16,18,41,6
+South Korea,2008,13,10,8,31,8
+Italy,2008,8,9,10,27,9
+Ukraine,2008,7,5,15,27,9
+Japan,2008,9,7,9,25,11
+Cuba,2008,2,11,11,24,12
+Canada,2008,3,9,7,19,13
+Spain,2008,5,10,3,18,14
+Belarus,2008,4,5,9,18,14
+Netherlands,2008,7,5,4,16,16
+Brazil,2008,3,4,9,16,16
+Kenya,2008,6,4,5,15,18
+Kazakhstan,2008,2,4,7,13,19
+Poland,2008,3,6,1,10,20
+Hungary,2008,3,5,2,10,20
+Jamaica,2008,5,2,2,9,22
+Norway,2008,3,5,1,9,22
+New Zealand,2008,3,2,4,9,22
+Romania,2008,4,1,3,8,25
+Ethiopia,2008,4,1,2,7,26
+Denmark,2008,2,2,3,7,26
+Switzerland,2008,2,1,4,7,26
+Turkey,2008,1,3,3,7,26
+Azerbaijan,2008,1,2,4,7,26
+Czech Republic,2008,3,3,0,6,31
+Slovakia,2008,3,2,1,6,31
+Georgia,2008,3,0,3,6,31
+North Korea,2008,2,1,3,6,31
+Argentina,2008,2,0,4,6,31
+Uzbekistan,2008,1,2,3,6,31
+Armenia,2008,0,0,6,6,31
+Slovenia,2008,1,2,2,5,38
+Bulgaria,2008,1,1,3,5,38
+Indonesia,2008,1,1,3,5,38
+Sweden,2008,0,4,1,5,38
+Croatia,2008,0,2,3,5,38
+Lithuania,2008,0,2,3,5,38
+Mongolia,2008,2,2,0,4,44
+Thailand,2008,2,2,0,4,44
+Zimbabwe,2008,1,3,0,4,44
+Finland,2008,1,1,2,4,44
+Greece,2008,0,2,2,4,44
+Nigeria,2008,0,1,3,4,44
+Chinese Taipei,2008,0,0,4,4,44
+Mexico,2008,2,0,1,3,51
+Latvia,2008,1,1,1,3,51
+India,2008,1,0,2,3,51
+Austria,2008,0,1,2,3,51
+Ireland,2008,0,1,2,3,51
+Serbia,2008,0,1,2,3,51
+Belgium,2008,1,1,0,2,57
+Dominican Republic,2008,1,1,0,2,57
+Estonia,2008,1,1,0,2,57
+Portugal,2008,1,1,0,2,57
+Trinidad and Tobago,2008,1,1,0,2,57
+Iran,2008,1,0,1,2,57
+Algeria,2008,0,1,1,2,57
+Bahamas,2008,0,1,1,2,57
+Colombia,2008,0,1,1,2,57
+Kyrgyzstan,2008,0,1,1,2,57
+Morocco,2008,0,1,1,2,57
+Tajikistan,2008,0,1,1,2,57
+Cameroon,2008,1,0,0,1,69
+Panama,2008,1,0,0,1,69
+Tunisia,2008,1,0,0,1,69
+Chile,2008,0,1,0,1,69
+Ecuador,2008,0,1,0,1,69
+Iceland,2008,0,1,0,1,69
+Malaysia,2008,0,1,0,1,69
+South Africa,2008,0,1,0,1,69
+Singapore,2008,0,1,0,1,69
+Sudan,2008,0,1,0,1,69
+Vietnam,2008,0,1,0,1,69
+Afghanistan,2008,0,0,1,1,69
+Egypt,2008,0,0,1,1,69
+Israel,2008,0,0,1,1,69
+Moldova,2008,0,0,1,1,69
+Mauritius,2008,0,0,1,1,69
+Togo,2008,0,0,1,1,69
+Venezuela,2008,0,0,1,1,69
+Netherlands Antilles,2008,0,0,0,0,87
+Albania,2008,0,0,0,0,87
+Andorra,2008,0,0,0,0,87
+Angola,2008,0,0,0,0,87
+Antigua and Barbuda,2008,0,0,0,0,87
+Aruba,2008,0,0,0,0,87
+American Samoa,2008,0,0,0,0,87
+Bangladesh,2008,0,0,0,0,87
+Barbados,2008,0,0,0,0,87
+Burundi,2008,0,0,0,0,87
+Benin,2008,0,0,0,0,87
+Bermuda,2008,0,0,0,0,87
+Bhutan,2008,0,0,0,0,87
+Bosnia and Herzegovina,2008,0,0,0,0,87
+Belize,2008,0,0,0,0,87
+Bolivia,2008,0,0,0,0,87
+Botswana,2008,0,0,0,0,87
+Bahrain,2008,0,0,0,0,87
+Burkina Faso,2008,0,0,0,0,87
+Central African Republic,2008,0,0,0,0,87
+Cambodia,2008,0,0,0,0,87
+Cayman Islands,2008,0,0,0,0,87
+Republic of the Congo,2008,0,0,0,0,87
+Chad,2008,0,0,0,0,87
+Ivory Coast,2008,0,0,0,0,87
+Democratic Republic of the Congo,2008,0,0,0,0,87
+Cook Islands,2008,0,0,0,0,87
+Comoros,2008,0,0,0,0,87
+Cabo Verde,2008,0,0,0,0,87
+Costa Rica,2008,0,0,0,0,87
+Cyprus,2008,0,0,0,0,87
+Djibouti,2008,0,0,0,0,87
+Dominica,2008,0,0,0,0,87
+Eritrea,2008,0,0,0,0,87
+El Salvador,2008,0,0,0,0,87
+Fiji,2008,0,0,0,0,87
+Federated States of Micronesia,2008,0,0,0,0,87
+Gabon,2008,0,0,0,0,87
+The Gambia,2008,0,0,0,0,87
+Guinea Bissau,2008,0,0,0,0,87
+Equatorial Guinea,2008,0,0,0,0,87
+Ghana,2008,0,0,0,0,87
+Grenada,2008,0,0,0,0,87
+Guatemala,2008,0,0,0,0,87
+Guinea,2008,0,0,0,0,87
+Guam,2008,0,0,0,0,87
+Guyana,2008,0,0,0,0,87
+Haiti,2008,0,0,0,0,87
+Hong Kong,2008,0,0,0,0,87
+Honduras,2008,0,0,0,0,87
+Iraq,2008,0,0,0,0,87
+Virgin Islands,2008,0,0,0,0,87
+British Virgin Islands,2008,0,0,0,0,87
+Jordan,2008,0,0,0,0,87
+Kiribati,2008,0,0,0,0,87
+Saudi Arabia,2008,0,0,0,0,87
+Kuwait,2008,0,0,0,0,87
+Lao PDR,2008,0,0,0,0,87
+Libya,2008,0,0,0,0,87
+Liberia,2008,0,0,0,0,87
+Saint Lucia,2008,0,0,0,0,87
+Lesotho,2008,0,0,0,0,87
+Lebanon,2008,0,0,0,0,87
+Liechtenstein,2008,0,0,0,0,87
+Luxembourg,2008,0,0,0,0,87
+Madagascar,2008,0,0,0,0,87
+Malawi,2008,0,0,0,0,87
+Maldives,2008,0,0,0,0,87
+Marshall Islands,2008,0,0,0,0,87
+Macedonia,2008,0,0,0,0,87
+Mali,2008,0,0,0,0,87
+Malta,2008,0,0,0,0,87
+Montenegro,2008,0,0,0,0,87
+Monaco,2008,0,0,0,0,87
+Mozambique,2008,0,0,0,0,87
+Mauritania,2008,0,0,0,0,87
+Myanmar,2008,0,0,0,0,87
+Namibia,2008,0,0,0,0,87
+Nicaragua,2008,0,0,0,0,87
+Nepal,2008,0,0,0,0,87
+Niger,2008,0,0,0,0,87
+Nauru,2008,0,0,0,0,87
+Oman,2008,0,0,0,0,87
+Pakistan,2008,0,0,0,0,87
+Paraguay,2008,0,0,0,0,87
+Peru,2008,0,0,0,0,87
+Philippines,2008,0,0,0,0,87
+Palestine,2008,0,0,0,0,87
+Palau,2008,0,0,0,0,87
+Papua New Guinea,2008,0,0,0,0,87
+Puerto Rico,2008,0,0,0,0,87
+Qatar,2008,0,0,0,0,87
+Rwanda,2008,0,0,0,0,87
+Samoa,2008,0,0,0,0,87
+Senegal,2008,0,0,0,0,87
+Seychelles,2008,0,0,0,0,87
+Saint Kitts and Nevis,2008,0,0,0,0,87
+Sierra Leone,2008,0,0,0,0,87
+San Marino,2008,0,0,0,0,87
+Solomon Islands,2008,0,0,0,0,87
+Somalia,2008,0,0,0,0,87
+Sri Lanka,2008,0,0,0,0,87
+São Tomé and Príncipe,2008,0,0,0,0,87
+Suriname,2008,0,0,0,0,87
+Swaziland,2008,0,0,0,0,87
+Syria,2008,0,0,0,0,87
+Tanzania,2008,0,0,0,0,87
+Tonga,2008,0,0,0,0,87
+Turkmenistan,2008,0,0,0,0,87
+Timor Leste,2008,0,0,0,0,87
+Tuvalu,2008,0,0,0,0,87
+United Arab Emirates,2008,0,0,0,0,87
+Uganda,2008,0,0,0,0,87
+Uruguay,2008,0,0,0,0,87
+Vanuatu,2008,0,0,0,0,87
+Saint Vincent and the Grenadines,2008,0,0,0,0,87
+Yemen,2008,0,0,0,0,87
+Zambia,2008,0,0,0,0,87
+United States,2012,46,28,29,103,1
+China,2012,38,27,23,88,2
+Russia,2012,24,26,32,82,3
+Great Britain,2012,29,17,19,65,4
+Germany,2012,11,19,14,44,5
+Japan,2012,7,14,17,38,6
+France,2012,11,11,13,35,7
+Australia,2012,7,16,12,35,7
+South Korea,2012,13,8,7,28,9
+Italy,2012,8,9,11,28,9
+Netherlands,2012,6,6,8,20,11
+Ukraine,2012,6,5,9,20,11
+Hungary,2012,8,4,6,18,13
+Canada,2012,1,5,12,18,13
+Spain,2012,3,10,4,17,15
+Brazil,2012,3,5,9,17,15
+Cuba,2012,5,3,6,14,17
+Kazakhstan,2012,7,1,5,13,18
+New Zealand,2012,6,2,5,13,18
+Iran,2012,4,5,3,12,20
+Jamaica,2012,4,4,4,12,20
+Belarus,2012,2,5,5,12,20
+Kenya,2012,2,4,5,11,23
+Czech Republic,2012,4,3,3,10,24
+Azerbaijan,2012,2,2,6,10,24
+Poland,2012,2,2,6,10,24
+Romania,2012,2,5,2,9,27
+Denmark,2012,2,4,3,9,27
+Sweden,2012,1,4,3,8,29
+Colombia,2012,1,3,4,8,29
+Ethiopia,2012,3,1,3,7,31
+Georgia,2012,1,3,3,7,31
+Mexico,2012,1,3,3,7,31
+North Korea,2012,4,0,2,6,34
+South Africa,2012,3,2,1,6,34
+Croatia,2012,3,1,2,6,34
+India,2012,0,2,4,6,34
+Turkey,2012,2,2,1,5,38
+Lithuania,2012,2,1,2,5,38
+Ireland,2012,1,1,3,5,38
+Mongolia,2012,0,2,3,5,38
+Switzerland,2012,2,2,0,4,42
+Norway,2012,2,1,1,4,42
+Argentina,2012,1,1,2,4,42
+Slovenia,2012,1,1,2,4,42
+Serbia,2012,1,1,2,4,42
+Trinidad and Tobago,2012,1,1,2,4,42
+Slovakia,2012,0,1,3,4,42
+Tunisia,2012,1,1,1,3,49
+Uzbekistan,2012,1,0,2,3,49
+Thailand,2012,0,2,1,3,49
+Armenia,2012,0,1,2,3,49
+Belgium,2012,0,1,2,3,49
+Finland,2012,0,1,2,3,49
+Dominican Republic,2012,1,1,0,2,55
+Latvia,2012,1,0,1,2,55
+Egypt,2012,0,2,0,2,55
+Bulgaria,2012,0,1,1,2,55
+Estonia,2012,0,1,1,2,55
+Indonesia,2012,0,1,1,2,55
+Malaysia,2012,0,1,1,2,55
+Puerto Rico,2012,0,1,1,2,55
+Chinese Taipei,2012,0,1,1,2,55
+Greece,2012,0,0,2,2,55
+Moldova,2012,0,0,2,2,55
+Qatar,2012,0,0,2,2,55
+Singapore,2012,0,0,2,2,55
+Algeria,2012,1,0,0,1,68
+Bahamas,2012,1,0,0,1,68
+Grenada,2012,1,0,0,1,68
+Uganda,2012,1,0,0,1,68
+Venezuela,2012,1,0,0,1,68
+Botswana,2012,0,1,0,1,68
+Cyprus,2012,0,1,0,1,68
+Gabon,2012,0,1,0,1,68
+Guatemala,2012,0,1,0,1,68
+Montenegro,2012,0,1,0,1,68
+Portugal,2012,0,1,0,1,68
+Afghanistan,2012,0,0,1,1,68
+Bahrain,2012,0,0,1,1,68
+Hong Kong,2012,0,0,1,1,68
+Saudi Arabia,2012,0,0,1,1,68
+Kuwait,2012,0,0,1,1,68
+Morocco,2012,0,0,1,1,68
+Tajikistan,2012,0,0,1,1,68
+Albania,2012,0,0,0,0,86
+Andorra,2012,0,0,0,0,86
+Angola,2012,0,0,0,0,86
+Antigua and Barbuda,2012,0,0,0,0,86
+Aruba,2012,0,0,0,0,86
+American Samoa,2012,0,0,0,0,86
+Austria,2012,0,0,0,0,86
+Bangladesh,2012,0,0,0,0,86
+Barbados,2012,0,0,0,0,86
+Burundi,2012,0,0,0,0,86
+Benin,2012,0,0,0,0,86
+Bermuda,2012,0,0,0,0,86
+Bhutan,2012,0,0,0,0,86
+Bosnia and Herzegovina,2012,0,0,0,0,86
+Belize,2012,0,0,0,0,86
+Bolivia,2012,0,0,0,0,86
+Brunei Darussalam,2012,0,0,0,0,86
+Burkina Faso,2012,0,0,0,0,86
+Central African Republic,2012,0,0,0,0,86
+Cambodia,2012,0,0,0,0,86
+Cayman Islands,2012,0,0,0,0,86
+Republic of the Congo,2012,0,0,0,0,86
+Chad,2012,0,0,0,0,86
+Chile,2012,0,0,0,0,86
+Ivory Coast,2012,0,0,0,0,86
+Cameroon,2012,0,0,0,0,86
+Democratic Republic of the Congo,2012,0,0,0,0,86
+Cook Islands,2012,0,0,0,0,86
+Comoros,2012,0,0,0,0,86
+Cabo Verde,2012,0,0,0,0,86
+Costa Rica,2012,0,0,0,0,86
+Djibouti,2012,0,0,0,0,86
+Dominica,2012,0,0,0,0,86
+Ecuador,2012,0,0,0,0,86
+Eritrea,2012,0,0,0,0,86
+El Salvador,2012,0,0,0,0,86
+Fiji,2012,0,0,0,0,86
+Federated States of Micronesia,2012,0,0,0,0,86
+The Gambia,2012,0,0,0,0,86
+Guinea Bissau,2012,0,0,0,0,86
+Equatorial Guinea,2012,0,0,0,0,86
+Ghana,2012,0,0,0,0,86
+Guinea,2012,0,0,0,0,86
+Guam,2012,0,0,0,0,86
+Guyana,2012,0,0,0,0,86
+Haiti,2012,0,0,0,0,86
+Honduras,2012,0,0,0,0,86
+Individual Olympic Athletes,2012,0,0,0,0,86
+Iraq,2012,0,0,0,0,86
+Iceland,2012,0,0,0,0,86
+Israel,2012,0,0,0,0,86
+Virgin Islands,2012,0,0,0,0,86
+British Virgin Islands,2012,0,0,0,0,86
+Jordan,2012,0,0,0,0,86
+Kyrgyzstan,2012,0,0,0,0,86
+Kiribati,2012,0,0,0,0,86
+Lao PDR,2012,0,0,0,0,86
+Libya,2012,0,0,0,0,86
+Liberia,2012,0,0,0,0,86
+Saint Lucia,2012,0,0,0,0,86
+Lesotho,2012,0,0,0,0,86
+Lebanon,2012,0,0,0,0,86
+Liechtenstein,2012,0,0,0,0,86
+Luxembourg,2012,0,0,0,0,86
+Madagascar,2012,0,0,0,0,86
+Malawi,2012,0,0,0,0,86
+Maldives,2012,0,0,0,0,86
+Marshall Islands,2012,0,0,0,0,86
+Macedonia,2012,0,0,0,0,86
+Mali,2012,0,0,0,0,86
+Malta,2012,0,0,0,0,86
+Monaco,2012,0,0,0,0,86
+Mozambique,2012,0,0,0,0,86
+Mauritius,2012,0,0,0,0,86
+Mauritania,2012,0,0,0,0,86
+Myanmar,2012,0,0,0,0,86
+Namibia,2012,0,0,0,0,86
+Nicaragua,2012,0,0,0,0,86
+Nepal,2012,0,0,0,0,86
+Nigeria,2012,0,0,0,0,86
+Niger,2012,0,0,0,0,86
+Nauru,2012,0,0,0,0,86
+Oman,2012,0,0,0,0,86
+Pakistan,2012,0,0,0,0,86
+Panama,2012,0,0,0,0,86
+Paraguay,2012,0,0,0,0,86
+Peru,2012,0,0,0,0,86
+Philippines,2012,0,0,0,0,86
+Palestine,2012,0,0,0,0,86
+Palau,2012,0,0,0,0,86
+Papua New Guinea,2012,0,0,0,0,86
+Rwanda,2012,0,0,0,0,86
+Samoa,2012,0,0,0,0,86
+Senegal,2012,0,0,0,0,86
+Seychelles,2012,0,0,0,0,86
+Saint Kitts and Nevis,2012,0,0,0,0,86
+Sierra Leone,2012,0,0,0,0,86
+San Marino,2012,0,0,0,0,86
+Solomon Islands,2012,0,0,0,0,86
+Somalia,2012,0,0,0,0,86
+Sri Lanka,2012,0,0,0,0,86
+São Tomé and Príncipe,2012,0,0,0,0,86
+Sudan,2012,0,0,0,0,86
+Suriname,2012,0,0,0,0,86
+Swaziland,2012,0,0,0,0,86
+Syria,2012,0,0,0,0,86
+Tanzania,2012,0,0,0,0,86
+Tonga,2012,0,0,0,0,86
+Turkmenistan,2012,0,0,0,0,86
+Timor Leste,2012,0,0,0,0,86
+Togo,2012,0,0,0,0,86
+Tuvalu,2012,0,0,0,0,86
+United Arab Emirates,2012,0,0,0,0,86
+Uruguay,2012,0,0,0,0,86
+Vanuatu,2012,0,0,0,0,86
+Vietnam,2012,0,0,0,0,86
+Saint Vincent and the Grenadines,2012,0,0,0,0,86
+Yemen,2012,0,0,0,0,86
+Zambia,2012,0,0,0,0,86
+Zimbabwe,2012,0,0,0,0,86
+United States,2016,46,37,38,121,1
+China,2016,26,18,26,70,2
+Great Britain,2016,27,23,17,67,3
+Russia,2016,19,17,20,56,4
+Germany,2016,17,10,15,42,5
+France,2016,10,18,14,42,5
+Japan,2016,12,8,21,41,7
+Australia,2016,8,11,10,29,8
+Italy,2016,8,12,8,28,9
+Canada,2016,4,3,15,22,10
+South Korea,2016,9,3,9,21,11
+Netherlands,2016,8,7,4,19,12
+Brazil,2016,7,6,6,19,12
+New Zealand,2016,4,9,5,18,14
+Kazakhstan,2016,3,5,10,18,14
+Azerbaijan,2016,1,7,10,18,14
+Spain,2016,7,4,6,17,17
+Hungary,2016,8,3,4,15,18
+Denmark,2016,2,6,7,15,18
+Kenya,2016,6,6,1,13,20
+Uzbekistan,2016,4,2,7,13,20
+Jamaica,2016,6,3,2,11,22
+Cuba,2016,5,2,4,11,22
+Sweden,2016,2,6,3,11,22
+Ukraine,2016,2,5,4,11,22
+Poland,2016,2,3,6,11,22
+Croatia,2016,5,3,2,10,27
+South Africa,2016,2,6,2,10,27
+Czech Republic,2016,1,2,7,10,27
+Belarus,2016,1,4,4,9,30
+Colombia,2016,3,2,3,8,31
+Iran,2016,3,1,4,8,31
+Serbia,2016,2,4,2,8,31
+Turkey,2016,1,3,4,8,31
+Ethiopia,2016,1,2,5,8,31
+Switzerland,2016,3,2,2,7,36
+North Korea,2016,2,3,2,7,36
+Georgia,2016,2,1,4,7,36
+Greece,2016,3,1,2,6,39
+Belgium,2016,2,2,2,6,39
+Thailand,2016,2,2,2,6,39
+Malaysia,2016,0,4,1,5,42
+Mexico,2016,0,3,2,5,42
+Argentina,2016,3,1,0,4,44
+Slovakia,2016,2,2,0,4,44
+Armenia,2016,1,3,0,4,44
+Slovenia,2016,1,2,1,4,44
+Romania,2016,1,1,2,4,44
+Lithuania,2016,0,1,3,4,44
+Norway,2016,0,0,4,4,44
+Indonesia,2016,1,2,0,3,51
+Chinese Taipei,2016,1,0,2,3,51
+Bulgaria,2016,0,1,2,3,51
+Venezuela,2016,0,1,2,3,51
+Egypt,2016,0,0,3,3,51
+Tunisia,2016,0,0,3,3,51
+Bahrain,2016,1,1,0,2,57
+Vietnam,2016,1,1,0,2,57
+Bahamas,2016,1,0,1,2,57
+Ivory Coast,2016,1,0,1,2,57
+Individual Olympic Athletes,2016,1,0,1,2,57
+Algeria,2016,0,2,0,2,57
+Ireland,2016,0,2,0,2,57
+India,2016,0,1,1,2,57
+Mongolia,2016,0,1,1,2,57
+Israel,2016,0,0,2,2,57
+Fiji,2016,1,0,0,1,67
+Jordan,2016,1,0,0,1,67
+Kosovo,2016,1,0,0,1,67
+Puerto Rico,2016,1,0,0,1,67
+Singapore,2016,1,0,0,1,67
+Tajikistan,2016,1,0,0,1,67
+Burundi,2016,0,1,0,1,67
+Grenada,2016,0,1,0,1,67
+Niger,2016,0,1,0,1,67
+Philippines,2016,0,1,0,1,67
+Qatar,2016,0,1,0,1,67
+Austria,2016,0,0,1,1,67
+Dominican Republic,2016,0,0,1,1,67
+Estonia,2016,0,0,1,1,67
+Finland,2016,0,0,1,1,67
+Morocco,2016,0,0,1,1,67
+Nigeria,2016,0,0,1,1,67
+Portugal,2016,0,0,1,1,67
+Trinidad and Tobago,2016,0,0,1,1,67
+United Arab Emirates,2016,0,0,1,1,67
+Afghanistan,2016,0,0,0,0,87
+Albania,2016,0,0,0,0,87
+Andorra,2016,0,0,0,0,87
+Angola,2016,0,0,0,0,87
+Antigua and Barbuda,2016,0,0,0,0,87
+Aruba,2016,0,0,0,0,87
+American Samoa,2016,0,0,0,0,87
+Bangladesh,2016,0,0,0,0,87
+Barbados,2016,0,0,0,0,87
+Benin,2016,0,0,0,0,87
+Bermuda,2016,0,0,0,0,87
+Bhutan,2016,0,0,0,0,87
+Bosnia and Herzegovina,2016,0,0,0,0,87
+Belize,2016,0,0,0,0,87
+Bolivia,2016,0,0,0,0,87
+Botswana,2016,0,0,0,0,87
+Brunei Darussalam,2016,0,0,0,0,87
+Burkina Faso,2016,0,0,0,0,87
+Central African Republic,2016,0,0,0,0,87
+Cambodia,2016,0,0,0,0,87
+Cayman Islands,2016,0,0,0,0,87
+Republic of the Congo,2016,0,0,0,0,87
+Chad,2016,0,0,0,0,87
+Chile,2016,0,0,0,0,87
+Cameroon,2016,0,0,0,0,87
+Democratic Republic of the Congo,2016,0,0,0,0,87
+Cook Islands,2016,0,0,0,0,87
+Comoros,2016,0,0,0,0,87
+Cabo Verde,2016,0,0,0,0,87
+Costa Rica,2016,0,0,0,0,87
+Cyprus,2016,0,0,0,0,87
+Djibouti,2016,0,0,0,0,87
+Dominica,2016,0,0,0,0,87
+Ecuador,2016,0,0,0,0,87
+Eritrea,2016,0,0,0,0,87
+El Salvador,2016,0,0,0,0,87
+Federated States of Micronesia,2016,0,0,0,0,87
+Gabon,2016,0,0,0,0,87
+The Gambia,2016,0,0,0,0,87
+Guinea Bissau,2016,0,0,0,0,87
+Equatorial Guinea,2016,0,0,0,0,87
+Ghana,2016,0,0,0,0,87
+Guatemala,2016,0,0,0,0,87
+Guinea,2016,0,0,0,0,87
+Guam,2016,0,0,0,0,87
+Guyana,2016,0,0,0,0,87
+Haiti,2016,0,0,0,0,87
+Hong Kong,2016,0,0,0,0,87
+Honduras,2016,0,0,0,0,87
+Iraq,2016,0,0,0,0,87
+Iceland,2016,0,0,0,0,87
+Virgin Islands,2016,0,0,0,0,87
+British Virgin Islands,2016,0,0,0,0,87
+Kyrgyzstan,2016,0,0,0,0,87
+Kiribati,2016,0,0,0,0,87
+Saudi Arabia,2016,0,0,0,0,87
+Lao PDR,2016,0,0,0,0,87
+Latvia,2016,0,0,0,0,87
+Libya,2016,0,0,0,0,87
+Liberia,2016,0,0,0,0,87
+Saint Lucia,2016,0,0,0,0,87
+Lesotho,2016,0,0,0,0,87
+Lebanon,2016,0,0,0,0,87
+Liechtenstein,2016,0,0,0,0,87
+Luxembourg,2016,0,0,0,0,87
+Madagascar,2016,0,0,0,0,87
+Malawi,2016,0,0,0,0,87
+Moldova,2016,0,0,0,0,87
+Maldives,2016,0,0,0,0,87
+Marshall Islands,2016,0,0,0,0,87
+Macedonia,2016,0,0,0,0,87
+Mali,2016,0,0,0,0,87
+Malta,2016,0,0,0,0,87
+Montenegro,2016,0,0,0,0,87
+Monaco,2016,0,0,0,0,87
+Mozambique,2016,0,0,0,0,87
+Mauritius,2016,0,0,0,0,87
+Mauritania,2016,0,0,0,0,87
+Myanmar,2016,0,0,0,0,87
+Namibia,2016,0,0,0,0,87
+Nicaragua,2016,0,0,0,0,87
+Nepal,2016,0,0,0,0,87
+Nauru,2016,0,0,0,0,87
+Oman,2016,0,0,0,0,87
+Pakistan,2016,0,0,0,0,87
+Panama,2016,0,0,0,0,87
+Paraguay,2016,0,0,0,0,87
+Peru,2016,0,0,0,0,87
+Palestine,2016,0,0,0,0,87
+Palau,2016,0,0,0,0,87
+Papua New Guinea,2016,0,0,0,0,87
+Refugee Olympic Team,2016,0,0,0,0,87
+Rwanda,2016,0,0,0,0,87
+Samoa,2016,0,0,0,0,87
+Senegal,2016,0,0,0,0,87
+Seychelles,2016,0,0,0,0,87
+Saint Kitts and Nevis,2016,0,0,0,0,87
+Sierra Leone,2016,0,0,0,0,87
+San Marino,2016,0,0,0,0,87
+Solomon Islands,2016,0,0,0,0,87
+Somalia,2016,0,0,0,0,87
+Sri Lanka,2016,0,0,0,0,87
+South Sudan,2016,0,0,0,0,87
+São Tomé and Príncipe,2016,0,0,0,0,87
+Sudan,2016,0,0,0,0,87
+Suriname,2016,0,0,0,0,87
+Swaziland,2016,0,0,0,0,87
+Syria,2016,0,0,0,0,87
+Tanzania,2016,0,0,0,0,87
+Tonga,2016,0,0,0,0,87
+Turkmenistan,2016,0,0,0,0,87
+Timor Leste,2016,0,0,0,0,87
+Togo,2016,0,0,0,0,87
+Tuvalu,2016,0,0,0,0,87
+Uganda,2016,0,0,0,0,87
+Uruguay,2016,0,0,0,0,87
+Vanuatu,2016,0,0,0,0,87
+Saint Vincent and the Grenadines,2016,0,0,0,0,87
+Yemen,2016,0,0,0,0,87
+Zambia,2016,0,0,0,0,87
+Zimbabwe,2016,0,0,0,0,87
+United States,2020,35,41,33,109,1
+China,2020,37,30,18,85,2
+Russia,2020,20,25,23,68,3
+Great Britain,2020,22,21,22,65,4
+Japan,2020,27,14,16,57,5
+Australia,2020,16,7,22,45,6
+Italy,2020,10,10,20,40,7
+Germany,2020,10,11,16,37,8
+Netherlands,2020,10,12,14,36,9
+France,2020,9,12,11,32,10
+Canada,2020,7,6,11,24,11
+Brazil,2020,7,6,8,21,12
+New Zealand,2020,7,6,7,20,13
+Hungary,2020,6,7,7,20,13
+South Korea,2020,6,4,10,20,13
+Ukraine,2020,1,6,12,19,16
+Spain,2020,3,8,6,17,17
+Cuba,2020,7,3,5,15,18
+Poland,2020,4,5,5,14,19
+Switzerland,2020,3,4,6,13,20
+Turkey,2020,2,2,9,13,20
+Chinese Taipei,2020,2,4,6,12,22
+Czech Republic,2020,4,4,3,11,23
+Denmark,2020,3,4,4,11,23
+Kenya,2020,4,4,2,10,25
+Jamaica,2020,4,1,4,9,26
+Sweden,2020,3,6,0,9,26
+Serbia,2020,3,1,5,9,26
+Norway,2020,4,2,2,8,29
+Croatia,2020,3,3,2,8,29
+Georgia,2020,2,5,1,8,29
+Kazakhstan,2020,0,0,8,8,29
+Iran,2020,3,2,2,7,33
+Belgium,2020,3,1,3,7,33
+Belarus,2020,1,3,3,7,33
+India,2020,1,2,4,7,33
+Austria,2020,1,1,5,7,33
+Azerbaijan,2020,0,3,4,7,33
+Bulgaria,2020,3,1,2,6,39
+Hong Kong,2020,1,2,3,6,39
+Egypt,2020,1,1,4,6,39
+Slovenia,2020,3,1,1,5,42
+Uzbekistan,2020,3,0,2,5,42
+Indonesia,2020,1,1,3,5,42
+Colombia,2020,0,4,1,5,42
+Dominican Republic,2020,0,3,2,5,42
+Greece,2020,2,1,1,4,47
+Uganda,2020,2,1,1,4,47
+Ireland,2020,2,0,2,4,47
+Israel,2020,2,0,2,4,47
+Romania,2020,1,3,0,4,47
+Venezuela,2020,1,3,0,4,47
+Philippines,2020,1,2,1,4,47
+Slovakia,2020,1,2,1,4,47
+Ethiopia,2020,1,1,2,4,47
+Portugal,2020,1,1,2,4,47
+Armenia,2020,0,2,2,4,47
+Mongolia,2020,0,1,3,4,47
+Mexico,2020,0,0,4,4,47
+Ecuador,2020,2,1,0,3,60
+Qatar,2020,2,0,1,3,60
+South Africa,2020,1,2,0,3,60
+Kyrgyzstan,2020,0,2,1,3,60
+San Marino,2020,0,1,2,3,60
+Bahamas,2020,2,0,0,2,65
+Kosovo,2020,2,0,0,2,65
+Tunisia,2020,1,1,0,2,65
+Estonia,2020,1,0,1,2,65
+Fiji,2020,1,0,1,2,65
+Latvia,2020,1,0,1,2,65
+Thailand,2020,1,0,1,2,65
+Argentina,2020,0,1,1,2,65
+Jordan,2020,0,1,1,2,65
+Malaysia,2020,0,1,1,2,65
+Nigeria,2020,0,1,1,2,65
+Finland,2020,0,0,2,2,65
+Bermuda,2020,1,0,0,1,77
+Morocco,2020,1,0,0,1,77
+Puerto Rico,2020,1,0,0,1,77
+Bahrain,2020,0,1,0,1,77
+Saudi Arabia,2020,0,1,0,1,77
+Lithuania,2020,0,1,0,1,77
+Macedonia,2020,0,1,0,1,77
+Namibia,2020,0,1,0,1,77
+Turkmenistan,2020,0,1,0,1,77
+Botswana,2020,0,0,1,1,77
+Burkina Faso,2020,0,0,1,1,77
+Ivory Coast,2020,0,0,1,1,77
+Ghana,2020,0,0,1,1,77
+Grenada,2020,0,0,1,1,77
+Kuwait,2020,0,0,1,1,77
+Moldova,2020,0,0,1,1,77
+Syria,2020,0,0,1,1,77
+Afghanistan,2020,0,0,0,0,94
+Albania,2020,0,0,0,0,94
+Algeria,2020,0,0,0,0,94
+Andorra,2020,0,0,0,0,94
+Angola,2020,0,0,0,0,94
+Antigua and Barbuda,2020,0,0,0,0,94
+Aruba,2020,0,0,0,0,94
+American Samoa,2020,0,0,0,0,94
+Bangladesh,2020,0,0,0,0,94
+Barbados,2020,0,0,0,0,94
+Burundi,2020,0,0,0,0,94
+Benin,2020,0,0,0,0,94
+Bhutan,2020,0,0,0,0,94
+Bosnia and Herzegovina,2020,0,0,0,0,94
+Belize,2020,0,0,0,0,94
+Bolivia,2020,0,0,0,0,94
+Brunei Darussalam,2020,0,0,0,0,94
+Central African Republic,2020,0,0,0,0,94
+Cambodia,2020,0,0,0,0,94
+Cayman Islands,2020,0,0,0,0,94
+Republic of the Congo,2020,0,0,0,0,94
+Chad,2020,0,0,0,0,94
+Chile,2020,0,0,0,0,94
+Cameroon,2020,0,0,0,0,94
+Democratic Republic of the Congo,2020,0,0,0,0,94
+Cook Islands,2020,0,0,0,0,94
+Comoros,2020,0,0,0,0,94
+Cabo Verde,2020,0,0,0,0,94
+Costa Rica,2020,0,0,0,0,94
+Cyprus,2020,0,0,0,0,94
+Djibouti,2020,0,0,0,0,94
+Dominica,2020,0,0,0,0,94
+Refugee Olympic Team,2020,0,0,0,0,94
+Eritrea,2020,0,0,0,0,94
+El Salvador,2020,0,0,0,0,94
+Federated States of Micronesia,2020,0,0,0,0,94
+Gabon,2020,0,0,0,0,94
+The Gambia,2020,0,0,0,0,94
+Guinea Bissau,2020,0,0,0,0,94
+Equatorial Guinea,2020,0,0,0,0,94
+Guatemala,2020,0,0,0,0,94
+Guinea,2020,0,0,0,0,94
+Guam,2020,0,0,0,0,94
+Guyana,2020,0,0,0,0,94
+Haiti,2020,0,0,0,0,94
+Honduras,2020,0,0,0,0,94
+Iraq,2020,0,0,0,0,94
+Iceland,2020,0,0,0,0,94
+Virgin Islands,2020,0,0,0,0,94
+British Virgin Islands,2020,0,0,0,0,94
+Kiribati,2020,0,0,0,0,94
+Lao PDR,2020,0,0,0,0,94
+Libya,2020,0,0,0,0,94
+Lebanon,2020,0,0,0,0,94
+Liberia,2020,0,0,0,0,94
+Saint Lucia,2020,0,0,0,0,94
+Lesotho,2020,0,0,0,0,94
+Liechtenstein,2020,0,0,0,0,94
+Luxembourg,2020,0,0,0,0,94
+Madagascar,2020,0,0,0,0,94
+Malawi,2020,0,0,0,0,94
+Maldives,2020,0,0,0,0,94
+Marshall Islands,2020,0,0,0,0,94
+Mali,2020,0,0,0,0,94
+Malta,2020,0,0,0,0,94
+Montenegro,2020,0,0,0,0,94
+Monaco,2020,0,0,0,0,94
+Mozambique,2020,0,0,0,0,94
+Mauritius,2020,0,0,0,0,94
+Mauritania,2020,0,0,0,0,94
+Myanmar,2020,0,0,0,0,94
+Nicaragua,2020,0,0,0,0,94
+Nepal,2020,0,0,0,0,94
+Niger,2020,0,0,0,0,94
+Nauru,2020,0,0,0,0,94
+Oman,2020,0,0,0,0,94
+Pakistan,2020,0,0,0,0,94
+Panama,2020,0,0,0,0,94
+Paraguay,2020,0,0,0,0,94
+Peru,2020,0,0,0,0,94
+Palestine,2020,0,0,0,0,94
+Palau,2020,0,0,0,0,94
+Papua New Guinea,2020,0,0,0,0,94
+Rwanda,2020,0,0,0,0,94
+Samoa,2020,0,0,0,0,94
+Senegal,2020,0,0,0,0,94
+Seychelles,2020,0,0,0,0,94
+Singapore,2020,0,0,0,0,94
+Saint Kitts and Nevis,2020,0,0,0,0,94
+Sierra Leone,2020,0,0,0,0,94
+Solomon Islands,2020,0,0,0,0,94
+Somalia,2020,0,0,0,0,94
+Sri Lanka,2020,0,0,0,0,94
+South Sudan,2020,0,0,0,0,94
+São Tomé and Príncipe,2020,0,0,0,0,94
+Sudan,2020,0,0,0,0,94
+Suriname,2020,0,0,0,0,94
+Swaziland,2020,0,0,0,0,94
+Tanzania,2020,0,0,0,0,94
+Tonga,2020,0,0,0,0,94
+Tajikistan,2020,0,0,0,0,94
+Timor Leste,2020,0,0,0,0,94
+Togo,2020,0,0,0,0,94
+Trinidad and Tobago,2020,0,0,0,0,94
+Tuvalu,2020,0,0,0,0,94
+United Arab Emirates,2020,0,0,0,0,94
+Uruguay,2020,0,0,0,0,94
+Vanuatu,2020,0,0,0,0,94
+Vietnam,2020,0,0,0,0,94
+Saint Vincent and the Grenadines,2020,0,0,0,0,94
+Yemen,2020,0,0,0,0,94
+Zambia,2020,0,0,0,0,94
+Zimbabwe,2020,0,0,0,0,94
+United States,2024,37,42,39,118,1
+China,2024,38,26,24,88,2
+Great Britain,2024,13,22,28,63,3
+France,2024,13,22,22,57,4
+Australia,2024,18,18,16,52,5
+Japan,2024,20,12,13,45,6
+Italy,2024,12,11,13,36,7
+Netherlands,2024,14,7,12,33,8
+South Korea,2024,13,9,10,32,9
+Germany,2024,11,10,8,29,10
+Canada,2024,9,6,11,26,11
+New Zealand,2024,10,7,3,20,12
+Brazil,2024,3,6,10,19,13
+Hungary,2024,6,7,5,18,14
+Spain,2024,5,4,9,18,14
+Uzbekistan,2024,8,2,3,13,16
+Iran,2024,3,6,3,12,17
+Ukraine,2024,3,5,4,12,17
+Sweden,2024,4,4,3,11,19
+Kenya,2024,4,2,5,11,19
+Poland,2024,1,4,5,10,21
+Romania,2024,3,4,2,9,22
+Belgium,2024,3,1,5,9,22
+Denmark,2024,2,2,5,9,22
+Cuba,2024,2,1,6,9,22
+Norway,2024,4,1,3,8,26
+Greece,2024,1,1,6,8,26
+Turkey,2024,0,3,5,8,26
+Georgia,2024,3,3,1,7,29
+Bulgaria,2024,3,1,3,7,29
+Azerbaijan,2024,2,2,3,7,29
+Croatia,2024,2,2,3,7,29
+Chinese Taipei,2024,2,0,5,7,29
+Israel,2024,1,5,1,7,29
+Kazakhstan,2024,1,3,3,7,29
+Switzerland,2024,1,2,4,7,29
+Jamaica,2024,1,3,2,6,37
+South Africa,2024,1,3,2,6,37
+Thailand,2024,1,3,2,6,37
+Kyrgyzstan,2024,0,2,4,6,37
+North Korea,2024,0,2,4,6,37
+India,2024,0,1,5,6,37
+Serbia,2024,3,1,1,5,43
+Czech Republic,2024,3,0,2,5,43
+Ireland,2024,3,0,2,5,43
+Austria,2024,2,0,3,5,43
+Individual Neutral Athletes,2024,1,3,1,5,43
+Ecuador,2024,1,2,2,5,43
+Mexico,2024,0,3,2,5,43
+Bahrain,2024,2,1,1,4,50
+Hong Kong,2024,2,0,2,4,50
+Philippines,2024,2,0,2,4,50
+Ethiopia,2024,1,3,0,4,50
+Portugal,2024,1,2,1,4,50
+Armenia,2024,0,3,1,4,50
+Colombia,2024,0,3,1,4,50
+Lithuania,2024,0,2,2,4,50
+Moldova,2024,0,1,3,4,50
+Slovenia,2024,2,1,0,3,59
+Algeria,2024,2,0,1,3,59
+Indonesia,2024,2,0,1,3,59
+Argentina,2024,1,1,1,3,59
+Egypt,2024,1,1,1,3,59
+Tunisia,2024,1,1,1,3,59
+Dominican Republic,2024,1,0,2,3,59
+Tajikistan,2024,0,0,3,3,59
+Botswana,2024,1,1,0,2,67
+Chile,2024,1,1,0,2,67
+Saint Lucia,2024,1,1,0,2,67
+Uganda,2024,1,1,0,2,67
+Guatemala,2024,1,0,1,2,67
+Morocco,2024,1,0,1,2,67
+Kosovo,2024,0,1,1,2,67
+Albania,2024,0,0,2,2,67
+Grenada,2024,0,0,2,2,67
+Malaysia,2024,0,0,2,2,67
+Puerto Rico,2024,0,0,2,2,67
+Dominica,2024,1,0,0,1,78
+Pakistan,2024,1,0,0,1,78
+Cyprus,2024,0,1,0,1,78
+Fiji,2024,0,1,0,1,78
+Jordan,2024,0,1,0,1,78
+Mongolia,2024,0,1,0,1,78
+Panama,2024,0,1,0,1,78
+Ivory Coast,2024,0,0,1,1,78
+Cabo Verde,2024,0,0,1,1,78
+Refugee Olympic Team,2024,0,0,1,1,78
+Peru,2024,0,0,1,1,78
+Qatar,2024,0,0,1,1,78
+Singapore,2024,0,0,1,1,78
+Slovakia,2024,0,0,1,1,78
+Zambia,2024,0,0,1,1,78
+Afghanistan,2024,0,0,0,0,93
+Andorra,2024,0,0,0,0,93
+Angola,2024,0,0,0,0,93
+Antigua and Barbuda,2024,0,0,0,0,93
+Aruba,2024,0,0,0,0,93
+American Samoa,2024,0,0,0,0,93
+Bahamas,2024,0,0,0,0,93
+Bangladesh,2024,0,0,0,0,93
+Barbados,2024,0,0,0,0,93
+Burundi,2024,0,0,0,0,93
+Benin,2024,0,0,0,0,93
+Bermuda,2024,0,0,0,0,93
+Bhutan,2024,0,0,0,0,93
+Bosnia and Herzegovina,2024,0,0,0,0,93
+Belize,2024,0,0,0,0,93
+Bolivia,2024,0,0,0,0,93
+Brunei Darussalam,2024,0,0,0,0,93
+Burkina Faso,2024,0,0,0,0,93
+Central African Republic,2024,0,0,0,0,93
+Cambodia,2024,0,0,0,0,93
+Cayman Islands,2024,0,0,0,0,93
+Republic of the Congo,2024,0,0,0,0,93
+Chad,2024,0,0,0,0,93
+Cameroon,2024,0,0,0,0,93
+Democratic Republic of the Congo,2024,0,0,0,0,93
+Cook Islands,2024,0,0,0,0,93
+Comoros,2024,0,0,0,0,93
+Costa Rica,2024,0,0,0,0,93
+Djibouti,2024,0,0,0,0,93
+Eritrea,2024,0,0,0,0,93
+El Salvador,2024,0,0,0,0,93
+Estonia,2024,0,0,0,0,93
+Finland,2024,0,0,0,0,93
+Federated States of Micronesia,2024,0,0,0,0,93
+Gabon,2024,0,0,0,0,93
+The Gambia,2024,0,0,0,0,93
+Guinea Bissau,2024,0,0,0,0,93
+Equatorial Guinea,2024,0,0,0,0,93
+Ghana,2024,0,0,0,0,93
+Guinea,2024,0,0,0,0,93
+Guam,2024,0,0,0,0,93
+Guyana,2024,0,0,0,0,93
+Haiti,2024,0,0,0,0,93
+Honduras,2024,0,0,0,0,93
+Iraq,2024,0,0,0,0,93
+Iceland,2024,0,0,0,0,93
+Virgin Islands,2024,0,0,0,0,93
+British Virgin Islands,2024,0,0,0,0,93
+Kiribati,2024,0,0,0,0,93
+Saudi Arabia,2024,0,0,0,0,93
+Kuwait,2024,0,0,0,0,93
+Lao PDR,2024,0,0,0,0,93
+Latvia,2024,0,0,0,0,93
+Libya,2024,0,0,0,0,93
+Lebanon,2024,0,0,0,0,93
+Liberia,2024,0,0,0,0,93
+Lesotho,2024,0,0,0,0,93
+Liechtenstein,2024,0,0,0,0,93
+Luxembourg,2024,0,0,0,0,93
+Madagascar,2024,0,0,0,0,93
+Malawi,2024,0,0,0,0,93
+Maldives,2024,0,0,0,0,93
+Marshall Islands,2024,0,0,0,0,93
+Macedonia,2024,0,0,0,0,93
+Mali,2024,0,0,0,0,93
+Malta,2024,0,0,0,0,93
+Montenegro,2024,0,0,0,0,93
+Monaco,2024,0,0,0,0,93
+Mozambique,2024,0,0,0,0,93
+Mauritius,2024,0,0,0,0,93
+Mauritania,2024,0,0,0,0,93
+Myanmar,2024,0,0,0,0,93
+Namibia,2024,0,0,0,0,93
+Nicaragua,2024,0,0,0,0,93
+Nepal,2024,0,0,0,0,93
+Nigeria,2024,0,0,0,0,93
+Niger,2024,0,0,0,0,93
+Nauru,2024,0,0,0,0,93
+Oman,2024,0,0,0,0,93
+Paraguay,2024,0,0,0,0,93
+Palestine,2024,0,0,0,0,93
+Palau,2024,0,0,0,0,93
+Papua New Guinea,2024,0,0,0,0,93
+Rwanda,2024,0,0,0,0,93
+Samoa,2024,0,0,0,0,93
+Senegal,2024,0,0,0,0,93
+Seychelles,2024,0,0,0,0,93
+Saint Kitts and Nevis,2024,0,0,0,0,93
+Sierra Leone,2024,0,0,0,0,93
+San Marino,2024,0,0,0,0,93
+Solomon Islands,2024,0,0,0,0,93
+Somalia,2024,0,0,0,0,93
+Sri Lanka,2024,0,0,0,0,93
+South Sudan,2024,0,0,0,0,93
+São Tomé and Príncipe,2024,0,0,0,0,93
+Sudan,2024,0,0,0,0,93
+Suriname,2024,0,0,0,0,93
+Swaziland,2024,0,0,0,0,93
+Syria,2024,0,0,0,0,93
+Tanzania,2024,0,0,0,0,93
+Tonga,2024,0,0,0,0,93
+Turkmenistan,2024,0,0,0,0,93
+Timor Leste,2024,0,0,0,0,93
+Togo,2024,0,0,0,0,93
+Trinidad and Tobago,2024,0,0,0,0,93
+Tuvalu,2024,0,0,0,0,93
+United Arab Emirates,2024,0,0,0,0,93
+Uruguay,2024,0,0,0,0,93
+Vanuatu,2024,0,0,0,0,93
+Venezuela,2024,0,0,0,0,93
+Vietnam,2024,0,0,0,0,93
+Saint Vincent and the Grenadines,2024,0,0,0,0,93
+Yemen,2024,0,0,0,0,93
+Zimbabwe,2024,0,0,0,0,93

@@ -1,0 +1,1113 @@
+athlete_Sport,athlete_keyword,programs_Sport,programs_Discipline,Code,match_method
+Hockey,hockey men's hockey,Field hockey,Field hockey,HOC,single_disc
+Football,football men's football,Football,Football,FBL,single_disc
+Wrestling,"wrestling men's light-flyweight, freestyle",Wrestling,Freestyle,WRF,keyword
+Wrestling,"wrestling men's bantamweight, freestyle",Wrestling,Freestyle,WRF,keyword
+Wrestling,"wrestling men's flyweight, freestyle",Wrestling,Freestyle,WRF,keyword
+Wrestling,"wrestling men's welterweight, freestyle",Wrestling,Freestyle,WRF,keyword
+Athletics,athletics men's 100 metres,Athletics,Athletics,ATH,single_disc
+Taekwondo,taekwondo men's featherweight,Taekwondo,Taekwondo,TKW,single_disc
+Taekwondo,taekwondo men's welterweight,Taekwondo,Taekwondo,TKW,single_disc
+Judo,judo men's half-heavyweight,Judo,Judo,JUD,single_disc
+Wrestling,"wrestling men's featherweight, freestyle",Wrestling,Freestyle,WRF,keyword
+Wrestling,"wrestling men's lightweight, freestyle",Wrestling,Freestyle,WRF,keyword
+Wrestling,"wrestling men's middleweight, freestyle",Wrestling,Freestyle,WRF,keyword
+Wrestling,"wrestling men's lightweight, greco-roman",Wrestling,Greco-Roman,WRG,keyword
+Wrestling,"wrestling men's featherweight, greco-roman",Wrestling,Greco-Roman,WRG,keyword
+Boxing,boxing men's flyweight,Boxing,Boxing,BOX,single_disc
+Judo,judo men's half-lightweight,Judo,Judo,JUD,single_disc
+Athletics,athletics men's 4 x 100 metres relay,Athletics,Athletics,ATH,single_disc
+Boxing,boxing men's lightweight,Boxing,Boxing,BOX,single_disc
+Wrestling,"wrestling men's light-heavyweight, freestyle",Wrestling,Freestyle,WRF,keyword
+Athletics,athletics men's long jump,Athletics,Athletics,ATH,single_disc
+Athletics,athletics women's 100 metres,Athletics,Athletics,ATH,single_disc
+Wrestling,"wrestling men's bantamweight, greco-roman",Wrestling,Greco-Roman,WRG,keyword
+Boxing,boxing men's featherweight,Boxing,Boxing,BOX,single_disc
+Boxing,boxing men's bantamweight,Boxing,Boxing,BOX,single_disc
+Taekwondo,taekwondo men's flyweight,Taekwondo,Taekwondo,TKW,single_disc
+Athletics,athletics men's shot put,Athletics,Athletics,ATH,single_disc
+Judo,judo women's middleweight,Judo,Judo,JUD,single_disc
+Athletics,athletics men's 400 metres,Athletics,Athletics,ATH,single_disc
+Wrestling,"wrestling men's heavyweight, freestyle",Wrestling,Freestyle,WRF,keyword
+Boxing,boxing men's welterweight,Boxing,Boxing,BOX,single_disc
+Athletics,athletics men's 110 metres hurdles,Athletics,Athletics,ATH,single_disc
+Athletics,athletics men's javelin throw,Athletics,Athletics,ATH,single_disc
+Athletics,athletics men's marathon,Athletics,Athletics,ATH,single_disc
+Athletics,athletics men's 200 metres,Athletics,Athletics,ATH,single_disc
+Swimming,men's 50m freestyle,Aquatics,Swimming,SWM,sub_sport
+Taekwondo,men +80kg,Taekwondo,Taekwondo,TKW,single_disc
+Athletics,men's 100m,Athletics,Athletics,ATH,single_disc
+Athletics,women's 100m,Athletics,Athletics,ATH,single_disc
+Shooting,10m air rifle men,Shooting,Shooting,SHO,single_disc
+Cycling Road,women's road race,Cycling,Road,CRD,sub_sport
+Cycling Road,women's individual time trial,Cycling,Road,CRD,sub_sport
+Judo,men -81 kg,Judo,Judo,JUD,single_disc
+Weightlifting,weightlifting men's heavyweight,Weightlifting,Weightlifting,WLF,single_disc
+Shooting,"shooting mixed small-bore rifle, prone, 50 metres",Shooting,Shooting,SHO,single_disc
+Fencing,"fencing women's foil, individual",Fencing,Fencing,FEN,single_disc
+Swimming,swimming women's 100 metres backstroke,Aquatics,Swimming,SWM,sub_sport
+Sailing,sailing mixed windsurfer,Sailing,Sailing,SAL,single_disc
+Fencing,"fencing men's sabre, individual",Fencing,Fencing,FEN,single_disc
+Synchronized Swimming,synchronized swimming women's solo,Aquatics,Artistic Swimming,SWA,sub_sport
+Synchronized Swimming,synchronized swimming women's duet,Aquatics,Artistic Swimming,SWA,sub_sport
+Weightlifting,weightlifting men's bantamweight,Weightlifting,Weightlifting,WLF,single_disc
+Shooting,shooting mixed trap,Shooting,Shooting,SHO,single_disc
+Shooting,shooting men's trap,Shooting,Shooting,SHO,single_disc
+Shooting,shooting men's double trap,Shooting,Shooting,SHO,single_disc
+Swimming,swimming men's 50 metres freestyle,Aquatics,Swimming,SWM,sub_sport
+Sailing,sailing women's windsurfer,Sailing,Sailing,SAL,single_disc
+Sailing,sailing mixed one person dinghy,Sailing,Sailing,SAL,single_disc
+Shooting,"shooting men's air pistol, 10 metres",Shooting,Shooting,SHO,single_disc
+Judo,judo men's heavyweight,Judo,Judo,JUD,single_disc
+Weightlifting,weightlifting men's middle-heavyweight,Weightlifting,Weightlifting,WLF,single_disc
+Swimming,swimming men's 100 metres freestyle,Aquatics,Swimming,SWM,sub_sport
+Athletics,athletics women's 800 metres,Athletics,Athletics,ATH,single_disc
+Swimming,swimming men's 200 metres freestyle,Aquatics,Swimming,SWM,sub_sport
+Swimming,swimming men's 400 metres freestyle,Aquatics,Swimming,SWM,sub_sport
+Shooting,"shooting women's air rifle, 10 metres",Shooting,Shooting,SHO,single_disc
+Athletics,athletics women's 200 metres,Athletics,Athletics,ATH,single_disc
+Triathlon,triathlon men's olympic distance,Triathlon,Triathlon,TRI,single_disc
+Weightlifting,weightlifting men's lightweight,Weightlifting,Weightlifting,WLF,single_disc
+Weightlifting,weightlifting men's middleweight,Weightlifting,Weightlifting,WLF,single_disc
+Judo,judo men's middleweight,Judo,Judo,JUD,single_disc
+Weightlifting,weightlifting men's light-heavyweight,Weightlifting,Weightlifting,WLF,single_disc
+Sailing,sailing men's windsurfer,Sailing,Sailing,SAL,single_disc
+Equestrianism,"equestrianism mixed three-day event, individual",Equestrian,Eventing,EVE,keyword
+Swimming,women's 100m breaststroke,Aquatics,Swimming,SWM,sub_sport
+Swimming,women's 200m breaststroke,Aquatics,Swimming,SWM,sub_sport
+Swimming,men's 100m breaststroke,Aquatics,Swimming,SWM,sub_sport
+Swimming,women's 100m backstroke,Aquatics,Swimming,SWM,sub_sport
+Swimming,women's 200m backstroke,Aquatics,Swimming,SWM,sub_sport
+Rowing,men's single sculls,Rowing,Rowing,ROW,default
+Wrestling,men's greco-roman 97kg,Wrestling,Greco-Roman,WRG,keyword
+Weightlifting,women's 71kg,Weightlifting,Weightlifting,WLF,single_disc
+Weightlifting,men's 102kg,Weightlifting,Weightlifting,WLF,single_disc
+Wrestling,men's freestyle 74kg,Wrestling,Freestyle,WRF,keyword
+Shooting,25m pistol women,Shooting,Shooting,SHO,single_disc
+Taekwondo,men -58kg,Taekwondo,Taekwondo,TKW,single_disc
+Trampoline Gymnastics,men,Gymnastics,Trampoline,GTR,sub_sport
+Trampoline Gymnastics,women,Gymnastics,Trampoline,GTR,sub_sport
+Canoe Sprint,men's kayak single 1000m,Canoeing,Sprint,CSP,sub_sport
+Canoe Sprint,women's canoe single 200m,Canoeing,Sprint,CSP,sub_sport
+Rowing,women's single sculls,Rowing,Rowing,ROW,default
+Cycling Road,men's road race,Cycling,Road,CRD,sub_sport
+Cycling Road,men's individual time trial,Cycling,Road,CRD,sub_sport
+Canoe Sprint,men's canoe double 500m,Canoeing,Sprint,CSP,sub_sport
+Canoe Sprint,men's canoe single 1000m,Canoeing,Sprint,CSP,sub_sport
+Tennis,women's doubles,Tennis,Tennis,TEN,single_disc
+Tennis,men's singles,Tennis,Tennis,TEN,single_disc
+Tennis,men's doubles,Tennis,Tennis,TEN,single_disc
+Tennis,women's singles,Tennis,Tennis,TEN,single_disc
+Tennis,mixed doubles,Tennis,Tennis,TEN,single_disc
+Shooting,50m rifle 3 positions women,Shooting,Shooting,SHO,single_disc
+Weightlifting,weightlifting women's lightweight,Weightlifting,Weightlifting,WLF,single_disc
+Athletics,athletics women's triple jump,Athletics,Athletics,ATH,single_disc
+Swimming,swimming women's 100 metres butterfly,Aquatics,Swimming,SWM,sub_sport
+Athletics,athletics men's hammer throw,Athletics,Athletics,ATH,single_disc
+Weightlifting,weightlifting men's heavyweight ii,Weightlifting,Weightlifting,WLF,single_disc
+Athletics,"athletics women's 3,000 metres steeplechase",Athletics,Athletics,ATH,single_disc
+Wrestling,"wrestling men's heavyweight, greco-roman",Wrestling,Greco-Roman,WRG,keyword
+Judo,judo women's half-lightweight,Judo,Judo,JUD,single_disc
+Shooting,"shooting women's air pistol, 10 metres",Shooting,Shooting,SHO,single_disc
+Shooting,"shooting women's sporting pistol, 25 metres",Shooting,Shooting,SHO,single_disc
+Shooting,"shooting men's free pistol, 50 metres",Shooting,Shooting,SHO,single_disc
+Swimming,swimming men's 100 metres breaststroke,Aquatics,Swimming,SWM,sub_sport
+Athletics,athletics women's javelin throw,Athletics,Athletics,ATH,single_disc
+Swimming,swimming women's 50 metres freestyle,Aquatics,Swimming,SWM,sub_sport
+Swimming,swimming women's 100 metres freestyle,Aquatics,Swimming,SWM,sub_sport
+Cycling,"cycling men's road race, individual",Cycling,Road,CRD,keyword
+Weightlifting,weightlifting men's featherweight,Weightlifting,Weightlifting,WLF,single_disc
+Shooting,"shooting mixed free pistol, 50 metres",Shooting,Shooting,SHO,single_disc
+Athletics,athletics women's heptathlon,Athletics,Athletics,ATH,single_disc
+Shooting,"shooting men's rapid-fire pistol, 25 metres",Shooting,Shooting,SHO,single_disc
+Athletics,athletics women's 400 metres,Athletics,Athletics,ATH,single_disc
+Athletics,athletics women's 400 metres hurdles,Athletics,Athletics,ATH,single_disc
+Judo,judo men's half-middleweight,Judo,Judo,JUD,single_disc
+Weightlifting,weightlifting women's featherweight,Weightlifting,Weightlifting,WLF,single_disc
+Weightlifting,men's 73kg,Weightlifting,Weightlifting,WLF,single_disc
+Judo,men -66 kg,Judo,Judo,JUD,single_disc
+Shooting,10m air pistol women,Shooting,Shooting,SHO,single_disc
+Athletics,women's 3000m steeplechase,Athletics,Athletics,ATH,single_disc
+Swimming,men's 100m freestyle,Aquatics,Swimming,SWM,sub_sport
+Swimming,women's 50m freestyle,Aquatics,Swimming,SWM,sub_sport
+Artistic Gymnastics,men's pommel horse,Gymnastics,Artistic,GAR,sub_sport
+Weightlifting,men's 81kg,Weightlifting,Weightlifting,WLF,single_disc
+Athletics,men's long jump,Athletics,Athletics,ATH,single_disc
+Wrestling,men's freestyle 57kg,Wrestling,Freestyle,WRF,keyword
+Wrestling,men's freestyle 65kg,Wrestling,Freestyle,WRF,keyword
+Swimming,women's 200m freestyle,Aquatics,Swimming,SWM,sub_sport
+Boxing,boxing men's middleweight,Boxing,Boxing,BOX,single_disc
+Athletics,"athletics men's 5,000 metres",Athletics,Athletics,ATH,single_disc
+Athletics,athletics men's 800 metres,Athletics,Athletics,ATH,single_disc
+Volleyball,volleyball women's volleyball,Volleyball,Indoor,VVO,default
+Handball,handball men's handball,Handball,Indoor,HBL,default
+Swimming,swimming men's 100 metres backstroke,Aquatics,Swimming,SWM,sub_sport
+Swimming,swimming men's 100 metres butterfly,Aquatics,Swimming,SWM,sub_sport
+Rowing,rowing men's single sculls,Rowing,Rowing,ROW,default
+Athletics,"athletics men's 1,500 metres",Athletics,Athletics,ATH,single_disc
+Rowing,rowing men's lightweight double sculls,Rowing,Rowing,ROW,default
+Athletics,"athletics women's 5,000 metres",Athletics,Athletics,ATH,single_disc
+Athletics,"athletics women's 10,000 metres",Athletics,Athletics,ATH,single_disc
+Athletics,athletics women's marathon,Athletics,Athletics,ATH,single_disc
+Boxing,boxing men's light-welterweight,Boxing,Boxing,BOX,single_disc
+Athletics,athletics men's 20 kilometres walk,Athletics,Athletics,ATH,single_disc
+Judo,judo women's heavyweight,Judo,Judo,JUD,single_disc
+Boxing,boxing men's heavyweight,Boxing,Boxing,BOX,single_disc
+Athletics,"athletics men's 3,000 metres steeplechase",Athletics,Athletics,ATH,single_disc
+Athletics,athletics men's high jump,Athletics,Athletics,ATH,single_disc
+Swimming,swimming men's 200 metres breaststroke,Aquatics,Swimming,SWM,sub_sport
+Judo,judo men's lightweight,Judo,Judo,JUD,single_disc
+Fencing,"fencing men's sabre, team",Fencing,Fencing,FEN,single_disc
+Boxing,boxing men's light-heavyweight,Boxing,Boxing,BOX,single_disc
+Volleyball,volleyball men's volleyball,Volleyball,Indoor,VVO,default
+Swimming,swimming men's 200 metres individual medley,Aquatics,Swimming,SWM,sub_sport
+Wrestling,"wrestling men's welterweight, greco-roman",Wrestling,Greco-Roman,WRG,keyword
+Swimming,swimming men's 4 x 200 metres freestyle relay,Aquatics,Swimming,SWM,sub_sport
+Fencing,"fencing women's epee, individual",Fencing,Fencing,FEN,single_disc
+Weightlifting,weightlifting men's super-heavyweight,Weightlifting,Weightlifting,WLF,single_disc
+Shooting,"shooting men's air rifle, 10 metres",Shooting,Shooting,SHO,single_disc
+Table Tennis,table tennis women's singles,Table Tennis,Table Tennis,TTE,single_disc
+Tennis,tennis women's singles,Tennis,Tennis,TEN,single_disc
+Table Tennis,table tennis men's singles,Table Tennis,Table Tennis,TTE,single_disc
+Table Tennis,table tennis men's doubles,Table Tennis,Table Tennis,TTE,single_disc
+Wrestling,"wrestling men's light-heavyweight, greco-roman",Wrestling,Greco-Roman,WRG,keyword
+Gymnastics,gymnastics women's individual all-around,Gymnastics,Artistic,GAR,default
+Gymnastics,gymnastics women's floor exercise,Gymnastics,Artistic,GAR,default
+Gymnastics,gymnastics women's uneven bars,Gymnastics,Artistic,GAR,default
+Gymnastics,gymnastics women's balance beam,Gymnastics,Artistic,GAR,default
+Athletics,"athletics women's 1,500 metres",Athletics,Athletics,ATH,single_disc
+Trampolining,trampolining men's individual,Gymnastics,Trampoline,GTR,sub_sport
+Gymnastics,gymnastics men's individual all-around,Gymnastics,Artistic,GAR,default
+Gymnastics,gymnastics men's floor exercise,Gymnastics,Artistic,GAR,default
+Gymnastics,gymnastics men's parallel bars,Gymnastics,Artistic,GAR,default
+Gymnastics,gymnastics men's horizontal bar,Gymnastics,Artistic,GAR,default
+Gymnastics,gymnastics men's rings,Gymnastics,Artistic,GAR,default
+Gymnastics,gymnastics men's pommelled horse,Gymnastics,Artistic,GAR,default
+Athletics,athletics men's decathlon,Athletics,Athletics,ATH,single_disc
+Athletics,athletics women's 20 kilometres walk,Athletics,Athletics,ATH,single_disc
+Sailing,sailing women's one person dinghy,Sailing,Sailing,SAL,single_disc
+Swimming,swimming women's 400 metres individual medley,Aquatics,Swimming,SWM,sub_sport
+Fencing,"fencing men's epee, individual",Fencing,Fencing,FEN,single_disc
+Fencing,"fencing men's foil, individual",Fencing,Fencing,FEN,single_disc
+Boxing,boxing men's light-flyweight,Boxing,Boxing,BOX,single_disc
+Athletics,"athletics men's 10,000 metres",Athletics,Athletics,ATH,single_disc
+Judo,judo women's extra-lightweight,Judo,Judo,JUD,single_disc
+Boxing,boxing men's light-middleweight,Boxing,Boxing,BOX,single_disc
+Athletics,athletics men's 4 x 400 metres relay,Athletics,Athletics,ATH,single_disc
+Weightlifting,weightlifting women's super-heavyweight,Weightlifting,Weightlifting,WLF,single_disc
+Rowing,rowing women's single sculls,Rowing,Rowing,ROW,default
+Judo,judo men's extra-lightweight,Judo,Judo,JUD,single_disc
+Athletics,athletics men's triple jump,Athletics,Athletics,ATH,single_disc
+Athletics,athletics men's 400 metres hurdles,Athletics,Athletics,ATH,single_disc
+Badminton,badminton men's singles,Badminton,Badminton,BDM,single_disc
+Weightlifting,weightlifting women's middleweight,Weightlifting,Weightlifting,WLF,single_disc
+Judo,judo women's lightweight,Judo,Judo,JUD,single_disc
+Gymnastics,gymnastics men's horse vault,Gymnastics,Artistic,GAR,default
+Table Tennis,table tennis women's doubles,Table Tennis,Table Tennis,TTE,single_disc
+Fencing,"fencing women's sabre, individual",Fencing,Fencing,FEN,single_disc
+Tennis,tennis men's singles,Tennis,Tennis,TEN,single_disc
+Boxing,boxing men's super-heavyweight,Boxing,Boxing,BOX,single_disc
+Judo,judo women's half-middleweight,Judo,Judo,JUD,single_disc
+Wrestling,"wrestling men's middleweight, greco-roman",Wrestling,Greco-Roman,WRG,keyword
+Swimming,swimming men's 200 metres butterfly,Aquatics,Swimming,SWM,sub_sport
+Weightlifting,weightlifting men's heavyweight i,Weightlifting,Weightlifting,WLF,single_disc
+Rowing,lightweight men's double sculls team,Rowing,Rowing,ROW,default
+Judo,women +78 kg,Judo,Judo,JUD,single_disc
+Boxing,men's heavy (81-91kg),Boxing,Boxing,BOX,single_disc
+Wrestling,men's freestyle 86kg,Wrestling,Freestyle,WRF,keyword
+Athletics,women's 400m hurdles,Athletics,Athletics,ATH,single_disc
+Wrestling,men's freestyle 125kg,Wrestling,Freestyle,WRF,keyword
+Sailing,women's windsurfer - rs:x,Sailing,Sailing,SAL,single_disc
+Weightlifting,men's +109kg,Weightlifting,Weightlifting,WLF,single_disc
+Boxing,women's fly (48-51kg),Boxing,Boxing,BOX,single_disc
+Athletics,men's 3000m steeplechase,Athletics,Athletics,ATH,single_disc
+Boxing,men's super heavy (+91kg),Boxing,Boxing,BOX,single_disc
+Fencing,men's sabre individual,Fencing,Fencing,FEN,single_disc
+Sailing,men's windsurfer - rs:x,Sailing,Sailing,SAL,single_disc
+Table Tennis,men's singles,Table Tennis,Table Tennis,TTE,single_disc
+Shooting,10m air rifle women,Shooting,Shooting,SHO,single_disc
+Boxing,women's middle (69-75kg),Boxing,Boxing,BOX,single_disc
+Marathon Swimming,women's 10km,Aquatics,Marathon Swimming,OWS,sub_sport
+Wrestling,men's freestyle 97kg,Wrestling,Freestyle,WRF,keyword
+Wrestling,men's greco-roman 60kg,Wrestling,Greco-Roman,WRG,keyword
+Boxing,men's fly (48-52kg),Boxing,Boxing,BOX,single_disc
+Fencing,men's foil individual,Fencing,Fencing,FEN,single_disc
+Athletics,men's 800m,Athletics,Athletics,ATH,single_disc
+Boxing,men's light heavy (75-81kg),Boxing,Boxing,BOX,single_disc
+Boxing,women's light (57-60kg),Boxing,Boxing,BOX,single_disc
+Canoe Sprint,women's kayak single 200m,Canoeing,Sprint,CSP,sub_sport
+Canoe Sprint,women's kayak single 500m,Canoeing,Sprint,CSP,sub_sport
+Athletics,men's 400m hurdles,Athletics,Athletics,ATH,single_disc
+Karate,women's kumite +61kg,Karate,Karate,KTE,single_disc
+Fencing,women's foil individual,Fencing,Fencing,FEN,single_disc
+Swimming,women's 100m freestyle,Aquatics,Swimming,SWM,sub_sport
+Wrestling,men's greco-roman 67kg,Wrestling,Greco-Roman,WRG,keyword
+Fencing,women's sabre individual,Fencing,Fencing,FEN,single_disc
+Boxing,men's middle (69-75kg),Boxing,Boxing,BOX,single_disc
+Judo,men -73 kg,Judo,Judo,JUD,single_disc
+Wrestling,men's greco-roman 87kg,Wrestling,Greco-Roman,WRG,keyword
+Athletics,men's triple jump,Athletics,Athletics,ATH,single_disc
+Canoe Slalom,women's kayak single,Canoeing,Slalom,CSL,sub_sport
+Canoe Slalom,women's kayak cross,Canoeing,Slalom,CSL,sub_sport
+Boxing,men's 63.5kg,Boxing,Boxing,BOX,single_disc
+Boxing,men's +92kg,Boxing,Boxing,BOX,single_disc
+Boxing,women's 50kg,Boxing,Boxing,BOX,single_disc
+Boxing,women's 66kg,Boxing,Boxing,BOX,single_disc
+Boxing,women's 60kg,Boxing,Boxing,BOX,single_disc
+Wrestling,men's greco-roman 77kg,Wrestling,Greco-Roman,WRG,keyword
+Wrestling,women's freestyle 50kg,Wrestling,Freestyle,WRF,keyword
+Wrestling,women's freestyle 57kg,Wrestling,Freestyle,WRF,keyword
+Sailing,men's windsurfing,Sailing,Sailing,SAL,single_disc
+Artistic Gymnastics,women,Gymnastics,Artistic,GAR,sub_sport
+Artistic Gymnastics,women's all-around,Gymnastics,Artistic,GAR,sub_sport
+Artistic Gymnastics,women's balance beam,Gymnastics,Artistic,GAR,sub_sport
+Artistic Gymnastics,women's floor exercise,Gymnastics,Artistic,GAR,sub_sport
+Artistic Gymnastics,women's uneven bars,Gymnastics,Artistic,GAR,sub_sport
+Artistic Gymnastics,women's vault,Gymnastics,Artistic,GAR,sub_sport
+Judo,women -63 kg,Judo,Judo,JUD,single_disc
+Judo,men +100 kg,Judo,Judo,JUD,single_disc
+Athletics,men's 110m hurdles,Athletics,Athletics,ATH,single_disc
+Athletics,women's hammer throw,Athletics,Athletics,ATH,single_disc
+Athletics,men's discus throw,Athletics,Athletics,ATH,single_disc
+Table Tennis,women's singles,Table Tennis,Table Tennis,TTE,single_disc
+Swimming,men's 200m individual medley,Aquatics,Swimming,SWM,sub_sport
+Shooting,10m air pistol men,Shooting,Shooting,SHO,single_disc
+Weightlifting,men's +102kg,Weightlifting,Weightlifting,WLF,single_disc
+Fencing,women's sabre team,Fencing,Fencing,FEN,single_disc
+Badminton,mixed doubles,Badminton,Badminton,BDM,single_disc
+Canoeing,"canoeing women's kayak singles, slalom",Canoeing,Slalom,CSL,keyword
+Swimming,swimming men's 400 metres individual medley,Aquatics,Swimming,SWM,sub_sport
+Athletics,athletics women's high jump,Athletics,Athletics,ATH,single_disc
+Sailing,sailing men's two person dinghy,Sailing,Sailing,SAL,single_disc
+Swimming,swimming women's 200 metres individual medley,Aquatics,Swimming,SWM,sub_sport
+Canoe Slalom,women's kayak,Canoeing,Slalom,CSL,sub_sport
+Canoe Slalom,women's canoe,Canoeing,Slalom,CSL,sub_sport
+Canoe Slalom,women's canoe single,Canoeing,Slalom,CSL,sub_sport
+Beach Volleyball,beach volleyball men's beach volleyball,Volleyball,Beach,VBV,sub_sport
+Basketball,basketball men's basketball,Basketball,Basketball,BKB,default
+Handball,handball women's handball,Handball,Indoor,HBL,default
+Basketball,basketball women's basketball,Basketball,Basketball,BKB,default
+Swimming,swimming women's 100 metres breaststroke,Aquatics,Swimming,SWM,sub_sport
+Swimming,swimming women's 200 metres breaststroke,Aquatics,Swimming,SWM,sub_sport
+Swimming,swimming men's 4 x 100 metres medley relay,Aquatics,Swimming,SWM,sub_sport
+Athletics,"athletics women's 3,000 metres",Athletics,Athletics,ATH,single_disc
+Canoeing,"canoeing men's canadian singles, 200 metres",Canoeing,Sprint,CSP,default
+Canoeing,"canoeing men's canadian doubles, 1,000 metres",Canoeing,Sprint,CSP,default
+Sailing,sailing men's one person dinghy,Sailing,Sailing,SAL,single_disc
+Canoeing,"canoeing men's canadian singles, 500 metres",Canoeing,Sprint,CSP,default
+Canoeing,"canoeing men's canadian singles, 1,000 metres",Canoeing,Sprint,CSP,default
+Sailing,men's two person dinghy - 470 team,Sailing,Sailing,SAL,single_disc
+Handball,women team,Handball,Indoor,HBL,default
+Swimming,men's 100m butterfly,Aquatics,Swimming,SWM,sub_sport
+Judo,women -57 kg,Judo,Judo,JUD,single_disc
+Sailing,mixed dinghy,Sailing,Sailing,SAL,single_disc
+Swimming,women's 200m butterfly,Aquatics,Swimming,SWM,sub_sport
+Handball,women,Handball,Indoor,HBL,default
+Sailing,men's dinghy,Sailing,Sailing,SAL,single_disc
+Athletics,athletics women's 4 x 400 metres relay,Athletics,Athletics,ATH,single_disc
+Cycling,"cycling men's 1,000 metres time trial",Cycling,Track,CTR,keyword
+Cycling,"cycling men's individual pursuit, 4,000 metres",Cycling,Track,CTR,keyword
+Cycling,cycling men's sprint,Cycling,Track,CTR,keyword
+Sailing,sailing mixed two person keelboat,Sailing,Sailing,SAL,single_disc
+Cycling,"cycling men's mountainbike, cross-country",Cycling,Mountain Bike,MTB,keyword
+Cycling,cycling men's points race,Cycling,Track,CTR,keyword
+Canoeing,"canoeing women's kayak singles, 500 metres",Canoeing,Sprint,CSP,default
+Athletics,athletics women's 4 x 100 metres relay,Athletics,Athletics,ATH,single_disc
+Sailing,women's one person dinghy - laser radial,Sailing,Sailing,SAL,single_disc
+Boxing,men's light (57-63kg),Boxing,Boxing,BOX,single_disc
+Sailing,men's kite,Sailing,Sailing,SAL,single_disc
+Diving,diving men's springboard,Aquatics,Diving,DIV,sub_sport
+Rugby,rugby men's rugby,Rugby,Union,RUG,default
+Swimming,"swimming men's 1,500 metres freestyle",Aquatics,Swimming,SWM,sub_sport
+Athletics,athletics men's 5 mile,Athletics,Athletics,ATH,single_disc
+Rowing,rowing men's coxed eights,Rowing,Rowing,ROW,default
+Shooting,"shooting men's small-bore rifle, prone, 50 and 100 yards",Shooting,Shooting,SHO,single_disc
+Shooting,"shooting men's small-bore rifle, disappearing target, 25 yards",Shooting,Shooting,SHO,single_disc
+Shooting,"shooting men's small-bore rifle, moving target, 25 yards",Shooting,Shooting,SHO,single_disc
+Athletics,athletics men's standing high jump,Athletics,Athletics,ATH,single_disc
+Athletics,"athletics men's 3,500 metres walk",Athletics,Athletics,ATH,single_disc
+Athletics,athletics men's 10 mile walk,Athletics,Athletics,ATH,single_disc
+Athletics,athletics men's 10 kilometres walk,Athletics,Athletics,ATH,single_disc
+Swimming,swimming men's 400 metres breaststroke,Aquatics,Swimming,SWM,sub_sport
+Tennis,"tennis men's singles, covered courts",Tennis,Tennis,TEN,single_disc
+Rowing,rowing women's coxless pairs,Rowing,Rowing,ROW,default
+Rowing,rowing men's coxed fours,Rowing,Rowing,ROW,default
+Cycling,"cycling men's team pursuit, 4,000 metres",Cycling,Track,CTR,keyword
+Cycling,cycling men's 100 kilometres team time trial,Cycling,Road,CRD,keyword
+Equestrianism,"equestrianism mixed three-day event, team",Equestrian,Eventing,EVE,keyword
+Rowing,rowing men's coxless pairs,Rowing,Rowing,ROW,default
+Swimming,swimming women's 200 metres butterfly,Aquatics,Swimming,SWM,sub_sport
+Hockey,hockey women's hockey,Field hockey,Field hockey,HOC,single_disc
+Sailing,sailing mixed 8 metres,Sailing,Sailing,SAL,single_disc
+Equestrianism,"equestrianism mixed jumping, individual",Equestrian,Jumping,EJP,keyword
+Equestrianism,"equestrianism mixed jumping, team",Equestrian,Jumping,EJP,keyword
+Rowing,rowing men's coxless fours,Rowing,Rowing,ROW,default
+Equestrianism,"equestrianism men's jumping, individual",Equestrian,Jumping,EJP,keyword
+Equestrianism,"equestrianism men's jumping, team",Equestrian,Jumping,EJP,keyword
+Triathlon,triathlon women's olympic distance,Triathlon,Triathlon,TRI,single_disc
+Shooting,"shooting men's small-bore rifle, three positions, 50 metres",Shooting,Shooting,SHO,single_disc
+Shooting,"shooting men's small-bore rifle, prone, 50 metres",Shooting,Shooting,SHO,single_disc
+Rugby Sevens,rugby sevens men's rugby sevens,Rugby,Sevens,RU7,sub_sport
+Swimming,swimming women's 4 x 200 metres freestyle relay,Aquatics,Swimming,SWM,sub_sport
+Swimming,swimming women's 4 x 100 metres medley relay,Aquatics,Swimming,SWM,sub_sport
+Rowing,rowing women's double sculls,Rowing,Rowing,ROW,default
+Cycling,"cycling women's mountainbike, cross-country",Cycling,Mountain Bike,MTB,keyword
+Canoeing,"canoeing women's kayak singles, 200 metres",Canoeing,Sprint,CSP,default
+Canoeing,"canoeing women's kayak fours, 500 metres",Canoeing,Sprint,CSP,default
+Gymnastics,gymnastics men's team all-around,Gymnastics,Artistic,GAR,default
+Polo,polo men's polo,Polo,Polo,POL,single_disc
+Fencing,"fencing men's foil, team",Fencing,Fencing,FEN,single_disc
+Canoeing,"canoeing women's kayak doubles, 500 metres",Canoeing,Sprint,CSP,default
+Shooting,"shooting men's free rifle, three positions, 300 metres",Shooting,Shooting,SHO,single_disc
+Football,football women's football,Football,Football,FBL,single_disc
+Athletics,athletics women's discus throw,Athletics,Athletics,ATH,single_disc
+Athletics,athletics women's long jump,Athletics,Athletics,ATH,single_disc
+Fencing,"fencing men's epee, team",Fencing,Fencing,FEN,single_disc
+Athletics,athletics men's discus throw,Athletics,Athletics,ATH,single_disc
+Swimming,swimming men's 200 metres backstroke,Aquatics,Swimming,SWM,sub_sport
+Athletics,athletics men's pole vault,Athletics,Athletics,ATH,single_disc
+Swimming,swimming women's 400 metres freestyle,Aquatics,Swimming,SWM,sub_sport
+Swimming,swimming women's 800 metres freestyle,Aquatics,Swimming,SWM,sub_sport
+Modern Pentathlon,modern pentathlon men's individual,Modern Pentathlon,,MPN,single_disc
+Modern Pentathlon,modern pentathlon men's team,Modern Pentathlon,,MPN,single_disc
+Cycling,cycling men's bmx,Cycling,BMX Racing,BMX,keyword
+Sailing,sailing mixed three person keelboat,Sailing,Sailing,SAL,single_disc
+Archery,archery men's individual,Archery,Archery,ARC,single_disc
+Swimming,swimming women's 4 x 100 metres freestyle relay,Aquatics,Swimming,SWM,sub_sport
+Swimming,swimming women's 200 metres backstroke,Aquatics,Swimming,SWM,sub_sport
+Cycling,"cycling men's road race, team",Cycling,Road,CRD,keyword
+Wrestling,"wrestling women's flyweight, freestyle",Wrestling,Freestyle,WRF,keyword
+Swimming,swimming women's 10 kilometres open water,Aquatics,Swimming,SWM,sub_sport
+Sailing,sailing mixed 6 metres,Sailing,Sailing,SAL,single_disc
+Water Polo,water polo men's water polo,Aquatics,Water Polo,WPO,sub_sport
+Swimming,swimming men's 10 kilometres open water,Aquatics,Swimming,SWM,sub_sport
+Rowing,rowing men's quadruple sculls,Rowing,Rowing,ROW,default
+Swimming,swimming women's 200 metres freestyle,Aquatics,Swimming,SWM,sub_sport
+Wrestling,"wrestling men's super-heavyweight, greco-roman",Wrestling,Greco-Roman,WRG,keyword
+Wrestling,"wrestling men's super-heavyweight, freestyle",Wrestling,Freestyle,WRF,keyword
+Sailing,sailing women's skiff,Sailing,Sailing,SAL,single_disc
+Judo,judo women's half-heavyweight,Judo,Judo,JUD,single_disc
+Canoeing,"canoeing men's kayak fours, 1,000 metres",Canoeing,Sprint,CSP,default
+Tennis,tennis men's doubles,Tennis,Tennis,TEN,single_disc
+Equestrianism,"equestrianism men's three-day event, individual",Equestrian,Eventing,EVE,keyword
+Equestrianism,"equestrianism men's three-day event, team",Equestrian,Eventing,EVE,keyword
+Canoeing,"canoeing men's kayak doubles, 500 metres",Canoeing,Sprint,CSP,default
+Athletics,athletics women's 100 metres hurdles,Athletics,Athletics,ATH,single_disc
+Rowing,rowing men's double sculls,Rowing,Rowing,ROW,default
+Fencing,"fencing women's foil, team",Fencing,Fencing,FEN,single_disc
+Gymnastics,gymnastics women's horse vault,Gymnastics,Artistic,GAR,default
+Sailing,sailing mixed multihull,Sailing,Sailing,SAL,single_disc
+Rowing,rowing men's coxed pairs,Rowing,Rowing,ROW,default
+Equestrianism,"equestrianism mixed dressage, individual",Equestrian,Dressage,EDR,keyword
+Shooting,"shooting mixed rapid-fire pistol, 25 metres",Shooting,Shooting,SHO,single_disc
+Canoeing,"canoeing men's kayak singles, 500 metres",Canoeing,Sprint,CSP,default
+Canoeing,"canoeing men's kayak doubles, 1,000 metres",Canoeing,Sprint,CSP,default
+Canoeing,"canoeing men's kayak singles, 1,000 metres",Canoeing,Sprint,CSP,default
+Canoeing,"canoeing men's kayak doubles, 200 metres",Canoeing,Sprint,CSP,default
+Cycling,cycling men's madison,Cycling,Track,CTR,keyword
+Athletics,athletics women's hammer throw,Athletics,Athletics,ATH,single_disc
+Cycling,cycling men's 50 kilometres,Cycling,Track,CTR,keyword
+Tennis,tennis mixed doubles,Tennis,Tennis,TEN,single_disc
+Shooting,"shooting mixed small-bore rifle, three positions, 50 metres",Shooting,Shooting,SHO,single_disc
+Cycling,cycling women's bmx,Cycling,BMX Racing,BMX,keyword
+Tennis,tennis women's doubles,Tennis,Tennis,TEN,single_disc
+Rowing,rowing men's lightweight coxless fours,Rowing,Rowing,ROW,default
+Shooting,"shooting women's small-bore rifle, three positions, 50 metres",Shooting,Shooting,SHO,single_disc
+Sailing,sailing mixed 5.5 metres,Sailing,Sailing,SAL,single_disc
+Beach Volleyball,beach volleyball women's beach volleyball,Volleyball,Beach,VBV,sub_sport
+Judo,judo men's open class,Judo,Judo,JUD,single_disc
+Athletics,athletics women's pole vault,Athletics,Athletics,ATH,single_disc
+Rowing,rowing women's lightweight double sculls,Rowing,Rowing,ROW,default
+Art Competitions,art competitions mixed unknown event,,EXCLUDED,,excluded
+Cycling,"cycling men's tandem sprint, 2,000 metres",Cycling,Track,CTR,keyword
+Shooting,shooting men's skeet,Shooting,Shooting,SHO,single_disc
+Shooting,shooting women's skeet,Shooting,Shooting,SHO,single_disc
+Diving,diving women's springboard,Aquatics,Diving,DIV,sub_sport
+Golf,golf men's individual,Golf,Golf,GLF,single_disc
+Equestrianism,"equestrianism men's dressage, individual",Equestrian,Dressage,EDR,keyword
+Equestrianism,"equestrianism men's dressage, team",Equestrian,Dressage,EDR,keyword
+Sailing,sailing mixed two person dinghy,Sailing,Sailing,SAL,single_disc
+Athletics,athletics men's 50 kilometres walk,Athletics,Athletics,ATH,single_disc
+Modern Pentathlon,modern pentathlon women's individual,Modern Pentathlon,,MPN,single_disc
+Weightlifting,weightlifting women's heavyweight,Weightlifting,Weightlifting,WLF,single_disc
+Sailing,sailing men's skiff,Sailing,Sailing,SAL,single_disc
+Taekwondo,taekwondo women's flyweight,Taekwondo,Taekwondo,TKW,single_disc
+Canoeing,"canoeing men's kayak singles, slalom",Canoeing,Slalom,CSL,keyword
+Cycling,cycling men's individual time trial,Cycling,Road,CRD,keyword
+Athletics,athletics women's shot put,Athletics,Athletics,ATH,single_disc
+Sailing,sailing women's two person dinghy,Sailing,Sailing,SAL,single_disc
+Sailing,sailing men's one person heavyweight dinghy,Sailing,Sailing,SAL,single_disc
+Cycling,cycling men's omnium,Cycling,Track,CTR,keyword
+Shooting,"shooting mixed running target, 50 metres",Shooting,Shooting,SHO,single_disc
+Diving,diving women's platform,Aquatics,Diving,DIV,sub_sport
+Shooting,shooting mixed skeet,Shooting,Shooting,SHO,single_disc
+Canoeing,"canoeing men's canadian singles, slalom",Canoeing,Slalom,CSL,keyword
+Taekwondo,taekwondo women's welterweight,Taekwondo,Taekwondo,TKW,single_disc
+Athletics,athletics women's 80 metres hurdles,Athletics,Athletics,ATH,single_disc
+Figure Skating,figure skating men's singles,,EXCLUDED,,excluded
+Wrestling,"wrestling men's flyweight, greco-roman",Wrestling,Greco-Roman,WRG,keyword
+Canoeing,"canoeing men's kayak singles, 200 metres",Canoeing,Sprint,CSP,default
+Equestrian,jumping team,Equestrian,Jumping,EJP,keyword
+Equestrian,jumping individual,Equestrian,Jumping,EJP,keyword
+Hockey,women team,Field hockey,Field hockey,HOC,single_disc
+Football,men team,Football,Football,FBL,single_disc
+Rugby Sevens,men team,Rugby,Sevens,RU7,sub_sport
+Athletics,men's marathon,Athletics,Athletics,ATH,single_disc
+Boxing,men's welter (63-69kg),Boxing,Boxing,BOX,single_disc
+Beach Volleyball,men team,Volleyball,Beach,VBV,sub_sport
+Tennis,men's doubles team,Tennis,Tennis,TEN,single_disc
+Handball,men team,Handball,Indoor,HBL,default
+Swimming,women's 400m individual medley,Aquatics,Swimming,SWM,sub_sport
+Triathlon,women's individual,Triathlon,Triathlon,TRI,single_disc
+Basketball,men team,Basketball,Basketball,BKB,default
+Sailing,women's skiff - 49er team,Sailing,Sailing,SAL,single_disc
+Hockey,men team,Field hockey,Field hockey,HOC,single_disc
+Volleyball,women team,Volleyball,Indoor,VVO,default
+Sailing,mixed multihull - nacra 17 foiling team,Sailing,Sailing,SAL,single_disc
+Athletics,men's pole vault,Athletics,Athletics,ATH,single_disc
+Volleyball,men team,Volleyball,Indoor,VVO,default
+Boxing,men's feather (52-57kg),Boxing,Boxing,BOX,single_disc
+Shooting,50m rifle 3 positions men,Shooting,Shooting,SHO,single_disc
+Shooting,10m air rifle mixed team,Shooting,Shooting,SHO,single_disc
+Beach Volleyball,women team,Volleyball,Beach,VBV,sub_sport
+Shooting,skeet men,Shooting,Shooting,SHO,single_disc
+Shooting,skeet women,Shooting,Shooting,SHO,single_disc
+Athletics,women's marathon,Athletics,Athletics,ATH,single_disc
+Cycling Mountain Bike,women's cross-country,Cycling,Mountain Bike,MTB,sub_sport
+Sailing,men's one person dinghy - laser,Sailing,Sailing,SAL,single_disc
+Sailing,women's two person dinghy - 470 team,Sailing,Sailing,SAL,single_disc
+Rowing,lightweight women's double sculls team,Rowing,Rowing,ROW,default
+Sailing,men's one person dinghy (heavyweight) - finn,Sailing,Sailing,SAL,single_disc
+Judo,women -48 kg,Judo,Judo,JUD,single_disc
+Swimming,women's 800m freestyle,Aquatics,Swimming,SWM,sub_sport
+Swimming,women's 1500m freestyle,Aquatics,Swimming,SWM,sub_sport
+Tennis,mixed doubles team,Tennis,Tennis,TEN,single_disc
+Canoe Sprint,men's kayak single 200m,Canoeing,Sprint,CSP,sub_sport
+Canoe Slalom,men's kayak,Canoeing,Slalom,CSL,sub_sport
+Golf,women's individual stroke play,Golf,Golf,GLF,single_disc
+Cycling BMX Racing,men,Cycling,BMX Racing,BMX,sub_sport
+Surfing,men,Surfing,Surfing,SRF,single_disc
+Modern Pentathlon,men's individual,Modern Pentathlon,,MPN,single_disc
+Swimming,women's 400m freestyle,Aquatics,Swimming,SWM,sub_sport
+Swimming,men's 100m backstroke,Aquatics,Swimming,SWM,sub_sport
+Athletics,men's hammer throw,Athletics,Athletics,ATH,single_disc
+Athletics,men's 400m,Athletics,Athletics,ATH,single_disc
+Athletics,men's shot put,Athletics,Athletics,ATH,single_disc
+Sailing,mixed multihull,Sailing,Sailing,SAL,single_disc
+Sailing,women's windsurfing,Sailing,Sailing,SAL,single_disc
+Sailing,women's kite,Sailing,Sailing,SAL,single_disc
+Hockey,women,Field hockey,Field hockey,HOC,single_disc
+Hockey,men,Field hockey,Field hockey,HOC,single_disc
+Golf,men's individual stroke play,Golf,Golf,GLF,single_disc
+Handball,men,Handball,Indoor,HBL,default
+Rugby Sevens,men,Rugby,Sevens,RU7,sub_sport
+Skateboarding,men's street,Skateboarding,Skateboarding,SKB,single_disc
+Judo,women -52 kg,Judo,Judo,JUD,single_disc
+Sailing,women's dinghy,Sailing,Sailing,SAL,single_disc
+Rowing,lightweight women's double sculls,Rowing,Rowing,ROW,default
+Rowing,lightweight men's double sculls,Rowing,Rowing,ROW,default
+Volleyball,men,Volleyball,Indoor,VVO,default
+Archery,men's individual,Archery,Archery,ARC,single_disc
+Cycling BMX Freestyle,men's park,Cycling,BMX Freestyle,BMF,sub_sport
+Football,men,Football,Football,FBL,single_disc
+Weightlifting,weightlifting women's light-heavyweight,Weightlifting,Weightlifting,WLF,single_disc
+Diving,diving men's platform,Aquatics,Diving,DIV,sub_sport
+Artistic Gymnastics,men's vault,Gymnastics,Artistic,GAR,sub_sport
+Weightlifting,men's 109kg,Weightlifting,Weightlifting,WLF,single_disc
+Weightlifting,women's 59kg,Weightlifting,Weightlifting,WLF,single_disc
+Weightlifting,men's 89kg,Weightlifting,Weightlifting,WLF,single_disc
+Swimming,women's 100m butterfly,Aquatics,Swimming,SWM,sub_sport
+Artistic Gymnastics,men,Gymnastics,Artistic,GAR,sub_sport
+Artistic Gymnastics,men's rings,Gymnastics,Artistic,GAR,sub_sport
+Swimming,men's 200m freestyle,Aquatics,Swimming,SWM,sub_sport
+Cycling BMX Racing,women,Cycling,BMX Racing,BMX,sub_sport
+Swimming,swimming men's 4 x 100 metres freestyle relay,Aquatics,Swimming,SWM,sub_sport
+Archery,archery women's individual,Archery,Archery,ARC,single_disc
+Rowing,rowing women's coxed eights,Rowing,Rowing,ROW,default
+Sailing,sailing mixed two person heavyweight dinghy,Sailing,Sailing,SAL,single_disc
+Gymnastics,gymnastics women's team all-around,Gymnastics,Artistic,GAR,default
+Softball,softball women's softball,Baseball and Softball,Softball,SBL,sub_sport
+Synchronized Swimming,synchronized swimming women's team,Aquatics,Artistic Swimming,SWA,sub_sport
+Shooting,"shooting men's running target, single and double shot",Shooting,Shooting,SHO,single_disc
+Baseball,baseball men's baseball,Baseball and Softball,Baseball,BSB,sub_sport
+Cycling,cycling women's team pursuit,Cycling,Track,CTR,keyword
+Water Polo,water polo women's water polo,Aquatics,Water Polo,WPO,sub_sport
+Sailing,sailing mixed skiff,Sailing,Sailing,SAL,single_disc
+Canoeing,"canoeing men's kayak singles, 10,000 metres",Canoeing,Sprint,CSP,default
+Shooting,shooting women's trap,Shooting,Shooting,SHO,single_disc
+Shooting,shooting women's double trap,Shooting,Shooting,SHO,single_disc
+Badminton,badminton mixed doubles,Badminton,Badminton,BDM,single_disc
+Badminton,badminton men's doubles,Badminton,Badminton,BDM,single_disc
+Archery,archery men's team,Archery,Archery,ARC,single_disc
+Diving,diving men's synchronized springboard,Aquatics,Diving,DIV,sub_sport
+Cycling,"cycling women's individual pursuit, 3,000 metres",Cycling,Track,CTR,keyword
+Cycling,cycling women's points race,Cycling,Track,CTR,keyword
+Cycling,"cycling women's road race, individual",Cycling,Road,CRD,keyword
+Cycling,cycling men's keirin,Cycling,Track,CTR,keyword
+Cycling,cycling men's team sprint,Cycling,Track,CTR,keyword
+Sailing,sailing men's two person keelboat,Sailing,Sailing,SAL,single_disc
+Diving,diving women's plain high,Aquatics,Diving,DIV,sub_sport
+Swimming,swimming women's 300 metres freestyle,Aquatics,Swimming,SWM,sub_sport
+Rugby Sevens,rugby sevens women's rugby sevens,Rugby,Sevens,RU7,sub_sport
+Canoeing,"canoeing men's canadian doubles, slalom",Canoeing,Slalom,CSL,keyword
+Equestrianism,"equestrianism mixed dressage, team",Equestrian,Dressage,EDR,keyword
+Rhythmic Gymnastics,rhythmic gymnastics women's individual,Gymnastics,Rhythmic,GRY,sub_sport
+Athletics,athletics women's 10 kilometres walk,Athletics,Athletics,ATH,single_disc
+Rowing,rowing women's quadruple sculls,Rowing,Rowing,ROW,default
+Rowing,rowing women's coxed fours,Rowing,Rowing,ROW,default
+Archery,archery women's team,Archery,Archery,ARC,single_disc
+Canoeing,"canoeing men's kayak doubles, 10,000 metres",Canoeing,Sprint,CSP,default
+Diving,diving women's synchronized platform,Aquatics,Diving,DIV,sub_sport
+Taekwondo,taekwondo women's featherweight,Taekwondo,Taekwondo,TKW,single_disc
+Badminton,badminton women's singles,Badminton,Badminton,BDM,single_disc
+Badminton,badminton women's doubles,Badminton,Badminton,BDM,single_disc
+Diving,diving women's synchronized springboard,Aquatics,Diving,DIV,sub_sport
+Canoeing,canoeing men's kayak relay 4 x 500 metres,Canoeing,Sprint,CSP,default
+Sailing,sailing women's three person keelboat,Sailing,Sailing,SAL,single_disc
+Trampolining,trampolining women's individual,Gymnastics,Trampoline,GTR,sub_sport
+Table Tennis,table tennis men's team,Table Tennis,Table Tennis,TTE,single_disc
+Rowing,rowing women's coxless fours,Rowing,Rowing,ROW,default
+Athletics,athletics men's pentathlon,Athletics,Athletics,ATH,single_disc
+Cycling,cycling women's omnium,Cycling,Track,CTR,keyword
+Diving,diving men's plain high,Aquatics,Diving,DIV,sub_sport
+Cycling,cycling women's sprint,Cycling,Track,CTR,keyword
+Cycling,cycling women's 500 metres time trial,Cycling,Track,CTR,keyword
+Boxing,boxing women's middleweight,Boxing,Boxing,BOX,single_disc
+Athletics,athletics women's pentathlon,Athletics,Athletics,ATH,single_disc
+Swimming,swimming men's 220 yard freestyle,Aquatics,Swimming,SWM,sub_sport
+Swimming,swimming men's 440 yard freestyle,Aquatics,Swimming,SWM,sub_sport
+Swimming,swimming men's 880 yard freestyle,Aquatics,Swimming,SWM,sub_sport
+Swimming,swimming men's one mile freestyle,Aquatics,Swimming,SWM,sub_sport
+Cycling,cycling women's individual time trial,Cycling,Road,CRD,keyword
+Shooting,"shooting men's running target, 10 metres",Shooting,Shooting,SHO,single_disc
+Canoeing,"canoeing men's canadian singles, 10,000 metres",Canoeing,Sprint,CSP,default
+Weightlifting,weightlifting men's flyweight,Weightlifting,Weightlifting,WLF,single_disc
+Diving,diving men's synchronized platform,Aquatics,Diving,DIV,sub_sport
+Canoeing,"canoeing men's canadian doubles, 10,000 metres",Canoeing,Sprint,CSP,default
+Swimming,swimming men's 200 metres obstacle course,Aquatics,Swimming,SWM,sub_sport
+Table Tennis,table tennis women's team,Table Tennis,Table Tennis,TTE,single_disc
+Golf,golf women's individual,Golf,Golf,GLF,single_disc
+Taekwondo,taekwondo women's heavyweight,Taekwondo,Taekwondo,TKW,single_disc
+Cycling,cycling women's team sprint,Cycling,Track,CTR,keyword
+Cycling,cycling women's keirin,Cycling,Track,CTR,keyword
+Athletics,"athletics men's 3,000 metres walk",Athletics,Athletics,ATH,single_disc
+Art Competitions,"art competitions mixed painting, unknown event",,EXCLUDED,,excluded
+Art Competitions,art competitions mixed music,,EXCLUDED,,excluded
+Athletics,athletics men's 60 metres,Athletics,Athletics,ATH,single_disc
+Athletics,"athletics men's 5,000 metres, team",Athletics,Athletics,ATH,single_disc
+Taekwondo,taekwondo men's heavyweight,Taekwondo,Taekwondo,TKW,single_disc
+Boxing,boxing women's lightweight,Boxing,Boxing,BOX,single_disc
+Shooting,"shooting men's running target, 50 metres",Shooting,Shooting,SHO,single_disc
+Rhythmic Gymnastics,group all-around team,Gymnastics,Rhythmic,GRY,sub_sport
+Rowing,women's eight team,Rowing,Rowing,ROW,default
+Basketball,women team,Basketball,Basketball,BKB,default
+Weightlifting,women's +87kg,Weightlifting,Weightlifting,WLF,single_disc
+Water Polo,women team,Aquatics,Water Polo,WPO,sub_sport
+Cycling Track,women's team pursuit team,Cycling,Track,CTR,sub_sport
+Rowing,men's quadruple sculls team,Rowing,Rowing,ROW,default
+Football,women team,Football,Football,FBL,single_disc
+Rugby Sevens,women team,Rugby,Sevens,RU7,sub_sport
+Shooting,10m air pistol mixed team,Shooting,Shooting,SHO,single_disc
+Cycling Track,women's omnium,Cycling,Track,CTR,sub_sport
+Cycling Track,women's madison team,Cycling,Track,CTR,sub_sport
+Athletics,women's javelin throw,Athletics,Athletics,ATH,single_disc
+Archery,men's team,Archery,Archery,ARC,single_disc
+Tennis,women's doubles team,Tennis,Tennis,TEN,single_disc
+Rowing,women's double sculls team,Rowing,Rowing,ROW,default
+Athletics,women's 5000m,Athletics,Athletics,ATH,single_disc
+Athletics,women's 4 x 400m relay team,Athletics,Athletics,ATH,single_disc
+Triathlon,men's individual,Triathlon,Triathlon,TRI,single_disc
+Triathlon,mixed relay team,Triathlon,Triathlon,TRI,single_disc
+Athletics,women's 800m,Athletics,Athletics,ATH,single_disc
+Rowing,men's eight team,Rowing,Rowing,ROW,default
+Canoe Sprint,women's kayak double 500m team,Canoeing,Sprint,CSP,sub_sport
+Canoe Sprint,women's kayak four 500m team,Canoeing,Sprint,CSP,sub_sport
+Table Tennis,women's team,Table Tennis,Table Tennis,TTE,single_disc
+Artistic Swimming,team,Aquatics,Artistic Swimming,SWA,sub_sport
+Artistic Gymnastics,men's parallel bars,Gymnastics,Artistic,GAR,sub_sport
+Artistic Gymnastics,men's horizontal bar,Gymnastics,Artistic,GAR,sub_sport
+Canoe Sprint,women's canoe double 500m team,Canoeing,Sprint,CSP,sub_sport
+Swimming,women's 4 x 100m freestyle relay team,Aquatics,Swimming,SWM,sub_sport
+Swimming,mixed 4 x 100m medley relay team,Aquatics,Swimming,SWM,sub_sport
+Swimming,women's 4 x 100m medley relay team,Aquatics,Swimming,SWM,sub_sport
+Water Polo,men team,Aquatics,Water Polo,WPO,sub_sport
+Modern Pentathlon,women's individual,Modern Pentathlon,,MPN,single_disc
+Swimming,men's 4 x 100m freestyle relay team,Aquatics,Swimming,SWM,sub_sport
+Swimming,men's 4 x 200m freestyle relay team,Aquatics,Swimming,SWM,sub_sport
+Swimming,men's 4 x 100m medley relay team,Aquatics,Swimming,SWM,sub_sport
+Badminton,women's singles,Badminton,Badminton,BDM,single_disc
+Athletics,women's 100m hurdles,Athletics,Athletics,ATH,single_disc
+Swimming,women's 4 x 200m freestyle relay team,Aquatics,Swimming,SWM,sub_sport
+Judo,women -70 kg,Judo,Judo,JUD,single_disc
+Athletics,men's 50km race walk,Athletics,Athletics,ATH,single_disc
+Baseball/Softball,softball team,Baseball and Softball,Softball,SBL,keyword
+Rowing,women's quadruple sculls team,Rowing,Rowing,ROW,default
+Athletics,women's 200m,Athletics,Athletics,ATH,single_disc
+Cycling BMX Freestyle,women's park,Cycling,BMX Freestyle,BMF,sub_sport
+Athletics,men's decathlon,Athletics,Athletics,ATH,single_disc
+Athletics,men's 1500m,Athletics,Athletics,ATH,single_disc
+Marathon Swimming,men's 10km,Aquatics,Marathon Swimming,OWS,sub_sport
+Weightlifting,women's 64kg,Weightlifting,Weightlifting,WLF,single_disc
+Shooting,25m rapid fire pistol men,Shooting,Shooting,SHO,single_disc
+Surfing,women,Surfing,Surfing,SRF,single_disc
+Canoe Sprint,men's kayak double 1000m team,Canoeing,Sprint,CSP,sub_sport
+Canoe Sprint,men's kayak four 500m team,Canoeing,Sprint,CSP,sub_sport
+Diving,men's 10m platform,Aquatics,Diving,DIV,sub_sport
+Cycling Track,men's team sprint team,Cycling,Track,CTR,sub_sport
+Cycling Track,men's keirin,Cycling,Track,CTR,sub_sport
+Shooting,trap men,Shooting,Shooting,SHO,single_disc
+Shooting,trap mixed team,Shooting,Shooting,SHO,single_disc
+Athletics,women's 1500m,Athletics,Athletics,ATH,single_disc
+Diving,women's 10m platform,Aquatics,Diving,DIV,sub_sport
+Equestrian,dressage individual,Equestrian,Dressage,EDR,keyword
+Equestrian,dressage team,Equestrian,Dressage,EDR,keyword
+Rowing,men's pair team,Rowing,Rowing,ROW,default
+Rowing,men's four team,Rowing,Rowing,ROW,default
+Cycling Track,men's sprint,Cycling,Track,CTR,sub_sport
+Athletics,women's 20km race walk,Athletics,Athletics,ATH,single_disc
+Swimming,men's 200m backstroke,Aquatics,Swimming,SWM,sub_sport
+Cycling Track,men's team pursuit team,Cycling,Track,CTR,sub_sport
+Cycling Track,men's madison team,Cycling,Track,CTR,sub_sport
+Equestrian,eventing team,Equestrian,Eventing,EVE,keyword
+Equestrian,eventing individual,Equestrian,Eventing,EVE,keyword
+Table Tennis,mixed doubles team,Table Tennis,Table Tennis,TTE,single_disc
+Table Tennis,men's team,Table Tennis,Table Tennis,TTE,single_disc
+Taekwondo,women -57kg,Taekwondo,Taekwondo,TKW,single_disc
+Rhythmic Gymnastics,individual all-around,Gymnastics,Rhythmic,GRY,sub_sport
+Archery,women's individual,Archery,Archery,ARC,single_disc
+Archery,mixed team,Archery,Archery,ARC,single_disc
+Athletics,women's pole vault,Athletics,Athletics,ATH,single_disc
+Swimming,men's 400m individual medley,Aquatics,Swimming,SWM,sub_sport
+Badminton,mixed doubles team,Badminton,Badminton,BDM,single_disc
+Diving,men's 3m springboard,Aquatics,Diving,DIV,sub_sport
+Sport Climbing,women's combined,Sport Climbing,Sport Climbing,CLB,single_disc
+Cycling Track,women's madison,Cycling,Track,CTR,sub_sport
+Badminton,women's doubles team,Badminton,Badminton,BDM,single_disc
+Taekwondo,men -80kg,Taekwondo,Taekwondo,TKW,single_disc
+Cycling Mountain Bike,men's cross-country,Cycling,Mountain Bike,MTB,sub_sport
+Cycling Track,women's sprint,Cycling,Track,CTR,sub_sport
+Cycling Track,women's keirin,Cycling,Track,CTR,sub_sport
+Athletics,women's high jump,Athletics,Athletics,ATH,single_disc
+Athletics,men's 5000m,Athletics,Athletics,ATH,single_disc
+Rowing,women's pair team,Rowing,Rowing,ROW,default
+Rowing,women's four team,Rowing,Rowing,ROW,default
+Swimming,men's 400m freestyle,Aquatics,Swimming,SWM,sub_sport
+Swimming,men's 800m freestyle,Aquatics,Swimming,SWM,sub_sport
+Swimming,men's 1500m freestyle,Aquatics,Swimming,SWM,sub_sport
+Swimming,men's 200m butterfly,Aquatics,Swimming,SWM,sub_sport
+Boxing,women's feather (54-57kg),Boxing,Boxing,BOX,single_disc
+Athletics,women's 400m,Athletics,Athletics,ATH,single_disc
+Cycling Track,men's omnium,Cycling,Track,CTR,sub_sport
+Sport Climbing,men's combined,Sport Climbing,Sport Climbing,CLB,single_disc
+Skateboarding,women's park,Skateboarding,Skateboarding,SKB,single_disc
+Skateboarding,men's park,Skateboarding,Skateboarding,SKB,single_disc
+Sailing,men's skiff - 49er team,Sailing,Sailing,SAL,single_disc
+Diving,women's 3m springboard,Aquatics,Diving,DIV,sub_sport
+Artistic Swimming,duet team,Aquatics,Artistic Swimming,SWA,sub_sport
+Shooting,trap women,Shooting,Shooting,SHO,single_disc
+Athletics,men's high jump,Athletics,Athletics,ATH,single_disc
+Athletics,women's discus throw,Athletics,Athletics,ATH,single_disc
+Taekwondo,women +67kg,Taekwondo,Taekwondo,TKW,single_disc
+Athletics,women's long jump,Athletics,Athletics,ATH,single_disc
+Swimming,men's 200m breaststroke,Aquatics,Swimming,SWM,sub_sport
+Athletics,men's 20km race walk,Athletics,Athletics,ATH,single_disc
+Athletics,"men's 10,000m",Athletics,Athletics,ATH,single_disc
+Canoe Slalom,men's canoe,Canoeing,Slalom,CSL,sub_sport
+Skateboarding,women's street,Skateboarding,Skateboarding,SKB,single_disc
+Karate,men's kumite -75kg,Karate,Karate,KTE,single_disc
+Sport Climbing,men's boulder & lead,Sport Climbing,Sport Climbing,CLB,single_disc
+Sport Climbing,women's boulder & lead,Sport Climbing,Sport Climbing,CLB,single_disc
+Badminton,women's doubles,Badminton,Badminton,BDM,single_disc
+Athletics,marathon race walk relay mixed,Athletics,Athletics,ATH,single_disc
+Athletics,women's 4 x 100m relay,Athletics,Athletics,ATH,single_disc
+Athletics,men's 200m,Athletics,Athletics,ATH,single_disc
+Athletics,men's 4 x 100m relay,Athletics,Athletics,ATH,single_disc
+Athletics,men's javelin throw,Athletics,Athletics,ATH,single_disc
+Athletics,women's heptathlon,Athletics,Athletics,ATH,single_disc
+Athletics,"women's 10,000m",Athletics,Athletics,ATH,single_disc
+Basketball,women,Basketball,Basketball,BKB,default
+3x3 Basketball,women,Basketball,3x3,BK3,sub_sport
+"3x3 Basketball, Basketball",women,Basketball,3x3,BK3,sub_sport
+Basketball,men,Basketball,Basketball,BKB,default
+Breaking,b-boys,Breaking,Breaking,BKG,single_disc
+Breaking,b-girls,Breaking,Breaking,BKG,single_disc
+Boxing,women's 75kg,Boxing,Boxing,BOX,single_disc
+Boxing,men's 80kg,Boxing,Boxing,BOX,single_disc
+Boxing,men's 57kg,Boxing,Boxing,BOX,single_disc
+Boxing,men's 71kg,Boxing,Boxing,BOX,single_disc
+Boxing,women's 54kg,Boxing,Boxing,BOX,single_disc
+Boxing,women's 57kg,Boxing,Boxing,BOX,single_disc
+Boxing,men's 51kg,Boxing,Boxing,BOX,single_disc
+Canoe Slalom,men's kayak single,Canoeing,Slalom,CSL,sub_sport
+Canoe Slalom,men's kayak cross,Canoeing,Slalom,CSL,sub_sport
+Canoe Slalom,men's canoe single,Canoeing,Slalom,CSL,sub_sport
+Canoe Sprint,women's kayak four 500m,Canoeing,Sprint,CSP,sub_sport
+Canoe Sprint,women's kayak double 500m,Canoeing,Sprint,CSP,sub_sport
+Canoe Sprint,men's kayak four 500m,Canoeing,Sprint,CSP,sub_sport
+Canoe Sprint,men's kayak double 500m,Canoeing,Sprint,CSP,sub_sport
+Cycling Track,women's team pursuit,Cycling,Track,CTR,sub_sport
+Cycling Track,men's team pursuit,Cycling,Track,CTR,sub_sport
+Cycling Track,men's madison,Cycling,Track,CTR,sub_sport
+Cycling Track,men's team sprint,Cycling,Track,CTR,sub_sport
+Diving,women's synchronised 3m springboard,Aquatics,Diving,DIV,sub_sport
+Diving,men's synchronised 10m platform,Aquatics,Diving,DIV,sub_sport
+Football,women,Football,Football,FBL,single_disc
+Artistic Gymnastics,women's team,Gymnastics,Artistic,GAR,sub_sport
+Artistic Gymnastics,men's all-around,Gymnastics,Artistic,GAR,sub_sport
+Artistic Gymnastics,men's floor exercise,Gymnastics,Artistic,GAR,sub_sport
+Rhythmic Gymnastics,group all-around,Gymnastics,Rhythmic,GRY,sub_sport
+Judo,men -60 kg,Judo,Judo,JUD,single_disc
+"Marathon Swimming, Swimming",women's 10km,Aquatics,Marathon Swimming,OWS,sub_sport
+"Marathon Swimming, Swimming",women's 1500m freestyle,Aquatics,Marathon Swimming,OWS,sub_sport
+Rowing,men's four,Rowing,Rowing,ROW,default
+Rowing,men's eight,Rowing,Rowing,ROW,default
+Rowing,women's double sculls,Rowing,Rowing,ROW,default
+Rowing,women's pair,Rowing,Rowing,ROW,default
+Rowing,women's eight,Rowing,Rowing,ROW,default
+Rowing,women's quadruple sculls,Rowing,Rowing,ROW,default
+Rowing,women's four,Rowing,Rowing,ROW,default
+Rowing,men's pair,Rowing,Rowing,ROW,default
+Rugby Sevens,women,Rugby,Sevens,RU7,sub_sport
+Sailing,women's skiff,Sailing,Sailing,SAL,single_disc
+Sailing,men's skiff,Sailing,Sailing,SAL,single_disc
+Swimming,women's 4 x 100m medley relay,Aquatics,Swimming,SWM,sub_sport
+Swimming,women's 4 x 200m freestyle relay,Aquatics,Swimming,SWM,sub_sport
+Swimming,men's 4 x 100m medley relay,Aquatics,Swimming,SWM,sub_sport
+Swimming,relay only athlete,Aquatics,Swimming,SWM,sub_sport
+Swimming,women's 4 x 100m freestyle relay,Aquatics,Swimming,SWM,sub_sport
+Swimming,men's 4 x 200m freestyle relay,Aquatics,Swimming,SWM,sub_sport
+Swimming,women's 200m individual medley,Aquatics,Swimming,SWM,sub_sport
+Swimming,mixed 4 x 100m medley relay,Aquatics,Swimming,SWM,sub_sport
+Swimming,men's 4 x 100m freestyle relay,Aquatics,Swimming,SWM,sub_sport
+Table Tennis,mixed doubles,Table Tennis,Table Tennis,TTE,single_disc
+Beach Volleyball,men,Volleyball,Beach,VBV,sub_sport
+Beach Volleyball,women,Volleyball,Beach,VBV,sub_sport
+Weightlifting,women's 81kg,Weightlifting,Weightlifting,WLF,single_disc
+Water Polo,women,Aquatics,Water Polo,WPO,sub_sport
+Water Polo,men,Aquatics,Water Polo,WPO,sub_sport
+Artistic Swimming,duet,Aquatics,Artistic Swimming,SWA,sub_sport
+Shooting,skeet mixed team,Shooting,Shooting,SHO,single_disc
+Swimming,"swimming men's 4,000 metres freestyle",Aquatics,Swimming,SWM,sub_sport
+Swimming,swimming men's underwater swimming,Aquatics,Swimming,SWM,sub_sport
+Art Competitions,"art competitions mixed architecture, unknown event",,EXCLUDED,,excluded
+Wrestling,"wrestling men's middleweight b, greco-roman",Wrestling,Greco-Roman,WRG,keyword
+Shooting,"shooting men's trap, team",Shooting,Shooting,SHO,single_disc
+Art Competitions,"art competitions mixed sculpturing, statues",,EXCLUDED,,excluded
+Shooting,"shooting men's dueling pistol, 30 metres",Shooting,Shooting,SHO,single_disc
+Art Competitions,"art competitions mixed sculpturing, unknown event",,EXCLUDED,,excluded
+Art Competitions,"art competitions mixed painting, paintings",,EXCLUDED,,excluded
+Art Competitions,"art competitions mixed literature, epic works",,EXCLUDED,,excluded
+Art Competitions,"art competitions mixed painting, drawings and water colors",,EXCLUDED,,excluded
+Rowing,"rowing men's coxed fours, outriggers",Rowing,Rowing,ROW,default
+Equestrianism,equestrianism mixed four-in-hand competition,Equestrian,Jumping,EJP,default
+Canoeing,"canoeing men's folding kayak doubles, 10 kilometres",Canoeing,Sprint,CSP,default
+Shooting,"shooting men's military rifle, three positions, 300 metres",Shooting,Shooting,SHO,single_disc
+Shooting,"shooting men's military rifle, any position, 600 metres",Shooting,Shooting,SHO,single_disc
+Shooting,"shooting men's running target, single shot",Shooting,Shooting,SHO,single_disc
+Shooting,"shooting men's running target, single shot, team",Shooting,Shooting,SHO,single_disc
+Shooting,"shooting men's running target, double shot",Shooting,Shooting,SHO,single_disc
+Art Competitions,"art competitions mixed music, unknown event",,EXCLUDED,,excluded
+Gymnastics,gymnastics women's team portable apparatus,Gymnastics,Artistic,GAR,default
+Wrestling,"wrestling women's heavyweight, freestyle",Wrestling,Freestyle,WRF,keyword
+Art Competitions,"art competitions mixed sculpturing, medals and reliefs",,EXCLUDED,,excluded
+Art Competitions,"art competitions mixed sculpturing, medals and plaques",,EXCLUDED,,excluded
+Art Competitions,"art competitions mixed architecture, architectural designs",,EXCLUDED,,excluded
+Art Competitions,"art competitions mixed architecture, designs for town planning",,EXCLUDED,,excluded
+Art Competitions,"art competitions mixed painting, applied arts",,EXCLUDED,,excluded
+Canoeing,"canoeing men's folding kayak singles, 10 kilometres",Canoeing,Sprint,CSP,default
+Art Competitions,"art competitions mixed literature, lyric works",,EXCLUDED,,excluded
+Wrestling,"wrestling men's middleweight a, greco-roman",Wrestling,Greco-Roman,WRG,keyword
+Art Competitions,"art competitions mixed painting, graphic arts",,EXCLUDED,,excluded
+Gymnastics,"gymnastics men's individual all-around, field sports",Gymnastics,Artistic,GAR,default
+Gymnastics,"gymnastics men's individual all-around, apparatus work",Gymnastics,Artistic,GAR,default
+Art Competitions,"art competitions mixed literature, unknown event",,EXCLUDED,,excluded
+Equestrianism,equestrianism mixed hacks and hunter combined,Equestrian,Jumping,EJP,default
+Equestrianism,equestrianism mixed long jump,Equestrian,Jumping,EJP,default
+Equestrianism,equestrianism mixed high jump,Equestrian,Jumping,EJP,default
+Fencing,"fencing men's sabre, masters, individual",Fencing,Fencing,FEN,single_disc
+Swimming,swimming men's 500 metres freestyle,Aquatics,Swimming,SWM,sub_sport
+Swimming,"swimming men's 1,200 metres freestyle",Aquatics,Swimming,SWM,sub_sport
+Athletics,"athletics men's cross-country, individual",Athletics,Athletics,ATH,single_disc
+Athletics,"athletics men's discus throw, both hands",Athletics,Athletics,ATH,single_disc
+Cycling,cycling men's 333 metres time trial,Cycling,Track,CTR,keyword
+Cycling,"cycling men's 10,000 metres",Cycling,Track,CTR,keyword
+Cycling,cycling men's 100 kilometres,Cycling,Track,CTR,default
+Cycling,cycling men's 12-hours race,Cycling,Track,CTR,keyword
+Swimming,"swimming men's 1,000 metres freestyle",Aquatics,Swimming,SWM,sub_sport
+Athletics,"athletics men's 2,500 metres steeplechase",Athletics,Athletics,ATH,single_disc
+Judo,women -78 kg,Judo,Judo,JUD,single_disc
+Karate,women's kumite -55kg,Karate,Karate,KTE,single_disc
+Badminton,men's singles,Badminton,Badminton,BDM,single_disc
+"Marathon Swimming, Swimming",men's 10km,Aquatics,Marathon Swimming,OWS,sub_sport
+"Marathon Swimming, Swimming",men's 200m freestyle,Aquatics,Marathon Swimming,OWS,sub_sport
+"Marathon Swimming, Swimming",men's 400m freestyle,Aquatics,Marathon Swimming,OWS,sub_sport
+"Marathon Swimming, Swimming",men's 800m freestyle,Aquatics,Marathon Swimming,OWS,sub_sport
+Judo,mixed team,Judo,Judo,JUD,single_disc
+Judo,men -100 kg,Judo,Judo,JUD,single_disc
+Rhythmic Gymnastics,rhythmic gymnastics women's group,Gymnastics,Rhythmic,GRY,sub_sport
+Wrestling,"wrestling women's lightweight, freestyle",Wrestling,Freestyle,WRF,keyword
+Wrestling,"wrestling women's featherweight, freestyle",Wrestling,Freestyle,WRF,keyword
+Wrestling,"wrestling men's light-flyweight, greco-roman",Wrestling,Greco-Roman,WRG,keyword
+Wrestling,"wrestling women's middleweight, freestyle",Wrestling,Freestyle,WRF,keyword
+Taekwondo,women -67kg,Taekwondo,Taekwondo,TKW,single_disc
+Karate,men's kumite -67kg,Karate,Karate,KTE,single_disc
+Wrestling,women's freestyle 68kg,Wrestling,Freestyle,WRF,keyword
+Judo,men -90 kg,Judo,Judo,JUD,single_disc
+Wrestling,men's greco-roman 130kg,Wrestling,Greco-Roman,WRG,keyword
+Boxing,men's 92kg,Boxing,Boxing,BOX,single_disc
+Athletics,4 x 400m relay mixed,Athletics,Athletics,ATH,single_disc
+Athletics,women's triple jump,Athletics,Athletics,ATH,single_disc
+Shooting,"shooting men's free pistol, 50 metres, team",Shooting,Shooting,SHO,single_disc
+Shooting,"shooting men's free rifle, three positions, 300 metres, team",Shooting,Shooting,SHO,single_disc
+Shooting,"shooting men's military rifle, prone, 300 metres, team",Shooting,Shooting,SHO,single_disc
+Shooting,"shooting men's military rifle, prone, 600 metres, team",Shooting,Shooting,SHO,single_disc
+Shooting,"shooting men's military rifle, standing, 300 metres, team",Shooting,Shooting,SHO,single_disc
+Shooting,"shooting men's military rifle, 300 metres and 600 metres, prone, team",Shooting,Shooting,SHO,single_disc
+Shooting,"shooting men's free rifle, prone, 600 metres",Shooting,Shooting,SHO,single_disc
+Shooting,"shooting men's free rifle, 400, 600 and 800 metres, team",Shooting,Shooting,SHO,single_disc
+Archery,"archery men's target archery, 28 metres, team",Archery,Archery,ARC,single_disc
+Archery,"archery men's target archery, 33 metres, team",Archery,Archery,ARC,single_disc
+Archery,"archery men's target archery, 50 metres, team",Archery,Archery,ARC,single_disc
+Shooting,"shooting men's small-bore rifle, standing, 50 metres",Shooting,Shooting,SHO,single_disc
+Shooting,"shooting men's small bore-rifle, standing, 50 metres, team",Shooting,Shooting,SHO,single_disc
+Shooting,"shooting men's military pistol, team",Shooting,Shooting,SHO,single_disc
+Gymnastics,"gymnastics men's team all-around, swedish system",Gymnastics,Artistic,GAR,default
+Athletics,"athletics men's 3,000 metres, team",Athletics,Athletics,ATH,single_disc
+Shooting,"shooting men's free rifle, kneeling, 300 metres",Shooting,Shooting,SHO,single_disc
+Shooting,"shooting men's free rifle, prone, 300 metres",Shooting,Shooting,SHO,single_disc
+Shooting,"shooting men's free rifle, standing, 300 metres",Shooting,Shooting,SHO,single_disc
+Art Competitions,art competitions mixed literature,,EXCLUDED,,excluded
+Equestrianism,"equestrianism men's vaulting, individual",Equestrian,Vaulting,EVL,keyword
+Equestrianism,"equestrianism men's vaulting, team",Equestrian,Vaulting,EVL,keyword
+Tug-Of-War,tug-of-war men's tug-of-war,Tug of War,Tug of War,TOW,single_disc
+Archery,"archery men's pole archery, small birds, individual",Archery,Archery,ARC,single_disc
+Archery,"archery men's pole archery, large birds, individual",Archery,Archery,ARC,single_disc
+Archery,"archery men's pole archery, small birds, team",Archery,Archery,ARC,single_disc
+Archery,"archery men's pole archery, large birds, team",Archery,Archery,ARC,single_disc
+Cycling,"cycling men's 5,000 metres",Cycling,Track,CTR,keyword
+Cycling,cycling men's 20 kilometres,Cycling,Track,CTR,keyword
+Art Competitions,art competitions mixed sculpturing,,EXCLUDED,,excluded
+Art Competitions,art competitions mixed architecture,,EXCLUDED,,excluded
+Art Competitions,"art competitions mixed sculpturing, medals",,EXCLUDED,,excluded
+Ice Hockey,ice hockey men's ice hockey,,EXCLUDED,,excluded
+Fencing,"fencing men's foil, masters, individual",Fencing,Fencing,FEN,single_disc
+Archery,archery men's sur la perche a la herse,Archery,Archery,ARC,single_disc
+Athletics,athletics men's standing long jump,Athletics,Athletics,ATH,single_disc
+Art Competitions,art competitions mixed painting,,EXCLUDED,,excluded
+Shooting,"shooting men's free pistol, 50 yards",Shooting,Shooting,SHO,single_disc
+Shooting,"shooting men's free pistol, 50 yards, team",Shooting,Shooting,SHO,single_disc
+Archery,archery men's sur la perche a la pyramide,Archery,Archery,ARC,single_disc
+Shooting,shooting men's unknown event,Shooting,Shooting,SHO,single_disc
+Figure Skating,figure skating mixed pairs,,EXCLUDED,,excluded
+Shooting,"shooting men's military rifle, standing, 300 metres",Shooting,Shooting,SHO,single_disc
+Athletics,"athletics men's cross-country, team",Athletics,Athletics,ATH,single_disc
+Art Competitions,"art competitions mixed music, instrumental and chamber",,EXCLUDED,,excluded
+Archery,"archery men's au chapelet, 33 metres",Archery,Archery,ARC,single_disc
+Archery,"archery men's au chapelet, 50 metres",Archery,Archery,ARC,single_disc
+Archery,"archery men's au cordon dore, 33 metres",Archery,Archery,ARC,single_disc
+Archery,"archery men's au cordon dore, 50 metres",Archery,Archery,ARC,single_disc
+Archery,archery men's championnat du monde,Archery,Archery,ARC,single_disc
+Archery,"archery men's target archery, 28 metres, individual",Archery,Archery,ARC,single_disc
+Archery,"archery men's target archery, 33 metres, individual",Archery,Archery,ARC,single_disc
+Archery,"archery men's target archery, 50 metres, individual",Archery,Archery,ARC,single_disc
+Art Competitions,"art competitions mixed music, compositions for orchestra",,EXCLUDED,,excluded
+Taekwondo,men -68kg,Taekwondo,Taekwondo,TKW,single_disc
+3x3 Basketball,men team,Basketball,3x3,BK3,sub_sport
+Athletics,4 x 400m relay mixed team,Athletics,Athletics,ATH,single_disc
+Athletics,men's 4 x 400m relay team,Athletics,Athletics,ATH,single_disc
+Athletics,women's 4 x 400m relay,Athletics,Athletics,ATH,single_disc
+Weightlifting,women's 49kg,Weightlifting,Weightlifting,WLF,single_disc
+Athletics,men's 4 x 400m relay,Athletics,Athletics,ATH,single_disc
+"Cycling Road, Cycling Track",women's road race,Cycling,Road,CRD,sub_sport
+"Cycling Road, Cycling Track",women's individual time trial,Cycling,Road,CRD,sub_sport
+"Cycling Road, Cycling Track",women's omnium,Cycling,Road,CRD,sub_sport
+Fencing,men's épée individual,Fencing,Fencing,FEN,single_disc
+Canoeing,"canoeing men's canadian doubles, 500 metres",Canoeing,Sprint,CSP,default
+Athletics,women's shot put,Athletics,Athletics,ATH,single_disc
+Archery,women's team,Archery,Archery,ARC,single_disc
+Wrestling,women's freestyle 53kg,Wrestling,Freestyle,WRF,keyword
+Wrestling,women's freestyle 76kg,Wrestling,Freestyle,WRF,keyword
+Weightlifting,women's 76kg,Weightlifting,Weightlifting,WLF,single_disc
+Weightlifting,men's 96kg,Weightlifting,Weightlifting,WLF,single_disc
+Athletics,"athletics men's javelin throw, freestyle",Athletics,Athletics,ATH,single_disc
+Athletics,"athletics men's discus throw, greek style",Athletics,Athletics,ATH,single_disc
+Fencing,"fencing women's epee, team",Fencing,Fencing,FEN,single_disc
+Weightlifting,weightlifting women's flyweight,Weightlifting,Weightlifting,WLF,single_disc
+Boxing,boxing women's flyweight,Boxing,Boxing,BOX,single_disc
+Shooting,"shooting men's military pistol, 30 metres",Shooting,Shooting,SHO,single_disc
+Wrestling,"wrestling women's light-heavyweight, freestyle",Wrestling,Freestyle,WRF,keyword
+Weightlifting,women's 87kg,Weightlifting,Weightlifting,WLF,single_disc
+Athletics,women's 4 x 100m relay team,Athletics,Athletics,ATH,single_disc
+Athletics,men's 4 x 100m relay team,Athletics,Athletics,ATH,single_disc
+Artistic Gymnastics,men's team,Gymnastics,Artistic,GAR,sub_sport
+Fencing,women's épée individual,Fencing,Fencing,FEN,single_disc
+Canoe Sprint,men's canoe double 1000m team,Canoeing,Sprint,CSP,sub_sport
+Wrestling,women's freestyle 62kg,Wrestling,Freestyle,WRF,keyword
+"Marathon Swimming, Swimming",men's 4 x 200m freestyle relay,Aquatics,Marathon Swimming,OWS,sub_sport
+Volleyball,women,Volleyball,Indoor,VVO,default
+Rowing,rowing women's coxed quadruple sculls,Rowing,Rowing,ROW,default
+Weightlifting,men's 61kg,Weightlifting,Weightlifting,WLF,single_disc
+Lacrosse,lacrosse men's lacrosse,Lacrosse,Field,LAX,default
+Cycling,"cycling men's team pursuit, 1,980 yards",Cycling,Track,CTR,keyword
+Shooting,"shooting men's free rifle, 1,000 yards",Shooting,Shooting,SHO,single_disc
+Athletics,"athletics men's 1,600 metres medley relay",Athletics,Athletics,ATH,single_disc
+Fencing,"fencing women's sabre, team",Fencing,Fencing,FEN,single_disc
+Shooting,"shooting men's military rifle, 200/500/600/800/900/1,000 yards, team",Shooting,Shooting,SHO,single_disc
+Athletics,athletics men's 56-pound weight throw,Athletics,Athletics,ATH,single_disc
+Athletics,"athletics men's 3,200 metres steeplechase",Athletics,Athletics,ATH,single_disc
+Athletics,"athletics men's 4,000 metres steeplechase",Athletics,Athletics,ATH,single_disc
+Art Competitions,"art competitions mixed music, vocals",,EXCLUDED,,excluded
+Diving,women's synchronised 3m springboard team,Aquatics,Diving,DIV,sub_sport
+Diving,women's synchronised 10m platform team,Aquatics,Diving,DIV,sub_sport
+Fencing,men's foil team,Fencing,Fencing,FEN,single_disc
+Boxing,women's welter (64-69kg),Boxing,Boxing,BOX,single_disc
+Karate,men's kumite +75kg,Karate,Karate,KTE,single_disc
+Fencing,women's foil team,Fencing,Fencing,FEN,single_disc
+Badminton,men's doubles team,Badminton,Badminton,BDM,single_disc
+Weightlifting,women's 55kg,Weightlifting,Weightlifting,WLF,single_disc
+Diving,men's synchronised 10m platform team,Aquatics,Diving,DIV,sub_sport
+Taekwondo,women -49kg,Taekwondo,Taekwondo,TKW,single_disc
+Badminton,men's doubles,Badminton,Badminton,BDM,single_disc
+Diving,women's synchronised 10m platform,Aquatics,Diving,DIV,sub_sport
+Canoe Sprint,women's canoe double 500m,Canoeing,Sprint,CSP,sub_sport
+Cycling Track,women's team sprint,Cycling,Track,CTR,sub_sport
+Fencing,men's sabre team,Fencing,Fencing,FEN,single_disc
+Cycling Track,women's team sprint team,Cycling,Track,CTR,sub_sport
+Weightlifting,men's 67kg,Weightlifting,Weightlifting,WLF,single_disc
+Fencing,men's épée team,Fencing,Fencing,FEN,single_disc
+Fencing,women's épée team,Fencing,Fencing,FEN,single_disc
+Rowing,men's double sculls team,Rowing,Rowing,ROW,default
+3x3 Basketball,women team,Basketball,3x3,BK3,sub_sport
+Diving,men's synchronised 3m springboard team,Aquatics,Diving,DIV,sub_sport
+Karate,women's kumite -61kg,Karate,Karate,KTE,single_disc
+Diving,men's synchronised 3m springboard,Aquatics,Diving,DIV,sub_sport
+3x3 Basketball,men,Basketball,3x3,BK3,sub_sport
+Sport Climbing,men's speed,Sport Climbing,Sport Climbing,CLB,single_disc
+Sport Climbing,women's speed,Sport Climbing,Sport Climbing,CLB,single_disc
+Weightlifting,women's +81kg,Weightlifting,Weightlifting,WLF,single_disc
+Rowing,men's double sculls,Rowing,Rowing,ROW,default
+Fencing,"fencing men's epee, masters and amateurs, individual",Fencing,Fencing,FEN,single_disc
+Shooting,"shooting mixed free rifle, three positions, 300 metres",Shooting,Shooting,SHO,single_disc
+Gymnastics,"gymnastics men's team all-around, free system",Gymnastics,Artistic,GAR,default
+Rowing,"rowing men's coxed fours, inriggers",Rowing,Rowing,ROW,default
+Shooting,"shooting men's military rifle, prone, 300 metres",Shooting,Shooting,SHO,single_disc
+Shooting,"shooting men's military rifle, 200, 400, 500 and 600 metres, team",Shooting,Shooting,SHO,single_disc
+Tennis,"tennis mixed doubles, covered courts",Tennis,Tennis,TEN,single_disc
+Tennis,"tennis women's singles, covered courts",Tennis,Tennis,TEN,single_disc
+Shooting,"shooting men's small-bore rifle, prone, 50 metres, team",Shooting,Shooting,SHO,single_disc
+Shooting,"shooting men's small-bore rifle, any position, 50 metres",Shooting,Shooting,SHO,single_disc
+Shooting,"shooting men's small-bore rifle, disappearing target, 25 metres",Shooting,Shooting,SHO,single_disc
+Shooting,"shooting men's military rifle, prone, 600 metres",Shooting,Shooting,SHO,single_disc
+Weightlifting,"weightlifting men's unlimited, one hand",Weightlifting,Weightlifting,WLF,single_disc
+Weightlifting,"weightlifting men's unlimited, two hands",Weightlifting,Weightlifting,WLF,single_disc
+Gymnastics,gymnastics men's rope climbing,Gymnastics,Artistic,GAR,default
+Shooting,"shooting men's military rifle, 200 metres",Shooting,Shooting,SHO,single_disc
+Shooting,"shooting men's free pistol, 30 metres",Shooting,Shooting,SHO,single_disc
+Shooting,"shooting men's military pistol, 25 metres",Shooting,Shooting,SHO,single_disc
+Shooting,"shooting men's muzzle-loading pistol, 25 metres",Shooting,Shooting,SHO,single_disc
+"Cycling Road, Cycling Track",men's road race,Cycling,Road,CRD,sub_sport
+"Cycling Road, Cycling Track",men's madison,Cycling,Road,CRD,sub_sport
+"Cycling Road, Cycling Track",men's team pursuit,Cycling,Road,CRD,sub_sport
+Baseball/Softball,baseball team,Baseball and Softball,Baseball,BSB,keyword
+Karate,men's kata,Karate,Karate,KTE,single_disc
+Basque Pelota,basque pelota men's two-man teams with cesta,Basque Pelota,Basque Pelota,PEL,single_disc
+Karate,women's kata,Karate,Karate,KTE,single_disc
+"Marathon Swimming, Swimming",men's 1500m freestyle,Aquatics,Marathon Swimming,OWS,sub_sport
+Rowing,men's quadruple sculls,Rowing,Rowing,ROW,default
+Athletics,"athletics men's shot put, both hands",Athletics,Athletics,ATH,single_disc
+Sailing,sailing mixed 12 metres,Sailing,Sailing,SAL,single_disc
+Shooting,"shooting men's running target, double shot, team",Shooting,Shooting,SHO,single_disc
+Sailing,sailing mixed 10 metres,Sailing,Sailing,SAL,single_disc
+Athletics,"athletics men's javelin throw, both hands",Athletics,Athletics,ATH,single_disc
+Gymnastics,gymnastics men's side horse,Gymnastics,Artistic,GAR,default
+Sailing,sailing mixed open,Sailing,Sailing,SAL,single_disc
+Fencing,"fencing men's epee, masters, individual",Fencing,Fencing,FEN,single_disc
+Cricket,cricket men's cricket,Cricket,Cricket,CKT,single_disc
+Archery,archery men's continental style,Archery,Archery,ARC,single_disc
+Sailing,sailing mixed 0.5-1 ton,Sailing,Sailing,SAL,single_disc
+Croquet,"croquet mixed singles, one ball",Croquet,Croquet,CQT,single_disc
+Croquet,croquet mixed doubles,Croquet,Croquet,CQT,single_disc
+Cycling,cycling men's 25 kilometres,Cycling,Track,CTR,keyword
+Sailing,sailing mixed 1-2 ton,Sailing,Sailing,SAL,single_disc
+Archery,archery men's double york round,Archery,Archery,ARC,single_disc
+Swimming,swimming men's 200 metres team swimming,Aquatics,Swimming,SWM,sub_sport
+Sailing,sailing mixed 10-20 ton,Sailing,Sailing,SAL,single_disc
+Croquet,"croquet mixed singles, two balls",Croquet,Croquet,CQT,single_disc
+Sailing,sailing mixed 2-3 ton,Sailing,Sailing,SAL,single_disc
+Shooting,"shooting men's small-bore rifle, 50 and 100 yards, team",Shooting,Shooting,SHO,single_disc
+Athletics,"athletics men's 3 mile, team",Athletics,Athletics,ATH,single_disc
+Sailing,sailing mixed 0-0.5 ton,Sailing,Sailing,SAL,single_disc
+Art Competitions,"art competitions mixed music, compositions for solo or chorus",,EXCLUDED,,excluded
+Athletics,athletics men's 200 metres hurdles,Athletics,Athletics,ATH,single_disc
+Athletics,"athletics men's 4 mile, team",Athletics,Athletics,ATH,single_disc
+Sailing,sailing mixed 20+ ton,Sailing,Sailing,SAL,single_disc
+Shooting,"shooting men's dueling pistol, 30 metres, team",Shooting,Shooting,SHO,single_disc
+Tennis,"tennis men's doubles, covered courts",Tennis,Tennis,TEN,single_disc
+Sailing,sailing mixed 3-10 ton,Sailing,Sailing,SAL,single_disc
+Sailing,sailing mixed 6.5 metres,Sailing,Sailing,SAL,single_disc
+Art Competitions,"art competitions mixed literature, dramatic works",,EXCLUDED,,excluded
+Motorboating,motorboating mixed a-class (open),,EXCLUDED,,excluded
+"Cycling Road, Cycling Track",women's team pursuit,Cycling,Road,CRD,sub_sport
+Archery,archery women's double national round,Archery,Archery,ARC,single_disc
+Racquets,racquets men's singles,Rackets,Rackets,RQT,single_disc
+Racquets,racquets men's doubles,Rackets,Rackets,RQT,single_disc
+Jeu De Paume,jeu de paume men's singles,Jeu de Paume,Jeu de Paume,??0,single_disc
+Sailing,sailing mixed 7 metres,Sailing,Sailing,SAL,single_disc
+Figure Skating,figure skating men's special figures,,EXCLUDED,,excluded
+Athletics,"athletics men's 2,590 metres steeplechase",Athletics,Athletics,ATH,single_disc
+Wrestling,"wrestling men's unlimited class, greco-roman",Wrestling,Greco-Roman,WRG,keyword
+Motorboating,motorboating mixed b-class (under 60 feet),,EXCLUDED,,excluded
+Motorboating,motorboating mixed c-class,,EXCLUDED,,excluded
+Art Competitions,"art competitions mixed sculpturing, reliefs",,EXCLUDED,,excluded
+Figure Skating,figure skating women's singles,,EXCLUDED,,excluded
+Sailing,sailing mixed 18 foot,Sailing,Sailing,SAL,single_disc
+Athletics,athletics men's all-around championship,Athletics,Athletics,ATH,single_disc
+Shooting,"shooting men's small-bore rifle, disappearing target, 25 metres, team",Shooting,Shooting,SHO,single_disc
+"Cycling Road, Cycling Mountain Bike",men's road race,Cycling,Road,CRD,sub_sport
+"Cycling Road, Cycling Mountain Bike",men's cross-country,Cycling,Road,CRD,sub_sport
+Gymnastics,"gymnastics men's parallel bars, teams",Gymnastics,Artistic,GAR,default
+Gymnastics,"gymnastics men's horizontal bar, teams",Gymnastics,Artistic,GAR,default
+Swimming,swimming men's 100 yard backstroke,Aquatics,Swimming,SWM,sub_sport
+Swimming,swimming men's 440 yard breaststroke,Aquatics,Swimming,SWM,sub_sport
+Weightlifting,weightlifting men's all-around dumbbell contest,Weightlifting,Weightlifting,WLF,single_disc
+Alpinism,alpinism mixed alpinism,,EXCLUDED,,excluded
+Athletics,athletics men's standing triple jump,Athletics,Athletics,ATH,single_disc
+"Marathon Swimming, Swimming",women's 400m freestyle,Aquatics,Marathon Swimming,OWS,sub_sport
+Swimming,swimming men's 100 metres freestyle for sailors,Aquatics,Swimming,SWM,sub_sport
+Gymnastics,gymnastics men's tumbling,Gymnastics,Artistic,GAR,default
+Swimming,swimming men's 50 yard freestyle,Aquatics,Swimming,SWM,sub_sport
+Swimming,swimming men's 100 yard freestyle,Aquatics,Swimming,SWM,sub_sport
+"Cycling Road, Cycling Mountain Bike",women's road race,Cycling,Road,CRD,sub_sport
+"Cycling Road, Cycling Mountain Bike",women's cross-country,Cycling,Road,CRD,sub_sport
+Cycling,cycling men's 1/4 mile,Cycling,Track,CTR,keyword
+"Cycling Road, Cycling Track",women's madison,Cycling,Road,CRD,sub_sport
+"Cycling Road, Cycling Track",men's omnium,Cycling,Road,CRD,sub_sport
+"Cycling Road, Cycling Track",men's individual time trial,Cycling,Road,CRD,sub_sport
+Gymnastics,gymnastics men's club swinging,Gymnastics,Artistic,GAR,default
+Sailing,sailing mixed 12 foot,Sailing,Sailing,SAL,single_disc
+Archery,archery men's unknown event,Archery,Archery,ARC,single_disc
+"Cycling Road, Cycling Track",women's keirin,Cycling,Road,CRD,sub_sport
+"Cycling Road, Cycling Track",women's sprint,Cycling,Road,CRD,sub_sport
+Aeronautics,aeronautics mixed aeronautics,,EXCLUDED,,excluded
+Triathlon,mixed relay,Triathlon,Triathlon,TRI,single_disc
+Sailing,sailing mixed 40 metres,Sailing,Sailing,SAL,single_disc
+Sailing,sailing mixed 30 metres,Sailing,Sailing,SAL,single_disc
+Swimming,swimming men's 4 x 50 yard freestyle relay,Aquatics,Swimming,SWM,sub_sport
+Swimming,swimming men's plunge for distance,Aquatics,Swimming,SWM,sub_sport
+Cycling,cycling men's 1/2 mile,Cycling,Track,CTR,keyword
+Cycling,cycling men's 5 mile,Cycling,Track,CTR,keyword
+Cycling,cycling men's 25 mile,Cycling,Track,CTR,keyword
+Cycling,cycling men's 1/3 mile,Cycling,Track,CTR,keyword
+Cycling,cycling men's 1 mile,Cycling,Track,CTR,keyword
+Cycling,cycling men's 2 mile,Cycling,Track,CTR,keyword
+Roque,roque men's singles,Roque,Roque,??0,single_disc
+Archery,archery men's double american round,Archery,Archery,ARC,single_disc
+Archery,archery men's team round,Archery,Archery,ARC,single_disc
+Golf,golf men's team,Golf,Golf,GLF,single_disc
+Archery,archery women's double columbia round,Archery,Archery,ARC,single_disc
+Gymnastics,"gymnastics men's individual all-around, 4 events",Gymnastics,Artistic,GAR,default
+Fencing,"fencing men's single sticks, individual",Fencing,Fencing,FEN,single_disc
+Archery,archery women's team round,Archery,Archery,ARC,single_disc
+"Cycling Road, Triathlon",women's individual time trial,Cycling,Road,CRD,sub_sport
+"Cycling Road, Triathlon",women's individual,Cycling,Road,CRD,sub_sport
+"Marathon Swimming, Swimming",women's 400m individual medley,Aquatics,Marathon Swimming,OWS,sub_sport
